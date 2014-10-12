@@ -1,0 +1,21 @@
+body {
+    background-color: #000
+
+}
+p, li {
+    font-family: monospace;
+    color: #cccccc;
+    width: 75%;
+    margin-left:15%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: monospace;
+    color: #00ff00;
+    width: 75%;
+    margin-left: 10%;
+}
+a {
+    color: #0bc;
+    text-decoration: none;
+}
