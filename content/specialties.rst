@@ -61,4 +61,8 @@ Fun facts like ``/lastlog`` are instant social karma. Add troubleshooting
 skills for Irssi, Weechat, or ZNC, then voluntarily help others, and suddenly
 you're viewed as a bit of a wizard.
 
+Continuous Integration
+----------------------
 
+If Jenkins or even Travis likes you, you'll always be in demand by those
+trying to set them up for the first time.
