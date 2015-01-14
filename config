@@ -1,4 +1,0 @@
-site_title: edunham 
-author: edunham
-url_pattern: "/{category}/{slug}{page}/index.{ext}"
-url_include_index: no
