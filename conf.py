@@ -8,10 +8,10 @@ import tinkerer.paths
 # **************************************************************
 
 # Change this to the name of your blog
-project = 'edunham.net'
+project = 'edunham'
 
 # Change this to the tagline of your blog
-tagline = 'better at coding than making up taglines'
+tagline = 'Free & Open-source Student Sysadmin'
 
 # Change this to the description of your blog
 description = 'Just Open-Sourcey Things'

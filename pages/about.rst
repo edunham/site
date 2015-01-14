@@ -2,7 +2,7 @@ About
 =====
 
 I'm a `FOSS <http://en.wikipedia.org/wiki/Free_and_open-source_software>`_
-user and nerd who's currently finishing up a Computer Science degree. 
+addict who's currently finishing up a Computer Science degree. 
 
 `FIRST <http://www3.usfirst.org/>`_ got me into robotics and programming back
 in 2006, and I've been an amateur electrical and mechanical engineer ever
