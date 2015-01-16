@@ -42,8 +42,9 @@ My Tinkerer post disappeared!
 -----------------------------
 
 If your Tinkerer post is missing, make sure you didn't make the same mistake I
-did by renaming it incompletely. **If you move the source file, you have to
-update the toctree too**. Sphinx is just doing its job. 
+did by forgetting to update the name in ``master.rst``. **If you move the
+source file, you have to update the toctree too**. Sphinx is just doing its
+job. 
 
 Yes, this section is redundant, but I wanted to make sure this post includes
 the same phrases I googled when wondering what was going on. It's such an
