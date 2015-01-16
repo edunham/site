@@ -10,6 +10,8 @@ floating-point computation, no single tutorial on the web answers all the
 strange assortment of introductory and advanced questions that my classmates
 and I are running into. 
 
+.. more::
+
 Here's what I've learned so far:
 
 * Remember PEMDAS_. The quickest way to construct an expression tree for a
