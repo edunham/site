@@ -93,6 +93,58 @@ Here's what I've learned so far:
   harmless for addition and multiplication, but would break everything if it
   occurred with subtraction or division.
 
+* There are two ways to do recursion in gforth. If you say ``recursive`` after
+  the name of the word you're creating, you are able to call the word by name
+  in its definition. Alternately, you can say ``recurse`` instead of the name
+  of the word whenever you need to call it from within itself. 
+
+  Since both fibonacci and factorial are used in the homework, I'll use
+  a function that sums from 0 to the argument as an example. In Python, it'd
+  look like::
+    
+    def sum(i):
+        if (i == 0):
+            return 0
+        return i + sum(i-1)
+
+  Using forth's ``recursive`` command, it'll look like::
+
+    : sum recursive
+    dup 
+        ( top copy of the argument will get destroyed by comparison )
+    0=  
+        ( take argument off the stack, replace it with true or false )
+    if
+        ( we'll only take this branch if the argument was == 0 )
+        exit
+    else
+        ( we have i on the stack, need to return i + the sum )
+        dup
+            ( extra copy, keep an i for adding later )
+        1-
+            ( decrement, now stack has i-1 on top to be the arg to next call )
+        sum
+            ( recursively call with that i-1 we made )
+        +
+            ( yay postfix! )
+    endif ;
+
+  If we don't use ``recursive``, it looks almost identical except for the
+  actual recursive call::
+
+    : othersum 
+    dup 
+    0=  
+    if
+        exit
+    else
+        dup
+        1-
+        recurse 
+            ( does exactly the same thing as the call to sum )
+        +
+    endif ;
+
 
 .. _assignment: http://classes.engr.oregonstate.edu/eecs/winter2015/cs480/assignments/MilestoneI.htm
 .. _PEMDAS: http://www.mathsisfun.com/operation-order-pemdas.html
