@@ -145,11 +145,29 @@ Here's what I've learned so far:
         +
     endif ;
 
+  So testing them out will look something like this::
+
+    3 sum 
+    . 6  ok
+    4 sum 
+    . 10  ok
+
+    3 othersum 
+    . 6  ok
+    4 othersum 
+    . 10  ok
+
+Was this helpful? Did I miss anything? For feedback, go find my email address
+on my github_ profile and send me your thoughts! (I might set up comments or a
+reasonably bot-resistant email address disclosure here someday, but for now,
+I hope the simple IQ test of clicking an extra link is enough to weed out
+spammers).
 
 .. _assignment: http://classes.engr.oregonstate.edu/eecs/winter2015/cs480/assignments/MilestoneI.htm
 .. _PEMDAS: http://www.mathsisfun.com/operation-order-pemdas.html
 .. _operators: http://galileo.phys.virginia.edu/classes/551.jvn.fall01/primer.htm#fp
 .. _introduction: http://www.forth.com/starting-forth/sf1/sf1.html
+.. _github: https://github.com/edunham
 
 .. author:: default
 .. categories:: none
