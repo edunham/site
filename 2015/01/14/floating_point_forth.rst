@@ -54,6 +54,7 @@ Here's what I've learned so far:
   as the integer operator, but prefaced with an f. 
 
 .. code:: 
+
             F@      ( adr --)       ( f: -- x)
             F!      ( adr --)       ( f: x --)
             F+                      ( f: x y -- x+y)
