@@ -39,6 +39,50 @@ and foster the project culture that you're looking for.
 * Setting up a toy network
 * Writing bots
 
+Usenix LISA
+-----------
+
+`CFP <https://www.usenix.org/conference/lisa15>`_ open till APRIL 17th
+
+conference occurrs November 8-13
+
+apply with dobc talk?
+
+LCA 2016
+--------
+
+`site <http://lcabythebay.org.au/>`_ 
+
+CFP not open yet
+
+SeaGL
+-----
+
+Might be in October? CFP not open yet. site might be updated around June-ish?
+
+OSBridge
+--------
+
+CFP open till March 7th
+
+Conference June 23-26
+
+PyCon 2016
+----------
+
+in pdx
+???????
+
+OSCON 2015
+----------
+
+July 20-24 2015
+CFP closes Feb 2
+
+Do leadership handoff talk with Eli, Community Management on IRC, Why's My
+Algo Slow
+
+
 
 
 .. author:: default
