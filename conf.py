@@ -23,7 +23,7 @@ author = 'E. Dunham'
 copyright = '2015, ' + author
 
 # Change this to your blog root URL (required for RSS feed)
-website = 'http://edunham.net/blog/html/'
+website = 'http://edunham.net/'
 
 # **************************************************************
 # More tweaks you can do
