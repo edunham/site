@@ -1,17 +1,22 @@
 Those funny characters in Vim
 =============================
 
-.. figure:: _static/vim_encoding.png
+.. figure:: /_static/vim_encoding.png
 
 I copied and pasted some of the lines from a PDF, and now I have a problem
 which is nearly impossible to Google.
 
 .. more:: 
 
-:: 
+The first potential fix is to set the encoding so it tries to display the
+characters::
+
     :e ++enc=utf-8
 
-.. figure:: _static/vim_utf8.png
+And it kind of works:
+
+
+.. figure:: /_static/vim_utf8.png
 
 Better. When I re-open the file with the encoding set correctly, my red bar in
 the 80th character column is one piece instead of being broken by the
@@ -25,7 +30,7 @@ To find the problem character's value, place the cursor on it and use ``ga``.
 According to the `vimdoc`_, you can also use ``:ascii``, which might be easier
 to remember.
 
-.. figure:: _static/vim_ga.png
+.. figure:: /_static/vim_ga.png
 
 This tells me that the problem character has hex value ``bf``. 
 
