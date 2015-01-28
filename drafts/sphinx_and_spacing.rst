@@ -44,6 +44,31 @@ You'll get this error::
 
     WARNING: toctree contains reference to nonexisting document u':maxdepth: 2'
 
+Code blocks not displaying?
+---------------------------
+
+There needs to be a blank line between the ``::`` and the first, indented,
+line of code. 
+
+Tinkerer-Specific
+=================
+
+Images not showing up
+---------------------
+
+When it writes out the path to your image instead of showing the image, make
+sure the path started with a ``/``. 
+
+Going::
+
+    .. figure:: _static/pic.jpg
+
+will cause it to look **locally** for your post, as in
+``YYYY/MM/DD/_static/pic.jpg``. If you want it to look the ``_static``
+directory in the root of the site, you need::
+
+    .. figure:: /_static/pic.jpg
+
 
 
 
