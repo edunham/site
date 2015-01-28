@@ -1,6 +1,4 @@
-{{ title }}
-{% for _ in title %}={% endfor %}
-
-{{ content }}
+{% extends "!page.html" %}
 
 {% set script_files = script_files + ["_static/google_analytics.js"] %}
+
