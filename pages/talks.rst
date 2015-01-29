@@ -12,9 +12,12 @@ Seattle Gnu/Linux Conference
 * 10/24/2014 - 10/25/2014, Videos and slide decks for each talk are available
   on their Lanyrd pages, linked below:
 
-  * `Human Hacking <http://lanyrd.com/2014/seagl/sdfggm/>`_
-  * `Intermediate IRC <http://lanyrd.com/2014/seagl/sdfgfc/>`_
-  * `Thinking in Git <http://lanyrd.com/2014/seagl/sdfgdb/>`_
+  * `Human Hacking <http://lanyrd.com/2014/seagl/sdfggm/>`_ (`slides
+    <http://talks.edunham.net/seagl2014/humanhacking/>`_)
+  * `Intermediate IRC <http://lanyrd.com/2014/seagl/sdfgfc/>`_ (`slides
+    <http://talks.edunham.net/seagl2014/intermediateirc/>`_)
+  * `Thinking in Git <http://lanyrd.com/2014/seagl/sdfgdb/>`_ (`slides
+    <http://talks.edunham.net/seagl2014/thinkingingit/>`_)
 
 O'Reilly OSCON
 --------------
@@ -33,13 +36,14 @@ O'Reilly OSCON
 Portland State Univerity Association for Computing Machinery
 ------------------------------------------------------------
 
-* 5/16/2014, `Git workshop <http://acm.pdx.edu/event.php?event=49>`_
+* 5/16/2014, `Git workshop <http://acm.pdx.edu/event.php?event=49>`_ ()
 
 
 LinuxFest Northwest
 -------------------
 
-* 4/27/2014, `Teaching DevOps to University Students <http://2014.linuxfestnorthwest.org/2014/sessions/teaching-devops-university-students>`_
+* 4/27/2014, `Teaching DevOps to University Students <http://2014.linuxfestnorthwest.org/2014/sessions/teaching-devops-university-students>`_ 
+  (`slides <http://talks.edunham.net/linuxfestnorthwest2014/devopsbootcamp/>`_)
 
 ..  Emily is a fourth-year Computer Science student at Oregon State
     University. She's president of the OSU Linux Users Group, founder of the
@@ -53,4 +57,6 @@ LinuxFest Northwest
 OSU Linux Users Group
 ---------------------
 
+* 4/22/2014, `Security <http://lug.oregonstate.edu/events/meeting20140422/>`_
+  (`slides <http://talks.edunham.net/OSULUG/security/>`_
 * 10/22/2013, `Intermediate IRC <http://lug.oregonstate.edu/events/meeting20131022/>`_
