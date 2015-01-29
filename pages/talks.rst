@@ -59,4 +59,4 @@ OSU Linux Users Group
 
 * 4/22/2014, `Security <http://lug.oregonstate.edu/events/meeting20140422/>`_
   (`slides <http://talks.edunham.net/OSULUG/security/>`_
-* 10/22/2013, `Intermediate IRC <http://lug.oregonstate.edu/events/meeting20131022/>`_
+* 10/22/2013, `Intermediate IRC <http://lug.oregonstate.edu/events/meeting20131022/>`_)
