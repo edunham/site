@@ -36,7 +36,7 @@ O'Reilly OSCON
 Portland State Univerity Association for Computing Machinery
 ------------------------------------------------------------
 
-* 5/16/2014, `Git workshop <http://acm.pdx.edu/event.php?event=49>`_ ()
+* 5/16/2014, `Git workshop <http://acm.pdx.edu/event.php?event=49>`_ 
 
 
 LinuxFest Northwest
