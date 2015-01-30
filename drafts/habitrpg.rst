@@ -32,6 +32,10 @@ and satisfied my vague desire for quantified/gamified reality.
 Positive Tasks
 --------------
 
+i personally find it easier to be accountable on tasks that're either
+postitive, or super concrete.like if i had a "don't eat junk food" i'd totally
+ignore it, but "don't make impulse purchases on amazon" is ok
+
 Good recurrence model
 ---------------------
 
@@ -73,6 +77,20 @@ it's a low-guilt game to play when procrastinating, so it circumvents that
 hiding from homework thing. google keep is totally passive and i rarely
 remember it when bored; google tasks show up in email ie right when i'm
 already trying to do something useful and don't have free cycles. good mix.
+
+Emergent Weighting
+------------------
+
+i find that when i have a certain thing i need to do, the worse it seems the
+more little tasks i'll break it into, and when i'm looking at my todo list,
+i'll look for the most todos i can complete by only actually spending time on
+one task.
+
+
+Improvements?
+-------------
+
+* publish gold value on the task
 
 
 .. _HabitRPG: http://habitrpg.com/
