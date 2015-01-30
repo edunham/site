@@ -228,5 +228,5 @@ When I pass the -F flag, it gets as far as a signature mismatch::
 
 .. author:: default
 .. categories:: none
-.. tags:: none
+.. tags:: school, arduino, ece375, incomplete, avrdude, troubleshooting 
 .. comments::

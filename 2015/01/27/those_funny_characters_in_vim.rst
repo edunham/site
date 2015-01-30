@@ -46,5 +46,5 @@ from which I pasted them.
 
 .. author:: default
 .. categories:: none
-.. tags:: none
+.. tags:: vim, troubleshooting
 .. comments::

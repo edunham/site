@@ -67,5 +67,5 @@ calendars, be sure you provide the date, start and end times, and location.
 
 .. author:: default
 .. categories:: none
-.. tags:: none
+.. tags:: foss, psychology 
 .. comments::

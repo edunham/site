@@ -55,5 +55,5 @@ that was obvious!", and then not written anything down.
 
 .. author:: default
 .. categories:: none
-.. tags:: none
+.. tags:: tinkerer, troubleshooting 
 .. comments::

@@ -144,5 +144,5 @@ in the process.
 
 .. author:: default
 .. categories:: none
-.. tags:: none
+.. tags:: vim, troubleshooting, solved
 .. comments::

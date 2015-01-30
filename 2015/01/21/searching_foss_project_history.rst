@@ -125,7 +125,8 @@ about the project, if those are available.
 .. _GitHub issue tracker: https://github.com/mozilla-services/heka/issues
 .. _mailing list archives: https://mail.mozilla.org/pipermail/heka/ 
 .. _heka docs: https://hekad.readthedocs.org/en/v0.8.2/index.html
+
 .. author:: default
 .. categories:: none
-.. tags:: none
+.. tags:: school, foss, seniorproject2014
 .. comments::
