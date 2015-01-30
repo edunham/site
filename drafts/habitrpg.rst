@@ -29,9 +29,50 @@ that point, Ingress was my "I need to touch my phone a lot" game of choice,
 and satisfied my vague desire for quantified/gamified reality. 
 
 
+Positive Tasks
+--------------
+
+Good recurrence model
+---------------------
+
+paper checklists/calendars get lost and provide little motivation to repeat to
+them
+
+concrete-er rewards for streaks [link to that thing about Xs on calendar]
 
 
+Partying
+--------
 
+* honesty
+* accountability
+* embarrassing to level too fast
+
+Complexity
+----------
+
+I like studying game mechanics, what can i say
+
+Moderation
+----------
+
+sometimes a task will make me feel really productive and so i'll do it a lot
+when there are higher-priority things. it's bad game mechanic-ing to repeat a
+blue item too often so it helps moderate me. 
+
+Notes-To-Self
+-------------
+
+todos are just actionable notes; being in with the positive/fun/repeatable
+stuff makes them more persistant
+
+Timing
+------
+
+it's a low-guilt game to play when procrastinating, so it circumvents that
+hiding from homework thing. google keep is totally passive and i rarely
+remember it when bored; google tasks show up in email ie right when i'm
+already trying to do something useful and don't have free cycles. good mix.
 
 
 .. _HabitRPG: http://habitrpg.com/
