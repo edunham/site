@@ -132,10 +132,18 @@ Its final form actually lives in my ``~/.bashrc``::
     alias list='vim "+normal G$" +startinsert /absolute/path/to/list.txt'
 
 2 hours saving 10 seconds per file open twice a day is an egregious violation
-of the `xkcd rule`_, but it was fun and I learne da lot about Vim automation
+of the `xkcd rule`_, but it was fun and I learned a lot about Vim automation
 in the process.
 
+**Update:** `Mythmon`_ pointed out that the command can be golfed into::
 
+    vim '+ normal GA' foo.txt
+
+or to put yourself in insert mode in a new line at the end of the file::
+
+    vim '+normal Go' foo.txt
+
+.. _Mythmon: http://www.mythmon.com/
 .. _xkcd rule: http://xkcd.com/1205/
 .. _looking up: http://stackoverflow.com/questions/11587124/vim-why-doesnt-normal-i-enter-insert-mode
 .. _Autocommands: http://learnvimscriptthehardway.stevelosh.com/chapters/12.html
