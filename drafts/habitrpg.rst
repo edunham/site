@@ -1,10 +1,10 @@
 Gamifying Adulthood with HabitRPG
 =================================
 
-After creating an account and abandoning it some time before August 2014
-(since I have points for owning an account during a `boss quest`_ at that
-time), I have returned to `HabitRPG`_. Here's a quick examination of why I
-think I left and then came back. 
+After creating an account and abandoning it some time before December 2013
+(since I have never yet subscribed and yet had a `Trapper Santa`_ scroll in my
+inventory), I have returned to `HabitRPG`_. Here's a quick examination of why
+I think I left and then came back. 
 
 .. more:: 
 
@@ -155,7 +155,8 @@ Improvements?
 .. _the wiki:  
 .. _dominus: http://www.dominusgame.net/
 .. _HabitRPG: http://habitrpg.com/
-.. _boss quest: http://habitrpg.wikia.com/wiki/The_Dread_Drag%27on_of_Dilatory
+.. _Trapper Santa: http://habitrpg.wikia.com/wiki/Trapper_Santa
+
 .. author:: default
 .. categories:: none
 .. tags:: none
