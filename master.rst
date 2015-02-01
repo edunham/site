@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2015/01/31/arbitrary_python_versions_on_flip
    2015/01/29/vim_open_file_with_cursor_at_the_end
    2015/01/28/what_makes_a_good_post
    2015/01/27/those_funny_characters_in_vim
