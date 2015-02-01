@@ -50,7 +50,11 @@ f = open('master.rst', 'w')
 f.write(preamble)
 for p in posts:
     f.write('    ' + p + '\n')
-for page in sorted(os.listdir('pages')):
+
+# For ordinary page titles, use the line below
+# for page in sorted(os.listdir('pages')):
+# OR for pages prefaced with a 2-digit number to indicate order, use this:
+for page in sorted(os.listdir('pages'), key=lambda p: int(p[:2])):
     f.write('    pages/' + page[:-4] + '\n')
 f.close()
 
