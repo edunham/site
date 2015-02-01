@@ -41,7 +41,10 @@ for y in years:
 
 posts = sorted(posts, key=lambda p: int(p[:4] + p[5:7] + p[8:10]), reverse=True)
 
-os.remove('master.rst')
+try:
+    os.remove('master.rst')
+except OSError:
+    pass
 f = open('master.rst', 'w')
 
 f.write(preamble)
