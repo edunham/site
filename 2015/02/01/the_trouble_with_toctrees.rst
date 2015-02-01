@@ -31,12 +31,15 @@ line to the chain of tools which constitutes my "push button, get website
 update" command, and will save me many cumulative hours of annoyance and
 troubleshooting over the lifetime of my blog. 
 
-The tradeoff which I've made by deploying this script is that I lose a bit of
-customization potential. My posts will now always be displayed with the most
-recent first, and my pages in the sidebar will always be displayed in
-alphabetical order. For my use case, this is a negligible price to pay for the
-privilege of not feeling stupid for forgetting to add an unrelated file every
-time I push a blog update.
+Since automatic sorting would always put my pages into alphabetical order,
+I've solved the problem before it occurrs by renaming my pages into the form
+``01about.rst``, and configuring the script to sort them by casting the first
+2 characters of the page name to an int. 
+
+For my use case, remembering to preface my few pages' filenames with the place
+in the list where they belong is a small price to pay for privilege of not
+feeling stupid due to forgetting to add an unrelated file every time I push a
+blog update.
 
 .. _quick and dirty Python script: https://github.com/edunham/site/blob/master/build.py
 .. _I: https://github.com/edunham/site/commit/2d9f1115d63c7dde161278da692822d0183c3766
