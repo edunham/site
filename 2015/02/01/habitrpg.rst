@@ -200,5 +200,5 @@ of the task.
 
 .. author:: default
 .. categories:: none
-.. tags:: none
+.. tags:: habitrpg
 .. comments::
