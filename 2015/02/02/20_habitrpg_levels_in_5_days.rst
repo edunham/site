@@ -35,6 +35,19 @@ its title.
 
 4) PROFIT!!
 
+This is also really broken in the amount of damage it does against bosses.  I
+was cleaning my room yesterday with the checklist method and ticked maybe 20
+HabitRPG checkboxes (emptied and discarded about 4 largeish cardboard boxes
+and 2 garbage bags of stuff I no longer need, so I don't think I'm unfairly
+inflating points here), and look at this:
+
+.. figure:: /_static/132dmg.png
+    :align: center
+
+That's, like, a lot of damage to the boss. The calculator I used was `this
+awesome site`_, in case you haven't discovered it yet. 
+
+.. _this awesome site: https://oldgods.net/habitrpg/habitrpg_user_data_display.html
 .. _XP: http://habitrpg.wikia.com/wiki/Experience_Points
 .. author:: default
 .. categories:: none
