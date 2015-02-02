@@ -85,74 +85,115 @@ of "do it eventually" tasks getting totally forgotten, I don't find HabitRPG
 to match Google Calendar's ability to make me do an important, time-sensitive,
 one-off task like attending an appointment.
 
+It's also not your mom. It can't tell if you're lying to it, and makes no
+effort to detect or punish "cheating". While this game is a great way to
+channel a little bit of self-discipline into a lot of results, it cannot
+magically generate discipline and motivation for you if you start out with
+zero.
 
+Personal accountability through positive tasks
+----------------------------------------------
 
-Positive Tasks
---------------
+Part of the fun of this game is the challenge it presents in terms of learning
+to hack your own brain. One thing I've noticed is that I have a much easier
+time being honest on positive tasks than negative ones. For instance, a habit
+of "make a public commit on GitHub" is easy for me to recognize when I've
+fulfilled it, and it keeps the experience of using HabitRPG fun -- I'm
+motivated to open the site and record the action I took, because a good thing
+(XP and gold) will happen when I do. 
 
-i personally find it easier to be accountable on tasks that're either
-postitive, or super concrete.like if i had a "don't eat junk food" i'd totally
-ignore it, but "don't make impulse purchases on amazon" is ok
-
+Conversely, negative tasks are harder to be accountable for because I know
+that nothing good will happen if I bother to go so far out of my way as to
+open a HabitRPG tab and wait for it to load, and maybe if I just go do
+something else I'll accidentally forget to record it, and... you get the idea.
 
 
 Good recurrence model
 ---------------------
 
-paper checklists/calendars get lost and provide little motivation to repeat to
-them
-
-concrete-er rewards for streaks [link to that thing about Xs on calendar]
-
+Daily tasks fill a niche that Google Calendar and paper checklists can't
+handle as well. There are many tasks that need to be done *sometime* every
+day, but it doesn't matter exactly when. It's hard to add something to a
+calendar without picking a particular time slot in advance (then easy to put
+it off till a different day if that time slot gets taken by something
+higher-priority). Paper to-do lists are fine for one-off tasks without a set
+time, but remembering to check a list every day (motivated only by *fear of
+failure*, rather than *hope for reward*) requires more willpower than I usually
+have to spare.  
 
 Partying
 --------
 
-* honesty
-* accountability
-* embarrassing to level too fast
+Getting together with friends to form a party and fight monsters is
+delightfully entertaining, and provides an element of reality to the game.
+Now, if I skip a daily task, it's not only hurting me but it's harming the
+cute little avatars of people I care about as well. 
+
+It's also an incentive against cheating, since it'll be obvious to everyone
+you're with if you level too fast. (Though "too fast" is quite relative -- a
+min/maxed Rogue between levels 10 and 20, in the hands of a checklist fanatic,
+can gain 2 or 3 levels on a productive day.) 
 
 Complexity
 ----------
 
-I like studying game mechanics, what can i say
+One trait of Minecraft which addicted me to the game was its complexity -- a
+player who's read the entire wiki and memorized a lot of recipes and facts
+about the game can do interesting tricks which amaze less educated players,
+and enjoy teaching their friends. I feel like so far, the subtleties of
+HabitRPG's game mechanics are hitting a similar sweet spot between being easy
+to start and difficult to master. 
 
 Moderation
 ----------
 
-sometimes a task will make me feel really productive and so i'll do it a lot
-when there are higher-priority things. it's bad game mechanic-ing to repeat a
-blue item too often so it helps moderate me. 
+Sometimes I'll get going on a project or task which makes me feel productive
+and then repeat it, when another less-satisfying task is more important to do
+at that particular time. Habits in HabitRPG fight this tendency by
+implementing a rule of diminishing returns: The more often you've done a
+particular habit, the less gold and XP you'll get each time you engage in it.
 
 Notes-To-Self
 -------------
 
-todos are just actionable notes; being in with the positive/fun/repeatable
-stuff makes them more persistant
+I used to jot down ideas of things to try someday in a notebook; then I went
+through a phase of jotting them down in a git repository; then upon acquiring
+a smartphone I had moderate success with Google Keep. The problem with all of
+those media was that my cool ideas would get lost in them -- at times of
+boredom, I'd forget that my lists were out there. 
 
-Timing
-------
+Now, I'm throwing such ideas onto my to-do list in HabitRPG and they gradually
+percolate up into being the least onerous challenge available. 
 
-it's a low-guilt game to play when procrastinating, so it circumvents that
-hiding from homework thing. google keep is totally passive and i rarely
-remember it when bored; google tasks show up in email ie right when i'm
-already trying to do something useful and don't have free cycles. good mix.
+Since HabitRPG is a low-guilt site to check when I'm procrastinating on more
+useful things, it tend to remind me of my "that might be neat" ideas right
+when I have free cycles to actually do something about them. At the opposite
+extreme, Google Tasks puts a little list in my inbox and reminds me of things
+to do when I'm trying to compose email, and have the least free time right
+then. 
 
-Emergent Weighting
-------------------
+Emergent Task Weighting
+-----------------------
 
-i find that when i have a certain thing i need to do, the worse it seems the
-more little tasks i'll break it into, and when i'm looking at my todo list,
-i'll look for the most todos i can complete by only actually spending time on
-one task.
+I've noticed a tendency to throw the same unpleasant task into my to-do queue
+multiple times. or break it down into increasingly longer checklists in order
+to procrastinate on actually accomplishing it. In a classic to-do list this
+would just cause me to experience more guilt and fear about the task, but in
+HabitRPG, it slowly increases the amount of gold and XP that the task will be
+worth when I finally get it done and check off all of the associated items. 
 
+Although some perfectionists might consider multiple occurrences of a task in
+the to-do list to be cheating, I find that letting them pile up is a powerful
+technique for convincing myself to finally get it over with and do the task. 
 
-Improvements?
--------------
+Improvements
+------------
 
-* publish gold value on the task
+The only tweak that I can think of right now to improve HabitRPG would be to
+publish the gold, XP, and mana values for each task's completion on the title
+of the task. 
 
-.. _the wiki:  
+.. _the wiki: http://habitrpg.wikia.com/
 .. _dominus: http://www.dominusgame.net/
 .. _HabitRPG: http://habitrpg.com/
 .. _Trapper Santa: http://habitrpg.wikia.com/wiki/Trapper_Santa
