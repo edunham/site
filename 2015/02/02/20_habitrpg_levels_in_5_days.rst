@@ -1,7 +1,8 @@
 20 HabitRPG levels in 5 days
 ============================
 
-I've been having `fun with HabitRPG`_ lately, and discovered this One Neat Trick: 
+I've been having `fun with HabitRPG`_ lately, and discovered this One Neat
+Trick: 
 
 Checklists.
 
@@ -41,10 +42,22 @@ inflating points here), and look at this:
 .. figure:: /_static/132dmg.png
     :align: center
 
-That's, like, a lot of damage to the boss. The calculator I used was `this
-awesome site`_, in case you haven't discovered it yet. 
+That's a lot of damage to the boss. The calculator I used was `this awesome
+site`_, in case you haven't discovered it yet. 
 
 
+I'm a rogue, with all my points in INT as per the `guide`_ on the subject! I'm
+not supposed to be able to hit things very hard! Sure, I'm level 25 right now
+with a `perfect day`_ bonus from yesterday, but my stats still aren't too
+great: 
+
+.. figure:: /_static/str46.png
+    :align: center
+
+**tl;dr**: I scored a bunch of points in a silly game and conclucluded that it 
+must be broken.
+
+.. _guide: http://habitrpg.wikia.com/wiki/Merfy%27s_Rogue_guide
 .. _fun with HabitRPG: http://edunham.net/2015/02/01/habitrpg.html
 .. _this awesome site: https://oldgods.net/habitrpg/habitrpg_user_data_display.html
 .. _XP: http://habitrpg.wikia.com/wiki/Experience_Points
