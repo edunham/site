@@ -57,6 +57,7 @@ great:
 **tl;dr**: I scored a bunch of points in a silly game and conclucluded that it 
 must be broken.
 
+.. _perfect day: http://habitrpg.wikia.com/wiki/The_Perfect_Day
 .. _guide: http://habitrpg.wikia.com/wiki/Merfy%27s_Rogue_guide
 .. _fun with HabitRPG: http://edunham.net/2015/02/01/habitrpg.html
 .. _this awesome site: https://oldgods.net/habitrpg/habitrpg_user_data_display.html
