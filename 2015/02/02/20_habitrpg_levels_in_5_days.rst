@@ -1,7 +1,7 @@
 20 HabitRPG levels in 5 days
 ============================
 
-I've been having fun with HabitRPG lately, and discovered this One Neat Trick: 
+I've been having `fun with HabitRPG`_ lately, and discovered this One Neat Trick: 
 
 Checklists.
 
@@ -26,13 +26,10 @@ Annoyingly, the wiki doesn't point out where the relevant algorithm lives in
 the code. I've asked on IRC about how to find it, but for now, just try this: 
 
 1) Make a to-do of a task that you'll have to do today. 
-
 2) Add a checklist to the task, breaking it down into 8 or more necessary
-sub-items. 
-
+   sub-items. 
 3) Accomplish your task, check each item, then check the main checkbox beside
-its title. 
-
+   its title. 
 4) PROFIT!!
 
 This is also really broken in the amount of damage it does against bosses.  I
@@ -47,6 +44,8 @@ inflating points here), and look at this:
 That's, like, a lot of damage to the boss. The calculator I used was `this
 awesome site`_, in case you haven't discovered it yet. 
 
+
+.. _fun with HabitRPG: http://edunham.net/2015/02/01/habitrpg.html
 .. _this awesome site: https://oldgods.net/habitrpg/habitrpg_user_data_display.html
 .. _XP: http://habitrpg.wikia.com/wiki/Experience_Points
 .. author:: default
