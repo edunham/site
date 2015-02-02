@@ -37,7 +37,8 @@ for y in years:
     for p in os.walk(y):
         if p[1] == []:
             # build name, stripping .rst from filename
-            posts.append(p[0]+'/'+p[2][0][:-4])
+            for title in p[2]:
+                posts.append(p[0] + '/' + title[:-4])
 
 posts = sorted(posts, key=lambda p: int(p[:4] + p[5:7] + p[8:10]), reverse=True)
 
