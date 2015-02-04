@@ -56,6 +56,7 @@ type:
   Consistently plus-ing a habit turns it slowly green then blue; consistently
   minus-ing it turns it orange then red. Habits stay in your habit list until
   you delete them, no matter how often they're clicked.
+
     * Positive habits are "good" things and have only a ``+`` button, which you
       click when you do them. For example, "eat a vegetable".
     * Negative habits are things you're trying to avoid doing, and have only a
@@ -64,6 +65,7 @@ type:
       put both buttons on "take the stairs instead of the elevator", and click
       on the ``+`` each time you take the stairs and the ``-`` each time you
       take the lift.
+
 * *Dailies* are things that you want to do once every day, or on certain days
   of the week. Various game mechanics hurt you when you fail to complete all
   your daily tasks, or give you advantages when you complete all of them

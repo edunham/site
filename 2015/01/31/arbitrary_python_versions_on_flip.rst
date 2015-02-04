@@ -43,7 +43,7 @@ It's running CentOS 6.6 and has Python 2.6.6 and Virtualenv 1.10.1 installed::
 need to specify flip{1-3} if you're doing IRC stuff.
 
 Install Python locally
----------------------
+----------------------
 
 On Flip, run the following commands::
 
