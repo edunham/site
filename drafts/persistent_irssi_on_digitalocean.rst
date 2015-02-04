@@ -101,6 +101,9 @@ Teach Irssi to automatically authenticate you
 Teach Irssi to automatically join your networks and channels
 ------------------------------------------------------------
 
+http://irssi.org/beginner/
+/CHANNEL ADD -auto #secret IRCnet password
+
 Ignore unwanted messages
 ------------------------
 
