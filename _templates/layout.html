@@ -1,0 +1,43 @@
+{% extends "!layout.html" %}
+
+{%- block navigation -%}
+    <nav role="navigation">
+        <ul>
+        {%- block quicklinks -%}
+            {%- if rss_in_page_nav -%}
+                <li class="quicklink">{{ rss_link() }}</li>
+            {%- endif -%}
+        {%- endblock -%}
+        {% for page in pages -%}
+            <li class="main-nav">
+            <a href="{{ pathto(page[0]) }}">{{ page[1]|e }}</a>
+            </li>
+        {% endfor -%}
+        <li>
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
+        <img alt="Creative Commons License" style="border-width:0"        
+             src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"/></a>
+        </li>
+        </ul>
+    </nav>
+{%- endblock -%}
+
+{%- block footer -%}
+<footer class="wrapper">
+     {%- if show_copyright -%}
+     {% trans copyright=copyright|e -%}&copy; Copyright {{ copyright }}. {% endtrans -%}
+     {%- endif -%}
+     {%- if show_sphinx -%}
+     Powered by <a href="http://www.tinkerer.me/">Tinkerer</a> and <a
+                   href="http://sphinx.pocoo.org/">Sphinx</a>.
+                   This work by <a xmlns:cc="http://creativecommons.org/ns#"
+                   href="edunham.net" property="cc:attributionName"
+                   rel="cc:attributionURL">E. Dunham</a> is licensed under a
+               <a rel="license"
+                   href="http://creativecommons.org/licenses/by-nc/4.0/">Creative
+                   Commons Attribution-NonCommercial 4.0 International
+                   License</a>.
+     {%- endif -%}
+
+</footer>
+{%- endblock -%}
