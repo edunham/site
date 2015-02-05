@@ -8,8 +8,8 @@ addict who's currently finishing up a Computer Science degree.
 in 2006, and I've been an amateur electrical and mechanical engineer ever
 since. The `LUG <http://lug.oregonstate.edu/>`_ and `Open Source Lab 
 <http://osuosl.org/>`_ started my career in open source software development
-and Linux systems administration in 2010, and I've been involved with both
-ever since.
+and Linux systems administration in 2010, and those topics have since become
+my career.
 
 I will have attended Oregon State University from September 2010 to June 2015.
 In 2011 I spent my summer as a software developer on the Ganeti Web Manager
