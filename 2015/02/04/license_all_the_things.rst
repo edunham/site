@@ -6,6 +6,8 @@ either.
 
 Posting your code publicly doesn't inherently apply a license to it. 
 
+.. more::
+
 Adding a license really isn't hard -- it's just a label that clarifies the
 owner's intent to share it. 
 
