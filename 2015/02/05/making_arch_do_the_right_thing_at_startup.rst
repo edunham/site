@@ -183,5 +183,5 @@ an improvement over my previous process.
 .. _start X at login: https://wiki.archlinux.org/index.php/Start_X_at_login
 .. author:: default
 .. categories:: none
-.. tags:: arch, i3
+.. tags:: arch, i3, terminator, solved
 .. comments::

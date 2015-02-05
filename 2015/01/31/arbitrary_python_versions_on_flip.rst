@@ -121,5 +121,5 @@ For anyone who wants to copy and paste, the commands for installing Python
 .. _Stackoverflow: http://stackoverflow.com/questions/1534210/use-different-python-version-with-virtualenv
 .. author:: default
 .. categories:: none
-.. tags:: school
+.. tags:: school, solved
 .. comments::
