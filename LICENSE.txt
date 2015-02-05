@@ -1,0 +1,9 @@
+This site is generated with Tinkerer, which is distributed under the FreeBSD
+license. https://github.com/vladris/tinkerer/blob/master/LICENSE
+
+The contents of the site are licensed Creative Commons Attribution
+Non-Commercial 4.0. See http://creativecommons.org/licenses/by-nc/4.0/ for the
+human-readable summary. 
+
+If you want to redistribute the site's contents for commercial purposes, such
+as re-blogging on a site with ads, please contact the author for permission.
