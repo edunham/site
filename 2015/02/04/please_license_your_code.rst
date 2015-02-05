@@ -1,5 +1,5 @@
-License All The Things
-======================
+Please License Your Code
+========================
 
 Code without a license isn't `open source`_. It isn't `free software`_,
 either.     
