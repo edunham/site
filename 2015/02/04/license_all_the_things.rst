@@ -51,5 +51,5 @@ internet, saying who they're for.
 
 .. author:: default
 .. categories:: none
-.. tags:: none
+.. tags:: foss 
 .. comments::
