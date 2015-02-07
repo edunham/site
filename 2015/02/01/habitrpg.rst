@@ -191,9 +191,22 @@ technique for convincing myself to finally get it over with and do the task.
 Improvements
 ------------
 
-The only tweak that I can think of right now to improve HabitRPG would be to
-publish the gold, XP, and mana values for each task's completion on the title
-of the task. 
+It would be nice if the interface displayed the gold, XP, and mana values for
+each task's completion on the title of the task. 
+
+The to-do list has a button for moving an item to the top, but no button for
+moving an item to the bottom. Since newly created to-do items default to being
+at the top of the list, it can get tedious trying to keep older and more
+important items near the surface. 
+
+The interface which keeps track of daily tasks defaults to showing all tasks
+(even those which aren't due on the current day), so every time you reload the
+page you have to click "due" to see only the relevant items. It would be nice
+if the interface remembered whether you prefer seeing "due" or "all" items. 
+
+The app lacks a few features which I find essential to normal gameplay, namely
+the ability to show only due dailies, and the ability to allocate points into
+various attributes when you level. 
 
 .. _the wiki: http://habitrpg.wikia.com/
 .. _dominus: http://www.dominusgame.net/
