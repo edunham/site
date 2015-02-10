@@ -12,9 +12,9 @@ finding the administrative password and releasing your message.
 If you're like me, you probably have several email addresses all forwarding
 into a single inbox. 
 
-When a list is set to permit only members to post to it, your message will
-only get through if it happens to be sent from the address with which you're
-subscribed to the list. Gmail, however, isn't quite smart enough to default to
+When a Mailman list is set to permit only members to post to it, your message
+will only get through if it happens to be sent from the address with which
+you're subscribed. Gmail, however, isn't quite smart enough to default to
 sending to a list from the same address at which you usually recieve that
 list's mail. 
 
@@ -40,7 +40,7 @@ Configuration Categories menu. Or just build the URL of the form
 ``lists.domain.tld/mailman/admin/listname/members/add``. 
 
 3) Set the radio buttons to choose Subscribe, No welcome message, and No
-notification of new subscription (to avoid spamming the list owners). Then
+notification of new subscription (to avoid spamming other list owners). Then
 enter the other addresses that you'd like to send mail from, one per line, in
 the box. Submit the changes. 
 
@@ -55,7 +55,8 @@ Non-Admin Technique
 -------------------
 
 1) On the list's info page (``lists.domain.tld/mailman/listinfo/listname``),
-subscribe your alternate address to the list. 
+subscribe your alternate address to the list. (There's also a link in the
+footer of every email sent to the list.)
 
 2) On the list info page, enter your alternate address in the "Unsubscribe or
 Edit Options" box down at the bottom, then enter your list password when
