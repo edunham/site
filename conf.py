@@ -81,7 +81,7 @@ exclude_patterns = ['drafts/*', '_templates/*', 'v/*']
 
 # Add templates to be rendered in sidebar here
 html_sidebars = {
-    '**': ['recent.html', 'searchbox.html', 'tags.html']
+    '**': ['recent.html', 'searchbox.html', 'archive_widget.html', 'tags.html']
 }
 
 # Add an index to the HTML documents.
