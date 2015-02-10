@@ -3,6 +3,7 @@
 {%- block navigation -%}
     <nav role="navigation">
         <ul>
+        <li class="main-nav">{{ rss_link() }}</li>
         {% for page in pages -%}
             <li class="main-nav">
             <a href="{{ pathto(page[0]) }}">{{ page[1]|e }}</a>
@@ -26,7 +27,7 @@
      Powered by <a href="http://www.tinkerer.me/">Tinkerer</a> and <a
                    href="http://sphinx.pocoo.org/">Sphinx</a>.
                    This work by <a xmlns:cc="http://creativecommons.org/ns#"
-                   href="edunham.net" property="cc:attributionName"
+                   href="http://edunham.net" property="cc:attributionName"
                    rel="cc:attributionURL">E. Dunham</a> is licensed under a
                <a rel="license"
                    href="http://creativecommons.org/licenses/by-nc/4.0/">Creative
