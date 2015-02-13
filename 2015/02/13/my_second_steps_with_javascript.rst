@@ -2,12 +2,12 @@ My Second Steps with Javascript
 ===============================
 
 There are many things to hate about Javascript. I'm not a fan of the language,
-and I've been known to laugh at people when they make unqualified claims that'
+and I've been known to laugh at people when they make unqualified claims that
 it's "good". 
 
 However, I sometimes find myself wanting to build toys and share them with
 everyone who has a web browser. Compared to the security and scaling
-implications of making my poor little VPS run a bunch of other peoples' code
+implications of making my poor little VPS run a bunch of other people's code
 for them, Javascript becomes the only viable option. 
 
 .. more::
@@ -17,9 +17,9 @@ Lazy Sysadmin Use Case
 
 Sometimes I have an idea which would fit beautifully into a shell script, and
 is a useful tool or toy that I'd like to share with the world. Unfortunately,
-"the world" consists primarily of people who can't or won't learn and run a
-shell script themselves. The lowest common demoninator in this target audience
-is the ability to use a web browser. 
+"the world" consists primarily of people who can't or won't run a shell script
+themselves. The lowest common demoninator in this target audience is the
+ability to use a web browser. 
 
 One option would be to write the scripts in Bash or Python or PHP and set up
 my web server so that it runs the code for visitors to my site, with whatever
@@ -28,7 +28,7 @@ with this idea are second only to handing over all your banking information to
 a disinherited royal heir. (Sure, some people do the latter `for fun`_, but
 they have a lot more free time than I do.)
 
-There are ways that I could have my server run other peoples' code in a
+There are ways that I could have my server run other people's code in a
 "secure" way, but it's a lot easier to simply automate their browsers to run
 their calculations for them. 
 
@@ -37,7 +37,7 @@ First Project: Novel Word Calculator
 
 For `National Novel Writing Month`_, crazy people like myself attempt to write
 50,000 words in 30 days. We also write a lot of other words, on forums and
-IRC, to encourage one another (and sometimes procrastinate on the 50,000). The
+IRC, to encourage one another and sometimes procrastinate on the 50,000. The
 NaNoWriMo site lets you track your word count over time, but I had some extra
 calculations that I found motivational and wanted to share. 
 
@@ -84,6 +84,6 @@ site), then write up a tutorial. For now, though, `it works okay`_.
 .. _for fun: http://www.419eater.com/
 
 .. author:: default
-.. categories:: none
+.. categories:: javascript, foss 
 .. tags:: none
 .. comments::
