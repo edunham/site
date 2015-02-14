@@ -88,7 +88,7 @@ In the body of the document, I can call each macro wherever it's needed::
                {My Job Title}
                {date - present}
 
-        I did a thing and improved the buzzword by 40\%. 
+        I did a thing and improved the buzzword by 40\%.
 
         Collaborated synergistically with diverse enthusiasm.
 
@@ -96,7 +96,7 @@ In the body of the document, I can call each macro wherever it's needed::
                {Just an Intern}
                {date - date}
 
-        Wrote code and fixed bugs. 
+        Wrote code and fixed bugs.
     \end{description}
     \heading{Education}
     \begin{description}
@@ -112,12 +112,12 @@ In the body of the document, I can call each macro wherever it's needed::
 
 Note that the indentation is decorative, but the blank lines are necessary to
 prevent LaTeX from assuming everything should be one line and wrapping only
-when the line is full. 
+when the line is full.
 
 With macros, LaTeX is actually easy to read! It becomes trivially easy to test
 changes -- "what if I italicized all the job titles?" can be tested with half
 a dozen keystrokes, rather than the clumsily wielded flamethrower of global
-find and replace. 
+find and replace.
 
 .. figure:: /_static/resume_derp.png
     :align: center
@@ -126,29 +126,28 @@ That's what the code in this post looks like when rendered. Lots of
 prettiness, not very much code. `My own résumé`_ is only slightly more complex
 -- most of the extra code is dedicated to shrinking the margins and reducing
 the spacing between lines in order to fit its content correctly onto a single
-page. (A PDF of my résumé is available `here`_). 
+page. (A PDF of my résumé is available `here`_).
 
 More LaTeX Tricks
 -----------------
 
-* To make quotes show up correctly, use ``\`\``` for opening-quotes and
-  ``''`` for closing-quotes. 
+* To make quotes show up correctly, use `````` for opening-quotes and
+  ``''`` for closing-quotes.
 
 * You can make C++ display more prettily, thanks to a macro from the `FAQ`_.
   Unfortunately, most of it has to be a single line or LaTeX will add extra spaces::
 
-  \newcommand{\CPP}{                                                              
-      C\hspace{-.05em}\raisebox{.4ex}{\tiny\bf +}\hspace{-.10em}\raisebox{.4ex}{\tiny\bf +}}
+  \newcommand{\CPP}{C\hspace{-.05em}\raisebox{.4ex}{\tiny\bf +}\hspace{-.10em}\raisebox{.4ex}{\tiny\bf +}}
 
 
 
 
-.. _FAQ: http://www.parashift.com/c++-faq-lite/latex-macros.html  
+.. _FAQ: http://www.parashift.com/c++-faq-lite/latex-macros.html
 .. _My own résumé: https://github.com/edunham/résumé/blob/master/résumé.tex
 .. _here: http://resume.edunham.net/
 .. _WikiBooks article: http://en.wikibooks.org/wiki/LaTeX/Macros
 .. _Macros: http://en.wikibooks.org/wiki/LaTeX/Macros
 .. author:: default
 .. categories:: none
-.. tags:: resume, LaTeX 
+.. tags:: resume, LaTeX
 .. comments::
