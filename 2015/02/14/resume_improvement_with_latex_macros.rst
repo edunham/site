@@ -150,5 +150,5 @@ More LaTeX Tricks
 .. _Macros: http://en.wikibooks.org/wiki/LaTeX/Macros
 .. author:: default
 .. categories:: none
-.. tags:: none
+.. tags:: resume, LaTeX 
 .. comments::
