@@ -76,18 +76,53 @@ how out-of-date all of its packages are. Additionally, a lot of the best "I'm
 new, what's this?" type of documentation is targeted at Ubuntu users (though
 it usually works on Debian as well).
 
-Secure it with ufw and denyhosts
---------------------------------
+Optional: Secure SSH
+--------------------
 
+If you'd like to trade a few minutes of effort now for improved security over
+the life of your VPS, the CentOS Wiki has an `excellent tutorial on securing
+SSH <http://wiki.centos.org/HowTos/Network/SecuringSSH>`_ whose advice applies
+just as well to any other Linux distro.
 
+Optional: Set up UFW
+--------------------
+
+Uncomplicated Firewall is also not strictly necessary but a wise idea to set
+up. Follow the `DigitalOcean tutorial on UFW
+<https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server>`_
+to configure your droplet to deny the traffic that you don't need. 
 
 Install Irssi and Screen
 ------------------------
 
+I personally use Irssi because I like its default settings and dislike
+Weechat's poor documentation. However, if writing IRC client extensions in a
+language other than Perl is important to you, Weechat would probably be a
+better choice. 
+
+::
+
+    $ apt-get install irssi
+    $ apt-get install screen
+
 Start Irssi in Screen
 ---------------------
 
+Normally when you SSH into a server and start a program, the program will be
+halted when you disconnect. Screen is a utility that lets you prevent that
+behavior. 
+
+You SSH into a server, start a screen, and then the screen keeps running for
+as long as the server does. You can disconnect from and reconnect to the
+screen whenever you like, and whatever is running within it will keep going
+regardless of whether you're connected. 
+
 how to make this happen at boot?
+
+Connect to Freenode
+-------------------
+
+
 
 Register your nick on Freenode
 ------------------------------
