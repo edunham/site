@@ -44,9 +44,10 @@ preamble (before ``\begin{document}``), you define the macro's name, number of
 arguments, and behavior::
 
     \newcommand{\example}[3] {
-        \emph{#1} was the first argument
-        \textbf{#2} was the second
-        #3 was the third
+        \emph{#1} was the first argument\\
+        % the double backslash forces a line break
+        \textbf{#2} was the second\\
+        ``#3'' was the third
     }
 
 Then in your document, you call the macro by passing it the number of
@@ -57,8 +58,13 @@ arguments that were stated in the square brackets::
 The macro simply inserts its text, substituting in its first argument for
 ``#1``, second argument for ``#2``, and so forth.
 
+.. figure:: /_static/tex_derp.png
+    :align: center
+
 Remember the backslash before the macro name when declaring the
-``newcommand``.
+``newcommand``. Since the macro inserted the text as a paragraph, the first
+line defaults to being indented. To prevent default indentation behavior, put
+``\setlength{\parindent}{0pt}`` in your document's preamble. 
 
 My Résumé Macros
 ----------------
