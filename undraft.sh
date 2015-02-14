@@ -10,8 +10,8 @@ then
     exit -1
 fi    
 tinker --post $1                    # tinker gets called on drafts/thing.rst
-git stash save blogscript           # let's not accidentally commit other work
+git stash                           # let's not accidentally commit other work
 git rm $1                           # try to remove draft
 git add `date +"%Y/%m/%d/"`${1##*/} # witchcraft to find its posted path
 git commit -m "Publish ${1##*/}"    # and commit, with message
-git stash apply blogscript          # put back any other work
+git stash apply                     # put back any other work
