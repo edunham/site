@@ -128,6 +128,22 @@ prettiness, not very much code. `My own résumé`_ is only slightly more complex
 the spacing between lines in order to fit its content correctly onto a single
 page. (A PDF of my résumé is available `here`_). 
 
+More LaTeX Tricks
+-----------------
+
+* To make quotes show up correctly, use ``\`\``` for opening-quotes and
+  ``''`` for closing-quotes. 
+
+* You can make C++ display more prettily, thanks to a macro from the `FAQ`_.
+  Unfortunately, most of it has to be a single line or LaTeX will add extra spaces::
+
+  \newcommand{\CPP}{                                                              
+      C\hspace{-.05em}\raisebox{.4ex}{\tiny\bf +}\hspace{-.10em}\raisebox{.4ex}{\tiny\bf +}}
+
+
+
+
+.. _FAQ: http://www.parashift.com/c++-faq-lite/latex-macros.html  
 .. _My own résumé: https://github.com/edunham/résumé/blob/master/résumé.tex
 .. _here: http://resume.edunham.net/
 .. _WikiBooks article: http://en.wikibooks.org/wiki/LaTeX/Macros
