@@ -51,6 +51,17 @@ is pushed. That way, if life gets out of control during the week that
 deliverable is due, you can fulfill it with 10 minutes and TravisCI to get
 full marks. 
 
+Estimate Pessimistically
+------------------------
+
+At the start of the project, you don't have enough information to accurately
+predict what problems you'll run into near its completion. When setting
+timelines, always assume the worst case, then double your estimate. This way,
+if your estimate was correct, you'll look good for completing the task ahead
+of schedule... and if you guessed wrong, you have a bit more time to correct
+the probems.
+
+
 .. author:: default
 .. categories:: none
 .. tags:: school, capstone 
