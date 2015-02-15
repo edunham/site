@@ -117,42 +117,83 @@ as long as the server does. You can disconnect from and reconnect to the
 screen whenever you like, and whatever is running within it will keep going
 regardless of whether you're connected. 
 
-how to make this happen at boot?
+You might want to check out my post on `starting Screen and Irssi
+automatically <http://edunham.net/2015/02/15/starting_screen_irssi_at_boot.html>`_.
 
 Connect to Freenode
 -------------------
 
+In Irssi, run the command ``/connect irc.freenode.net``. 
 
+Choose a nickname
+-----------------
+
+Some permutation of your first and last names or initials is the safest bet
+for professional involvement. Remember that your nickname is the first
+impression that you make when you join a channel -- be as careful of its
+implications as you would of the design on a garment you wear to a job
+interview. 
+
+To change your nick, use the command ``/nick newname``. 
 
 Register your nick on Freenode
 ------------------------------
 
+To register your nick, you'll need a password and an email address. This
+password might appear in plaintext sometimes, so don't use a password that you
+use on any other site. 
+
+First, when your name is set to the nick you want to register, ``/msg nickserv
+register password email@address.tld``. Nickserv will respond with either an
+error message or a confirmation that an email was sent. 
+
+Check your email, and you should have a message with a unique code to confirm
+the address. Copy the line that starts with ``/msg nickserv`` from the email
+and paste it into your status buffer. 
+
+Paste it into your status buffer and not into a channel because if you had a
+space before the first ``/``, the message will be sent to whatever channel you
+enter it in instead of creating a private query. The confirmation code does
+not allow anyone to hijack your account, but pasting it in a channel makes you
+look incompetent. 
+
 Hide your IP address with a cloak
 ---------------------------------
 
-Teach Irssi to automatically authenticate you
----------------------------------------------
+If you're affiliated with a project that has cloaks, ask one of the project
+administrators whether you qualify for one. 
 
-Teach Irssi to automatically join your networks and channels
-------------------------------------------------------------
+If you don't qualify for a cloak, join ``#freenode`` (while identified to the
+account you want cloaked) and request a cloak. Sometimes you might have to ask
+several times before a staff member sees your request. Be patient and polite. 
 
-http://irssi.org/beginner/
-/CHANNEL ADD -auto #secret IRCnet password
+Configure Irssi to automatically connect
+----------------------------------------
 
-Ignore unwanted messages
-------------------------
+See my post on `automating Irssi
+<http://edunham.net/2015/02/16/automating_irssi.html>`_ for details and links
+on how to automatically connect to networks, auto-join channels, restore
+channel positions when Irssi starts, ignore unwanted messages, and other neat
+stuff. 
 
 Configure logging
 -----------------
 
+The command ``/set autolog on`` will cause Irssi to automatically log
+everything, saving it to an ``irclogs`` directory in your homedir. This is
+extremely useful for finding links and other information in backscroll, and
+helps create the illusion of having perfect memory.
+
 Save your configuration
 -----------------------
 
+The ``/save`` command will save any changes you've made to Irssi's
+configuration. Remember to use it! As with any command, you can get more
+information with ``/help save``. 
 
 .. _VPS: http://en.wikipedia.org/wiki/Virtual_private_server
 .. _GitHub's education pack: https://education.github.com/
-
 .. author:: default
 .. categories:: none
-.. tags:: none
+.. tags:: irc, digitalocean, irssi
 .. comments::
