@@ -149,7 +149,7 @@ More LaTeX Tricks
 
 
 .. _FAQ: http://www.parashift.com/c++-faq-lite/latex-macros.html
-.. _My own résumé: https://github.com/edunhamesume/blob/master/resume.tex
+.. _My own résumé: https://github.com/edunham/resume/blob/master/resume.tex
 .. _here: http://resume.edunham.net/
 .. _WikiBooks article: http://en.wikibooks.org/wiki/LaTeX/Macros
 .. _Macros: http://en.wikibooks.org/wiki/LaTeX/Macros
