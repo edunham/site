@@ -73,7 +73,18 @@ authorized keys set yet::
     $ ssh lo # accept the key this first time
     $ crontab -e # add following line and save
         @reboot ssh lo /home/username/startscreen.sh
- 
+
+With systemd
+------------
+
+Check out `mythmon's writeup`_ with how to make your own systemd services and
+configure them to run automatically. 
+
+I haven't tried this yet myself, but I expect that any problems repeating it
+with screen would be most likely to happen when trying to start a detached
+screen without a terminal, and could be circumvented by the ssh-to-localhost
+method described above. 
+
 What next?
 ----------
 
@@ -81,6 +92,8 @@ Having Irssi running is cool, but only really useful if it's connected to
 the right newtorks and channels. The `irssi docs`_ and `freenode sasl
 guide`_ contain all the necessary information. 
 
+
+.. _mythmon's writeup: http://www.mythmon.com/posts/2015-02-15-systemd-weechat.html
 .. _freenode sasl guide: https://freenode.net/sasl/sasl-irssi.shtml
 .. _irssi docs: http://irssi.org/beginner/
 .. _here: http://www.linux-noob.com/forums/index.php?/topic/2421-start-screen-irssi-on-boot/#entry11892
