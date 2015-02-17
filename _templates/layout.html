@@ -1,5 +1,17 @@
 {% extends "!layout.html" %}
 
+
+{%- block header -%}
+    <header role="banner">
+        <hgroup>
+            <h1><a href="{{ pathto(pages[0][0]) }}">{{ shorttitle|e }}</a></h1>
+            {%- if tagline -%}<h2>{{ tagline|e }}</h2>{%- endif -%}
+            <br>
+            <h2><a style="text-decoration: underline;" href="https://engage.redhat.com/opensourceawards-winners-votingform-email">vote for me!</a></h2>
+        </hgroup>
+    </header>
+{% endblock -%}
+
 {%- block navigation -%}
     <nav role="navigation">
         <ul>
