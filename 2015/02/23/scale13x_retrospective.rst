@@ -128,7 +128,7 @@ recordings, because I'm well aware of the verbal bad habits (such as filler
 words) that I engaged in, but it'll help me target my speaking practice to
 avoid such problems at future conferences.  
 
-.. _Q&A: https://github.com/edunham/Q-n-A
+.. _Q&A app: https://github.com/edunham/Q-n-A
 .. author:: default
 .. categories:: none
 .. tags:: conferences 
