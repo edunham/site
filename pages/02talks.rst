@@ -5,6 +5,7 @@ Southern California Linux Expo
 ------------------------------
 
 * 2/22/2015, `Human Hacking <https://www.socallinuxexpo.org/scale/13x/presentations/human-hacking>`_
+  (`Scale13x Human Hacking slides <http://talks.edunham.net/scale13x/#1>`_)
 
 Seattle Gnu/Linux Conference
 ----------------------------
