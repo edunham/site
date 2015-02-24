@@ -12,7 +12,7 @@ Try Building via LaTeX
 
 .. note:: 
 
-    Scroll down to the rst2pdf part if you want an easy and effective solution
+    Skip down to the rst2pdf part if you want an easy and effective solution
     to this problem. I'm only writing up the LaTeX stuff in case it's useful
     to people Googling the errors that I hit. 
 
@@ -32,8 +32,8 @@ problem with an errant Unicode character in the input file::
 
 A thread on `StackExchange`_ theorizes that the ``\u8`` represents a "no-break
 space" character, so I think it's safe to strip it out entirely. A rather
-heavy-handed fix `from elsewhere`_ is to forcibly convert the whole file from UTF-8 to
-ASCII:: 
+heavy-handed fix `from elsewhere`_ is to forcibly convert the whole file from
+UTF-8 to ASCII:: 
 
     iconv -c -f utf-8 -t ascii index.rst > index.rst 
 
@@ -85,9 +85,7 @@ After adding the ``pdf_documents`` configuration, ``make pdf`` generates an
 oddly styled but entirely legible pdf copy of the presentation's content. 
 
 .. _Sphinx docs: http://sphinx-doc.org/builders.html 
-
 .. _The manual: http://ralsina.me/static/manual.pdf
-
 .. _a Sphinx issue: https://bitbucket.org/birkenfeld/sphinx/issue/999/create-pdf-using-rst2pdf
 
 
