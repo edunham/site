@@ -45,7 +45,7 @@ little islands like OSCON's biggest sponsors tend to.
 The conference organizers were extremely friendly and helpful, which created a
 welcoming and friendly atmosphere. I felt that if an incident involving
 misconduct or bad judgement had happened to occur among attendees, the
-organizers would have been able to handle it immeditaely and effectively.
+organizers would have been able to handle it immediately and effectively.
 There was almost always at least one organizer hanging out in the speaker
 lounge, often their affable publicist Larry Cafiero, to assist speakers and
 anwer any questions. This made it easy to get help with problems small enough
