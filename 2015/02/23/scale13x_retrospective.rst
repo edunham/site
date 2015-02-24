@@ -2,7 +2,8 @@ Scale13x Retrospective
 ======================
 
 This year I had the pleasure of attending and speaking at the Southern
-California Linux Expo. Here's my hodge-podge of observations. 
+California Linux Expo. Here's what I observed about the location, the
+conference's organization, and my own talk.
 
 .. more::
 
