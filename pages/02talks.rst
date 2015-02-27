@@ -1,6 +1,13 @@
 Talks
 =====
 
+OpenWest
+--------
+
+* 5/7/2015 - 5/9/2015. Human Hacking, Thinking In Git, and Teaching DevOps to
+  University Students. 
+
+
 Southern California Linux Expo
 ------------------------------
 
