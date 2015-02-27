@@ -111,6 +111,22 @@ recognized, b) bootable. Find disk that's ok to get wiped, and visible to the
 T61, and install to it. But that takes effort, and the system is usable for
 now. 
 
+If It's Stupid But It Works...
+------------------------------
+
+The annoying part of the T61 setup is that the enclosure end of the USB cable
+is prone to getting bumped, which means that any process currently in memory
+keeps going but starting new processes becomes nearly impossible. 
+
+My fix for this (it only has to last a week, while my X201 is shipping) is
+stupid, but it works. 
+
+.. figure:: /_static/stupid.jpg
+    :align: center
+    :scale: 50%
+
+Packing tape!
+
 .. author:: default
 .. categories:: none
 .. tags:: hardware, arch
