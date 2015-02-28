@@ -5,8 +5,7 @@ My schoolwork is particularly bad this weekend, so I'm procrastinating by
 learning to analyze the test coverage of a moderately complex Python codebase.
 Specifically, the `reference implementation`_ of the `Monte programming
 language`_. This effort is hampered only slightly by the fact that I've never
-done much with code coverage tools before, and especially never deployed one
-onto a virgin codebase. 
+done much with code coverage tools before. 
 
 .. more::
 
@@ -22,7 +21,7 @@ Trial --coverage
 ----------------
 
 I then realized that since Monte's tests are run by Trial, it would probably
-make more sense to ask Trial to report coverage statistics. Sure enough,
+make more sense to ask Trial to report the coverage statistics. Sure enough,
 there's a ``--coverage`` option in ``trial --help``:: 
 
     --coverage           Generate coverage information in the coverage file in
@@ -98,8 +97,6 @@ shouldn't, in my case::
 
     $ coverage html --omit=v/lib/*
     No source for code: '/pymeta_generated_code/pymeta_grammar__CycleRenamer.py'
-
-
 
 
 .. _an issue: http://stackoverflow.com/questions/2386975/no-source-for-code-message-in-coverage-py
