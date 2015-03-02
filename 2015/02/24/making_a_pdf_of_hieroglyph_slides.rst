@@ -35,14 +35,21 @@ space" character, so I think it's safe to strip it out entirely. A rather
 heavy-handed fix `from elsewhere`_ is to forcibly convert the whole file from
 UTF-8 to ASCII:: 
 
-    iconv -c -f utf-8 -t ascii index.rst > index.rst 
+    iconv -c -f utf-8 -t ascii index.rst > temp && mv temp index.rst 
+
+.. note:: 
+
+    I previously had that command as ``iconv -c -f utf-8 -t ascii index.rst >
+    index.rst`` which actually deletes the entire contents of index.rst. No
+    wonder the pdf wouldn't build :)
 
 After violently taking away its unicode, the file builds a pdf in
-``_build/latex/``. However, the pdf is blank except the title and the table of
-contents heading.
+``_build/latex/``. But there are a bunch of gratuitous chapter titles, some
+pages are arbitrarily left blank, and the images' sizes seem totally random --
+some take up a full page; others are tiny.
 
-Rather than traveling further down this gratuitously LaTeX-flavored rabbit
-hole, I decided to seek a simpler solution.
+Rather than digging further into the LaTeX rabbit hole, I decided to see if
+there wasn't a more direct way to generate a pdf. 
 
 .. _Sphinx Tutorial: http://sphinx-doc.org/tutorial.html
 .. _LaTeX builder: http://sphinx-doc.org/builders.html#sphinx.builders.latex.LaTeXBuilder
