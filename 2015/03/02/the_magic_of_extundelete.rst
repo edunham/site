@@ -123,7 +123,7 @@ partition. It caused this error::
     file system and check it with fsck before using extundelete.
     Would you like to continue? (y/n)
 
-**The correct answer is No**. This error only occurrs when, as it says, the
+**The correct answer is No**. This error only occurs when, as it says, the
 partition either is mounted or was unmounted wrong. 
 
 If the partition was unmounted when you ran ``extundelete`` and you got that
@@ -136,7 +136,7 @@ Another possible reason for getting that error would be if you were trying to
 run extundelete from the same partition as the lost file was on. In that case,
 you are a terrible person for ignoring literally all the instructions about
 running extundelete from a livecd, and **do not boot from the drive with the
-delete file until after successful file recovery**. 
+deleted file until after successful file recovery**. 
 
 I unmounted the partition, and the error did not reappear.
 
@@ -223,17 +223,54 @@ of the errant ``tar`` command.
 The ``code_generator.c~`` file contained a recent copy of the file which had
 been overwritten, so my roommate emailed it to the professor. 
 
+
+Postscript: Swap File Recovery Attempt
+--------------------------------------
+
+But what if the ``code_generator.c~`` file hadn't been mysteriously created by
+whatever utility spits out ``.c~`` files?
+
 I tried to recover the swap files with ``vim -r code_generator.c``, and it
 detected both of them, but I got the error::
 
     E307: .code_generator.c.swx does not look like a Vim swap file
 
-I suspect this may be due to the differing versions of Vim on our respective
-systems. If we ever have free time, I'll send her a copy of one of the
-recovered swap files and see if her version of Vim is able to recognize it. 
+And indeed, it is not a Vim swap file::
 
+    $ file .code_generator.c.swx 
+    .code_generator.c.swx: ELF 64-bit LSB relocatable, x86-64, version 1 (SYSV), not stripped
+
+Something about these files has massively confused Linux. Let's see if they
+contain anything interesting:: 
+
+    $ strings .code_generator.c.swx | less
+
+It looks a bit like output from running the code generator
+program interspersed with paths on the filesystem. Whatever this thing is,
+it's sure not a valid Vim swap file.
+
+To see what valid swap files look like, I forced Vim to generate one by
+opening a file, typing into it, waiting 4 seconds, then closing that terminal. 
+
+    The swap file is updated after typing 200 characters or when you have not
+    typed anything for four seconds.
+
+    -- (from the `Vim docs`_)
+
+Unsurprisingly, it's a valid swap file::
+
+    $ file .test.c.swp 
+    .test.c.swp: Vim swap file, version 7.4
+
+and running ``strings`` on it prints out the text that I had typed before
+killing Vim. 
+
+The moral of this tangent is that it would not have been possible to recover
+the ``.c`` files solely from their Vim swap files in this case.
+
+.. _Vim docs: http://vimdoc.sourceforge.net/htmldoc/recover.html
 .. _instructions: http://ubuntuforums.org/showthread.php?t=2113182
 .. author:: default
 .. categories:: none
-.. tags:: cs480, extundelete, solved
+.. tags:: cs480, extundelete, solved, vim
 .. comments::
