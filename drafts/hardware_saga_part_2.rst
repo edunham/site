@@ -53,11 +53,21 @@ in Vim.
 It has a built-in webcam, and the embossed diagonal stripes ``\\\\\\\\\\
 /////////`` so characteristic of older thinkpads above the screen.
 
+LEDs
+----
+
 There are indicator lights representing wifi, a capital Y with a bar atop it,
 numlock, capslock, disk I/O, power, battery, and sleep status below the
 screen, and power/battery/sleep lights on the outside. The X230 only had wifi
 and disk I/O lights visible to the user, which made it easy to not notice when
 the battery was critically low.  
+
+The mute button Just Works; the volume buttons will need some configuration.
+The mute button does not have an LED on it like the one on the X220 keyboard.
+The power button does not light up either. 
+
+There are no LEDs in the 'i' of the ThinkPad logo, which I prefer since it
+makes them look more like the IBM-era thinkpads. 
 
 Input
 -----
