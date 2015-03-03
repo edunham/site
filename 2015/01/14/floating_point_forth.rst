@@ -172,5 +172,5 @@ spammers).
 
 .. author:: default
 .. categories:: none
-.. tags:: school, ece375, forth, programming
+.. tags:: school, cs480, forth, programming
 .. comments::
