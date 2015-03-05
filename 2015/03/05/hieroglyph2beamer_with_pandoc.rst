@@ -32,13 +32,15 @@ difficult to modify.
 I find that slides are a better fit with ReStructuredText's strengths:
 
 * Minimal boilerplate
-  * Easy to read as plain text
-  * Fast to modify
-  * Styling is completely divorced from content (HTML vs CSS)
+    * Easy to read as plain text
+    * Fast to modify
+    * Styling is completely divorced from content (HTML vs CSS)
+
 * Supported out of the box almost everywhere I need it
-  * Toolchain fits my needs
+    * Toolchain fits my needs
+
 * Powerful enough to describe image scaling and tables
-  * This is my major complaint against Markdown
+    * This is my major complaint against Markdown
 
 So, I want to keep writing ReStructuredText, but I want the prettiness of
 Beamer slides. It's time to see whether a tool for this has already been built
