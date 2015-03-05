@@ -12,7 +12,7 @@ This made me wonder whether any tool exists to convert Hieroglyph slides into
 
 .. note::
 
-    Skip to `the end`__ if you just want the code for converting Hieroglyph
+    Skip to the end_ if you just want the code for converting Hieroglyph
     sources to Beamer slides. 
 
 Why not just write LaTeX?
@@ -182,10 +182,10 @@ large on `stackoverflow`_. Renewing the ``\includegraphics`` command is
 Now images are displayed as no larger than half the size of the total text
 area on a slide.
 
+.. _end:
+
 All Together Now
 ================
-
-__ All Together Now_
 
 The Makefile gets these lines. Remember to use hard tabs, not spaces, because
 it is a Makefile::
