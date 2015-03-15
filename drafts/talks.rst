@@ -26,18 +26,39 @@ Community Management on Freenode
 Joining a FOSS project's leadership is rewarding, but if you haven't
 participated in IRC channel administration before, the learning curve can be
 daunting. Did you know that if you forget a vital step when creating a new
-channel, you can end up stuck without the ability to register it? Can you craft
-the right command to add a new project leader, without accidentally banning
-them from your channel? This talk will cover those skills and more, to keep you
-from having to find out the hard way. Focused on Freenode but applicable to
-many other networks, we'll discuss what administrators do, how to get ChanServ
-and other bots to do most of the hard work for you, and techniques to identify
-and foster the project culture that you're looking for. 
+channel, you can end up stuck without the ability to register it? Can you
+craft the right command to add a new project leader, without accidentally
+banning them from your channel? This talk will cover those skills and more, to
+keep you from having to find out the hard way. Focused on Freenode but
+applicable to many other networks, we'll discuss what administrators do, how
+to get ChanServ and other bots to do most of the hard work for you, and
+techniques to identify and foster the project culture that you're looking for.   
 
 
 * Channel management on Freenode
 * Setting up a toy network
 * Writing bots
+
+You Should Speak
+----------------
+
+Have you ever wanted to speak at a conference, but not known whether you're
+good enough or how to start? I was in the same situation 2 years ago, but
+since then I've given over a dozen talks at a variety of different tech
+conferences.   
+
+This talk will share solutions to many of the problems which aspiring speakers
+encounter, including:  
+
+* Overcoming fear of public speaking
+* Choosing a topic to talk about
+* Finding the right conference for your topic
+* Marketing a talk proposal with a convincing abstract
+* Finding open-source presentation software that fits your needs
+* Designing powerful slides
+
+These tricks will be helpful for experienced presenters looking to learn new
+skills, as well as novice speakers who need some help getting started.  
 
 Usenix LISA
 -----------
@@ -66,6 +87,9 @@ OSBridge
 CFP open till March 7th
 
 Conference June 23-26
+
+Applied with "Community Management on Freenode": http://opensourcebridge.org/proposals/1670
+Applied with "You Should Speak": http://opensourcebridge.org/proposals/1677
 
 PyCon 2016
 ----------
