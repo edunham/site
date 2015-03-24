@@ -12,7 +12,29 @@ make its repositories go away. Here's what I learned.
 .. more::
 
 
-    $ pacman -Sl | grep blackarch | cut -f 2 -d " " | xargs sudo pacman -Rsn
+First, assuming that you attempted to install all of the blackarch packages
+like I did, you can uninstall them simply by chopping the package names out of
+the list of all blackarch packages and instructing Pacman to remove them::
+
+    $ pacman -Sl | grep blackarch | cut -f 2 -d " " | xargs sudo pacman -Rn
+
+* ``pacman -Sl`` searches all of the package databases and lists their
+  contents. The output will be of the form ``reponame packagename version``.
+* ``grep blackarch`` narrows that list to only those packages with blackarch
+  in their titles
+* ``cut -f 2 -d " "`` says "I want only the second field, and fields are
+  delineated by the space character". So far, we've selected the package name
+  of each package whose listing contains the string "blackarch". 
+* ``xargs`` executes the given command on each item in its standard in. The
+  pipes (``|``) each attach stdout of the preceding command to stdin of the
+  following one. Xargs is necessary here because Pacman takes its arguments
+  only on the command line, and does not gracefully handle taking args on
+  stdin. 
+* ``pacman -Rn`` says "Remove the given package, and don't worry about backing
+  up its files". I passed the ``-n`` flag because one of my main reasons for
+  removing blackarch is to save space on my rather small SSD, so I don't want
+  to keep around a bunch of backups for the configurations of programs I never
+  ended up using. 
 
 To search for blackarch in only the installed packages::
 
@@ -20,6 +42,13 @@ To search for blackarch in only the installed packages::
 
     $ pacman -Rsn
 
+Even after removing all Blackarch packages, the Blackarch repository entry
+remains in pacman.conf. To remove it, open ``/etc/pacman.conf`` and remove the 
+blackarch repo, which will probably be the final two lines of the file. Those
+lines will look something like this::
+
+    [blackarch]                                                                     
+    Server = http://mirror.team-cymru.org/blackarch/$repo/os/$arch  
 
 
 .. author:: default
