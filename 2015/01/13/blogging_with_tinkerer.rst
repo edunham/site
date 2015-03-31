@@ -96,5 +96,5 @@ paradigm.
 
 .. author:: default
 .. categories:: none
-.. tags:: tinkerer 
+.. tags:: tinkerer, example
 .. comments::
