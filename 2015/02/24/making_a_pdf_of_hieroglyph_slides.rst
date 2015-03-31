@@ -98,5 +98,5 @@ oddly styled but entirely legible pdf copy of the presentation's content.
 
 .. author:: default
 .. categories:: none
-.. tags:: hieroglyph, sphinx, latex
+.. tags:: hieroglyph, sphinx, LaTeX
 .. comments::
