@@ -1,6 +1,9 @@
 Talks
 =====
 
+2015
+====
+
 OpenWest
 --------
 
@@ -8,11 +11,22 @@ OpenWest
   University Students. 
 
 
+LinuxFest Northwest
+-------------------
+
+* 4/26/2015. Why's My Program Slow? Algorithmic Complexity and You.
+
+* 4/25/2015. Thinking In Git. 
+
+
 Southern California Linux Expo
 ------------------------------
 
 * 2/22/2015, `Human Hacking <https://www.socallinuxexpo.org/scale/13x/presentations/human-hacking>`_
   (`Scale13x Human Hacking slides <http://talks.edunham.net/scale13x/#1>`_)
+
+2014
+====
 
 Seattle Gnu/Linux Conference
 ----------------------------
@@ -47,7 +61,6 @@ Portland State Univerity Association for Computing Machinery
 ------------------------------------------------------------
 
 * 5/16/2014, `Git workshop <http://acm.pdx.edu/event.php?event=49>`_ 
-
 
 LinuxFest Northwest
 -------------------
