@@ -50,7 +50,8 @@ And now it's gone. No more packages to update, and no more repo to check every
 time updates get installed. 
 
 .. _strap.sh: http://blackarch.org/strap.sh
-
+.. _Blackarch: http://blackarch.org/
+.. _the Oregon CTF: http://oregonctf.org/
 .. author:: default
 .. categories:: none
 .. tags:: arch, blackarch
