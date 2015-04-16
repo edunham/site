@@ -196,5 +196,5 @@ intro and Q&A slides, so that viewers can find the slides easily.
 
 .. author:: default
 .. categories:: none
-.. tags:: speaking 
+.. tags:: speaking, conferences 
 .. comments::
