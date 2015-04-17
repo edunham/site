@@ -72,9 +72,18 @@ apply with dobc talk?
 LCA 2016
 --------
 
-`site <http://lcabythebay.org.au/>`_ 
+http://lcabythebay.org.au/ 
 
 CFP not open yet
+
+LinuxCon North America
+----------------------
+
+http://events.linuxfoundation.org//events/linuxcon-north-america/program/cfp
+
+August 17-19
+
+(defcon is august 4-7)
 
 SeaGL
 -----
@@ -95,7 +104,8 @@ PyCon 2016
 ----------
 
 in pdx
-???????
+
+Presumably occurrs April-ish?
 
 OSCON 2015
 ----------
