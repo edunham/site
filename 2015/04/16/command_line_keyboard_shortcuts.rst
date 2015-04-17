@@ -31,17 +31,17 @@ entire line.
 Perhaps less usefully, there are also control characters to subsitute for
 arrow keys, with easy mneumonics for them: 
 
-+============+=======+===========+
-|  Sequence  | Arrow | Mneumonic |
-+============+=======+===========+
-| ``ctrl+B`` | left  | Back      |
-+------------+-------+-----------+
-| ``ctrl+F`` | right | Forward   |
-+------------+-------+-----------+
-| ``ctrl+P`` | up    | Previous  |
-+------------+-------+-----------+
-| ``ctrl+N`` | down  | Next      |
-+------------+-------+-----------+
++------------+-------+----------+
+|  Sequence  | Arrow | Mnemonic |
++============+=======+==========+
+| ``ctrl+B`` | left  | Back     |
++------------+-------+----------+
+| ``ctrl+F`` | right | Forward  |
++------------+-------+----------+
+| ``ctrl+P`` | up    | Previous |
++------------+-------+----------+
+| ``ctrl+N`` | down  | Next     |
++------------+-------+----------+
 
 Other Relevant Facts
 --------------------
