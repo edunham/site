@@ -3,7 +3,7 @@ Command-line Keyboard Shortcuts
 
 Just another installment of "How did I not know that already?"
 
-.. note::
+.. more::
 
 Backstory
 ---------
@@ -21,8 +21,8 @@ Today I Learned
 ---------------
 
 ``Ctrl+A`` jumps the cursor to the beginning of the line, and ``Ctrl+E`` jumps
-to the end. (``Home`` and ``End`` also work in my shell, but they're slower
-and more awkward since they require moving one's hands from home row)
+to the end. (The ``Home`` and ``End`` keys also work in my shell, but they're
+slower and more awkward since they require moving one's hands from home row)
 
 ``Ctrl+W`` deletes the word in which the cursor is currently located (words
 being defined as strings separated by spaces), and ``Ctrl+U`` deletes the
