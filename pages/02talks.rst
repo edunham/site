@@ -27,6 +27,18 @@ LinuxFest Northwest
 * **Thinking In Git**, 4/25/2015
   |br| Abstract: http://linuxfestnorthwest.org/2015/sessions/whys-my-program-slow-algorithmic-complexity-and-you
 
+Beaver BarCamp
+--------------
+
+`Beaver BarCamp <http://beaverbarcamp.org/>`_ is an open-source "unconference"
+where talks are often made up on the day of the event and presented with live
+demos instead of slides. 
+
+* **The Value of the Newbie**, 4/18/2015
+  |br| 5-minute lightning talk
+
+* **Easy, Beautiful Resumes with LaTeX**, 4/18/2015
+
 Southern California Linux Expo
 ------------------------------
 
