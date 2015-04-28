@@ -4,6 +4,13 @@ Talks
 2015
 ====
 
+Open Source Bridge
+------------------
+
+* **You Should Speak**, 6/25/2015(?)
+  |br| Abstract: http://opensourcebridge.org/proposals/1677
+
+
 OpenWest
 --------
 
@@ -22,10 +29,11 @@ LinuxFest Northwest
 
 * **Why's My Program Slow? Algorithmic Complexity and You**, 4/26/2015
   |br| Abstract: http://linuxfestnorthwest.org/2015/sessions/thinking-git
-
+  |br| Slides: http://talks.edunham.net/linuxfestnorthwest2015/git/
 
 * **Thinking In Git**, 4/25/2015
   |br| Abstract: http://linuxfestnorthwest.org/2015/sessions/whys-my-program-slow-algorithmic-complexity-and-you
+  |br| Slides: http://talks.edunham.net/linuxfestnorthwest2015/complexity/  
 
 Beaver BarCamp
 --------------
@@ -35,9 +43,10 @@ where talks are often made up on the day of the event and presented with live
 demos instead of slides. 
 
 * **The Value of the Newbie**, 4/18/2015
-  |br| 5-minute lightning talk
+  |br| 5-minute lightning talk, no slides
 
 * **Easy, Beautiful Resumes with LaTeX**, 4/18/2015
+  |br| 1-hour talk, included demos but no slides
 
 Southern California Linux Expo
 ------------------------------
