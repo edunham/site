@@ -27,11 +27,11 @@ OpenWest
 LinuxFest Northwest
 -------------------
 
-* **Why's My Program Slow? Algorithmic Complexity and You**, 4/26/2015
+* **Thinking In Git**, 4/25/2015
   |br| Abstract: http://linuxfestnorthwest.org/2015/sessions/thinking-git
   |br| Slides: http://talks.edunham.net/linuxfestnorthwest2015/git/
 
-* **Thinking In Git**, 4/25/2015
+* **Why's My Program Slow? Algorithmic Complexity and You**, 4/26/2015
   |br| Abstract: http://linuxfestnorthwest.org/2015/sessions/whys-my-program-slow-algorithmic-complexity-and-you
   |br| Slides: http://talks.edunham.net/linuxfestnorthwest2015/complexity/  
 
