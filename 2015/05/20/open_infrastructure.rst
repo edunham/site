@@ -122,7 +122,7 @@ who aren't me:
   code that describes its continuous integration and hosting is likely to be
   of interest to people experimenting with it. 
 
-* Prestiege. People want to get commits into a project that their peers and
+* Prestige. People want to get commits into a project that their peers and
   prospective employers have heard about. With the right promotion, the build
   infrastructure for Rust and Servo piggyback on the projects' fame. 
 
