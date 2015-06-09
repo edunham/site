@@ -11,7 +11,7 @@ import tinkerer.paths
 project = 'edunham'
 
 # Change this to the tagline of your blog
-tagline = 'A group can be smarter than any one participant. Sometimes.'
+tagline = 'is a "DevOps" Engineer at Mozilla Research'
 
 # Change this to the description of your blog
 description = 'Just Open-Sourcey Things'
