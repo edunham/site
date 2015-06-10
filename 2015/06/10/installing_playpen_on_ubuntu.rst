@@ -204,5 +204,5 @@ or email me, ``anything <at> edunham <dot> net``!
 
 .. author:: default
 .. categories:: none
-.. tags:: none
+.. tags:: ansible, playpen, rustinfra 
 .. comments::
