@@ -4,13 +4,6 @@ Talks
 2015
 ====
 
-Open Source Bridge
-------------------
-
-* **You Should Speak**, 6/25/2015(?)
-  |br| Abstract: http://opensourcebridge.org/proposals/1677
-
-
 OpenWest
 --------
 
