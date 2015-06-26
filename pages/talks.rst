@@ -4,6 +4,12 @@ Talks
 2015
 ====
 
+Ignite OSCON
+------------
+
+* **First Impressions (The value of the "noob")**, 7/20/2015
+  |br| Abstract:  http://www.oscon.com/open-source-2015/user/proposal/status/44880 
+
 OpenWest
 --------
 
