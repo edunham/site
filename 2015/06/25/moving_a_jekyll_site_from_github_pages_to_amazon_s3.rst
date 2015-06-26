@@ -13,14 +13,19 @@ I identified 3 major options for how we could alleviate users' anger at not
 seeing the little lock icon in their URL bars: 
 
 * Route all requests to the site through our nginx proxy, which has SSL set up
+
   * This is problematic because it introduces a new single point of failure in
     the system, if the proxy host goes down.
+
 * Stick a CDN, CloudFlare, between the GitHub page and the world. 
+
   * This will encrypt communications between the CDN and the user, but not
     between CloudFlare and GitHub. This means the lock icon in the URL bar is
     present, but actively lying to the user about the security of the page.
+
 * Move the site to Amazon S3 and have CloudFront distribute content securely
   to users. 
+
   * This is similar to the GitHub/CloudFlare model, with the important
     difference that there's negligible opportunity to MITM between S3 and
     CloudFront
