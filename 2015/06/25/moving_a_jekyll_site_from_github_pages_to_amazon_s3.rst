@@ -72,7 +72,10 @@ done, to minimize the harm that will occur if someone breaks the encryption of
 its credentials. 
 
 On `the Travis site <http://travis-ci.org/>`_, push the button that turns on
-CI for your repository. 
+CI for your repository. In the repo settings menu of the user interface
+(travis-ci.org/owner/repo/settings), make sure that building pull requests is
+turned off (or the build will fail on PRs, since for security reasons a PR
+cannot decrypt the encrypted environment variables). 
 
 Then follow the `s3 deployment guide
 <http://docs.travis-ci.com/user/deployment/s3/>`_ to create your
@@ -126,17 +129,22 @@ necessary::
     after_success: cf-s3-inv                                                        
     script: jekyll build  
 
-Future Work
------------
+Custom Error Page
+-----------------
 
-Right now, Travis tries and fails to build the site on every PR. This is
-because the build during a pull request doesn't have access to the repo's
-private key, so the ``before_install`` decryption of the invalidator
-credentials fails. I need to find the right way to convince Travis to only
-run the build when commits are pushed to ``master``. 
+To have Jekyll build a custom error page with a picture on it, put your
+picture in the directory with your other images and write a simple HTML page
+to display the error. Mine looks like `this
+<https://github.com/rust-lang/rust-www/blob/master/error.html>`_. 
+
+In the settings for your S3 bucket, specify ``error.html`` as your custom
+error page. 
+
+In the settings for your CloudFront distribution, customize which error page
+gets returned for various HTTP response codes. 
 
 
 .. author:: default
 .. categories:: none
-.. tags:: travis, ruby, aws, cloudfront, github pages
+.. tags:: travis, ruby, aws, s3, cloudfront, github pages
 .. comments::
