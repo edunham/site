@@ -1,6 +1,11 @@
 One free ticket to Rust Camp
 ============================
 
+**UPDATE**: The ticket has been claimed by a local student! Thanks everyone
+for helping boost the signal about this. 
+
+.. more::
+
 Right now, there are 11 tickets being given away by community members to help
 `women <https://twitter.com/Carols10cents/status/613701655100530688>`_ and
 `minorities <http://graydon2.dreamwidth.org/217152.html>`_ attend `Rust Camp
