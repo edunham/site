@@ -119,11 +119,11 @@ about Mozilla's bonus and benefits package, which allowed me to do the math on
 what kind of base salary would result in a total compensation package
 comparable to the other offers I had on the table. I discussed these numbers
 and my reasoning behind them with my recruiter. When doing the math on base
-salary, I also calculated the ranges of offer for which want to try to
-negotiate higher, and what ranges I'd be happy to simply accept without
+salary, I also privately calculated the ranges of offer for which want to try
+to negotiate higher, and what ranges I'd be happy to simply accept without
 haggling. 
 
-On May 8th, we had another call during which my interviewer disclosed my
+On May 8th, we had another call during which my recruiter disclosed my
 specific offer. The number is comfortably competitive for my skills and role
 -- although it doesn't precisely match my other offers in salary, the
 difference is less than the benefit to my career of working at a company that
