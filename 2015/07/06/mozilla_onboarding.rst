@@ -1,4 +1,4 @@
-3 weeks at Mozilla
+Mozilla Onboarding
 ==================
 
 On April 16th, I threw an application toward `this job posting
@@ -9,6 +9,10 @@ critiera. I could, with some creative redefinition ("of course an internship
 at Intel is a year of relevant experience!"), meet every listed criterion. So
 I applied, since the worst they could say was no. 
 
+Here's a rundown my experience getting interviewed and onboarded, which might
+be of interest to current Mozilla employees curious about how things have
+changed since they joined, and to anyone interested in working there. 
+
 .. more::
 
 Application
@@ -17,6 +21,10 @@ Application
 The recruiter replied to my application only 3 hours after I submitted it.
 This was certainly an improvement since the 6 months of ultimately fruitless
 bureaucratic limbo when I applied for a Mozilla internship a few years ago! 
+
+I found out later that the 3-hour turnaround time included a member of the
+Servo team reading my resume and verifying that my background looked relevant
+to their interests, which makes it all the more impressive. 
 
 Phone Screens
 -------------
@@ -146,7 +154,10 @@ it home and installed Arch Linux. I `tried Windows
 but it rapidly failed my informal tests of usability. 
 
 When I came into the office to pick up my laptop, our wonderful front desk
-ninja of all trades Katt took my photo and issued me a badge. 
+ninja of all trades Katt took my photo and issued me a badge. This was
+somewhat surprising, as nobody had warned me that I'd be getting photographed
+that day, but it was ultimately convenient since it provided me with a badge
+to enter the office on my first day.
 
 I also sent my SSH and GPG public keys to a coworker who started setting up my
 access to the systems I now administer.
@@ -170,7 +181,7 @@ careful to sign up for only those mailing lists which coworkers tell me are
 directly relevant to my job right now, or else the deluge of facts would be
 even worse. 
 
-First Weeks Retrospective
+First Month Retrospective
 -------------------------
 
 I've learned that there are benefits and drawbacks to working at a company
@@ -195,32 +206,7 @@ optimal for my overall happiness.
 The Rust and Servo teams and communities have been incredibly welcoming to me,
 and they communicate in ways that I find easy to work with. 
 
-Things I'm Glad I Did
----------------------
-
-* I've been keeping a notebook where, on one page per day, I list todo tasks
-  and notes in one column and the tasks I completed in another. This lets me
-  look back on my entire tenure with the company so far and see when I did
-  what, and made me feel a lot more productive during the initial firehose of
-  information. Without this time tracking device, it can be easy to write off
-  "learned about all these topics and set up half a dozen new accounts" as
-  having been an unproductive day because of how few commits it involved. 
-
-* Shamelessly playing the newbie card to demand (and develop) documentation.
-  Although there's always that "the community needs it" card as well, the
-  first few weeks are a great time to request higher-level overviews of things
-  without feeing guilty for not knowing it yet. 
-
-Things I'd Do Differently
--------------------------
-
-* Set up full-disk encryption immediately upon recieving my work laptop,
-  rather than going back and shaving that yak after the machine is already
-  necessary for day-to-day tasks. 
-
-
-
 .. author:: default
 .. categories:: none
-.. tags:: none
+.. tags:: mozilla, interviews
 .. comments::
