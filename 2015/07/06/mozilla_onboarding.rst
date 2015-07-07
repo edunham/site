@@ -119,9 +119,9 @@ about Mozilla's bonus and benefits package, which allowed me to do the math on
 what kind of base salary would result in a total compensation package
 comparable to the other offers I had on the table. I discussed these numbers
 and my reasoning behind them with my recruiter. When doing the math on base
-salary, I also privately calculated the ranges of offer for which want to try
-to negotiate higher, and what ranges I'd be happy to simply accept without
-haggling. 
+salary, I also privately calculated the ranges of offer for which I would want
+to try to negotiate higher, and what ranges I'd be happy to simply accept
+without haggling. 
 
 On May 8th, we had another call during which my recruiter disclosed my
 specific offer. The number is comfortably competitive for my skills and role
@@ -192,7 +192,7 @@ if one can call it that, is that everyone suddenly assumes I'm just as
 friendly and knowledgeable as everyone else. The title of "Mozilla Employee"
 seems at times to be a glowing crown emblazoned with "Ask Me Firefox
 Questions", but I've so far been able to redirect everyone onto my more
-knowledgeable peers to ge ttheir problems solved. And on the whole, there's no
+knowledgeable peers to get their problems solved. And on the whole, there's no
 better way of becoming that archetype of friendliness and knowledge than to
 suddenly have the entire world expecting me to embody it. 
 
