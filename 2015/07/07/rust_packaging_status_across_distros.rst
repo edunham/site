@@ -11,9 +11,28 @@ across distributions.
 
 .. more::
 
+In Summary
+----------
+
+=============== =================== ===========================
+Distro          Rust's Status       Cargo's Status
+=============== =================== ===========================
+Debian          Requested           Requested
+Ubuntu          Community package   Community package, bad docs
+Gentoo          1.1.0 in index      Community package
+OpenSUSE        1.0.0 in index      Recent version in index
+Arch            Community package   2 community packages; 1 bad
+Fedora          Community package   Nope
+Slackware*      Community package   Nope
+=============== =================== ===========================
+
+
 There are an unreasonable number of tiny Linux distributions out there, but
 they fall into a handful of "families". For a visualization of the history of
-various distros, check out this map_. 
+various distros, check out this map_. I've elided CentOS and RHEL as "flavors
+of Fedora", and a bunch of popular new Ubuntu flavors (ElementaryOS, Mint,
+etc.) as "compatible with Ubuntu packages, and probably smart enough to Google
+for Ubuntu docs if there aren't any specific to their OS".
 
 Debian
 ------
@@ -38,9 +57,9 @@ The official `Ubuntu`_ package repo has no mention of Rust or Cargo in the
 `trusty`_ or `vivid`_ package lists.
 
 The `rust-ci.org help`_ tells users to install Cargo from `Corey Richardson's
-PPA`_ (last updated July 2014, build currently failing) and Rust from `Hans Hoel's PPA`_, in which
-``rust-stable``, ``rust-nightly``, and ``cargo-nightly`` appear to be up to
-date. 
+PPA`_ (last updated July 2014, build currently failing) and Rust from `Hans
+Hoel's PPA`_, in which ``rust-stable``, ``rust-nightly``, and
+``cargo-nightly`` appear to be up to date. 
 
 Googling for how to install Rust on Ubuntu also turns up a `page on
 vultr.com`_ directing users to intsall Rust using ``rustup.sh``. `Another`_
@@ -53,6 +72,9 @@ There's a Rust 1.1.0 package in the `Gentoo package index`_. On GitHub,
 `Heather`_ has packaged a Rust overlay for Gentoo and appears to be actively
 developing it, although the build is currently failing. 
 
+There's a `cargo portage overlay`_ but cargo is not provided through the
+package index. 
+
 OpenSUSE
 --------
 
@@ -62,6 +84,9 @@ OpenSUSE" also turned up a `youtube video`_ on installing Rust from the
 nightly tarball. It seems to just be a walkthrough of what happens when you
 follow Rust's installation guidelines, but kudos to the OpenSUSE community for
 catering to diverse learning styles. 
+
+An `OpenSUSE Cargo package`_ is also available in what appears to be the main
+index. 
 
 Arch
 ----
@@ -86,14 +111,19 @@ either.
 for Redhat 5. The `fedora-rust`_ repo on GitHub provides a
 sporadically-updated Docker image with Rust installed. 
 
-Slackware
----------
+Slackware*
+----------
  
 According to the `2014 r/linux survey`_, 53 of the 10,292 respondants used
 Slackware on a desktop or server. A variety of search queries for Rust and
 Slackware turn up Rust's generic Linux installation docs as the first hits,
 and one `github issue from a slackware user`_. Extensive digging reveals a
 Rust 1.1.0 package in the `SlackBuilds repository`_. 
+
+\* The fact that I researched whether anyone had packaged Rust for Slackware
+is in no way intended to imply any plans for ever supporting such a package. I
+was just curious. Really.
+
 
 .. _2014 r/linux survey: https://brashear.me/blog/2014/05/18/results-of-the-2014-slash-r-slash-linux-distribution-survey/
 .. _A stackoverflow question: http://stackoverflow.com/questions/25728336/can-you-build-rust-for-old-redhat-5-vintage-linux
@@ -109,11 +139,13 @@ Rust 1.1.0 package in the `SlackBuilds repository`_.
 .. _Hans Hoel's PPA: https://launchpad.net/~hansjorg/+archive/ubuntu/rust
 .. _Heather: https://github.com/Heather/gentoo-rust
 .. _Jessie stable package list: https://packages.debian.org/stable/allpackages
+.. _OpenSUSE Cargo package: http://software.opensuse.org/package/cargo
 .. _SlackBuilds repository: http://slackbuilds.org/repository/14.1/development/rust/
 .. _The Arch Wiki: https://wiki.archlinux.org/index.php/Rust
 .. _Ubuntu: http://packages.ubuntu.com/
 .. _bug #786432: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=786432
 .. _building Rust on Fedora: http://minhdo.org/posts/2013-07-27-building-rust-on-fedora.html
+.. _cargo portage overlay: http://gpo.zugaina.org/dev-rust/cargo
 .. _cargo-bin: https://aur.archlinux.org/packages/cargo-bin/
 .. _cargo-git: https://aur.archlinux.org/packages/cargo-git/
 .. _community package: https://www.archlinux.org/packages/?name=rust
