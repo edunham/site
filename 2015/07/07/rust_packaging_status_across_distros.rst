@@ -17,7 +17,7 @@ In Summary
 =============== =================== ===========================
 Distro          Rust's Status       Cargo's Status
 =============== =================== ===========================
-Debian          Requested           Requested
+Debian          1.0.0 in unstable   Requested
 Ubuntu          Community package   Community package, bad docs
 Gentoo          1.1.0 in index      Community package
 OpenSUSE        1.0.0 in index      Recent version in index
@@ -46,6 +46,8 @@ stable package list`_, the `Debian testing package list`_ or the `Debian
 unstable package list`_. Debian `bug #786432`_ is a request for Cargo to be
 packaged, which describes what Cargo will need to do to be packageable. `Bug
 #689207`_ tracks the status of packaging ``rustc`` for Debian.
+
+There's a `rustc package in Debian Unstable`_.
 
 The Debian Wiki has a `rust packaging page`_ to track the status of packaging
 Rust for Debian. 
@@ -159,6 +161,7 @@ was just curious. Really.
 .. _rust-binary: https://copr.fedoraproject.org/coprs/fabiand/rust-binary/
 .. _rust-ci.org help: http://www.rust-ci.org/help/
 .. _rust-unofficial: https://copr.fedoraproject.org/coprs/fabiand/rust-unofficial/
+.. _rustc package in Debian Unstable: https://packages.debian.org/unstable/main/rustc
 .. _trusty: http://packages.ubuntu.com/trusty/allpackages?format=txt.gz
 .. _vivid: http://packages.ubuntu.com/vivid/allpackages?format=txt.gz
 .. _youtube video: https://www.youtube.com/watch?v=_z1M0uHY4So
