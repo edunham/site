@@ -21,7 +21,7 @@ Debian          1.0.0 in unstable   Requested
 Ubuntu          Community package   Community package, bad docs
 Gentoo          1.1.0 in index      Community package
 OpenSUSE        1.0.0 in index      Recent version in index
-Arch            Community package   2 community packages; 1 bad
+Arch            multirust in index  2 community packages; 1 bad
 Fedora          Community package   Nope
 Slackware*      Community package   Nope
 =============== =================== ===========================
@@ -98,6 +98,9 @@ cross-compiling. There's also a `community package`_ of rust 1.1.0. The Arch
 User Repository (AUR) provides Cargo through a choice of `cargo-bin`_ or
 `cargo-git`_, though the latter hasn't been updated since February. 
 
+I later learned that you need to install the `multirust`_ package to get Rust
+and Cargo. 
+
 Fedora
 ------
 
@@ -155,6 +158,7 @@ was just curious. Really.
 .. _fedora-rust: https://github.com/dockingbay/fedora-rust
 .. _github issue from a slackware user: https://github.com/rust-lang/rust/issues/17474
 .. _map: https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg
+.. _multirust: https://aur.archlinux.org/packages/multirust/
 .. _packaged for OpenSUSE: http://software.opensuse.org/package/rust
 .. _page on vultr.com: https://www.vultr.com/docs/installing-rust-on-ubuntu-14-04
 .. _rust packaging page: https://wiki.debian.org/Teams/RustPackaging
