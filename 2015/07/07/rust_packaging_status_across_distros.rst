@@ -112,9 +112,12 @@ SEO for queries about "how to install Rust on Fedora", recommends building
 from source. There's no ``rust`` or ``cargo`` in the `CentOS 6 package list`_,
 either. 
 
+Fedora is tracking the official effort to package ``rustc`` in `redhat bug
+#915042`_. 
+
 `A stackoverflow question`_ from late last year asked about how to build Rust
 for Redhat 5. The `fedora-rust`_ repo on GitHub provides a
-sporadically-updated Docker image with Rust installed. 
+sporadically-updated Docker image with Rust installed.
 
 Slackware*
 ----------
@@ -129,6 +132,12 @@ Rust 1.1.0 package in the `SlackBuilds repository`_.
 is in no way intended to imply any plans for ever supporting such a package. I
 was just curious. Really.
 
+Thanks!
+-------
+
+I appreciate readers Huon Wilson and Seo Sanghyeon taking the time to point
+out useful links for this post! Both mentioned the presence of the Debian
+Unstable package, and Seo informed me of `redhat bug #915043`_ as well. 
 
 .. _2014 r/linux survey: https://brashear.me/blog/2014/05/18/results-of-the-2014-slash-r-slash-linux-distribution-survey/
 .. _A stackoverflow question: http://stackoverflow.com/questions/25728336/can-you-build-rust-for-old-redhat-5-vintage-linux
@@ -161,6 +170,7 @@ was just curious. Really.
 .. _multirust: https://aur.archlinux.org/packages/multirust/
 .. _packaged for OpenSUSE: http://software.opensuse.org/package/rust
 .. _page on vultr.com: https://www.vultr.com/docs/installing-rust-on-ubuntu-14-04
+.. _redhat bug #915043: https://bugzilla.redhat.com/show_bug.cgi?id=915043
 .. _rust packaging page: https://wiki.debian.org/Teams/RustPackaging
 .. _rust-binary: https://copr.fedoraproject.org/coprs/fabiand/rust-binary/
 .. _rust-ci.org help: http://www.rust-ci.org/help/
