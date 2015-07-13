@@ -24,6 +24,8 @@ OpenSUSE        1.0.0 in index      Recent version in index
 Arch            multirust in index  2 community packages; 1 bad
 Fedora          Community package   Nope
 Slackware*      Community package   Nope
+Windows         `in chocolatey`_    No
+Mac             `in Brew, kinda`_   No
 =============== =================== ===========================
 
 
@@ -166,6 +168,8 @@ Unstable package, and Seo informed me of `redhat bug #915043`_ as well.
 .. _copr: https://copr.fedoraproject.org/coprs/
 .. _fedora-rust: https://github.com/dockingbay/fedora-rust
 .. _github issue from a slackware user: https://github.com/rust-lang/rust/issues/17474
+.. _in Brew, kinda: http://brewformulas.org/Rust
+.. _in chocolatey: https://chocolatey.org/packages/rust/1.0.0-alpha2
 .. _map: https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg
 .. _multirust: https://aur.archlinux.org/packages/multirust/
 .. _packaged for OpenSUSE: http://software.opensuse.org/package/rust
