@@ -19,7 +19,7 @@ thoroughly or just following these steps:
     $ sudo systemctl enable org.cups.cupsd.service
     $ sudo systemctl start org.cups.cupsd.service
 
-**Visit the web interface** at `http://localhost:631/`.
+**Visit the web interface** at `http://localhost:631 <http://localhost:631/>`_.
 
 Then you have a GUI sufficiently similar to the one in the instructions for
 Ubuntu! 
