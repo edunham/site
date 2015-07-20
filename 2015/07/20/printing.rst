@@ -14,6 +14,13 @@ thoroughly or just following these steps:
 
     $ yaourt -S libcups
 
+**Add a magic line to /etc/cups/cups-files.conf**::
+
+    SystemGroup username
+
+With your username on the system, assuming you have root and will log in as
+yourself in the dialog it prompts for. That line can go anywhere in the file.
+
 **Make the daemon go**::
 
     $ sudo systemctl enable org.cups.cupsd.service
