@@ -167,10 +167,23 @@ notice them and resume building successfully.
 Hopefully TaskCluster gets OSX support soon, so we can start switching off of
 Buildbot.
 
-.. _using RDP: http://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/connecting_to_windows_instance.html
-.. _stunnel docs: https://www.stunnel.org/howto.html
+Prevent it from happening again
+-------------------------------
+
+After I first published this post, `Gerv`_ pointed out that the correct final
+step would be "Add an alarm to the shared IT calendar for a month before the
+new cert expires". In my case, the analog to that alarm is "Make sure we move
+away from Buildbot in less than a decade". However, if you're reading this
+post to solve a similar problem in an infrastructure that will still exist at
+the date of the cert's expiry, you should automate a reminder so that you or
+your successor doesn't get the same unpleasant surprise. 
+
+
+.. _Gerv: http://www.gerv.net
 .. _broke things: https://internals.rust-lang.org/t/buildbot-is-down-for-a-bit/2365
+.. _stunnel docs: https://www.stunnel.org/howto.html
 .. _updated the repository: https://github.com/rust-lang/rust-buildbot/pull/21
+.. _using RDP: http://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/connecting_to_windows_instance.html
 
 .. author:: default
 .. categories:: none
