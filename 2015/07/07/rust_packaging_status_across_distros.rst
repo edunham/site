@@ -26,8 +26,8 @@ Fedora          Community package   Nope
 Slackware*      Community package   Nope
 Windows         `in chocolatey`_    No
 Mac             `in Brew, kinda`_   No
+FreeBSD         Community port (?)  None
 =============== =================== ===========================
-
 
 There are an unreasonable number of tiny Linux distributions out there, but
 they fall into a handful of "families". For a visualization of the history of
@@ -121,6 +121,14 @@ Fedora is tracking the official effort to package ``rustc`` in `redhat bug
 for Redhat 5. The `fedora-rust`_ repo on GitHub provides a
 sporadically-updated Docker image with Rust installed.
 
+FreeBSD
+-------
+
+The `FreeBSD Wiki`_ tracks the status of the Rust port. The `port overview
+page`_ tracks which version is available, which is the latest Rust version
+available in July 2015. There's also a `Rust on FreeBSD`_ internals thread
+that tracks other relevant information and tools.  
+
 Slackware*
 ----------
  
@@ -151,11 +159,13 @@ Unstable package, and Seo informed me of `redhat bug #915043`_ as well.
 .. _Debian testing package list: https://packages.debian.org/testing/allpackages
 .. _Debian unstable package list: https://packages.debian.org/unstable/allpackages
 .. _Duncan Mac-Vicar: http://duncan.mac-vicar.com/2014/01/16/trying-rust-language-on-opensuse/
+.. _FreeBSD Wiki: https://wiki.freebsd.org/Rust
 .. _Gentoo package index: https://packages.gentoo.org/package/dev-lang/rust
 .. _Hans Hoel's PPA: https://launchpad.net/~hansjorg/+archive/ubuntu/rust
 .. _Heather: https://github.com/Heather/gentoo-rust
 .. _Jessie stable package list: https://packages.debian.org/stable/allpackages
 .. _OpenSUSE Cargo package: http://software.opensuse.org/package/cargo
+.. _Rust on FreeBSD: https://internals.rust-lang.org/t/rust-on-freebsd/2132
 .. _SlackBuilds repository: http://slackbuilds.org/repository/14.1/development/rust/
 .. _The Arch Wiki: https://wiki.archlinux.org/index.php/Rust
 .. _Ubuntu: http://packages.ubuntu.com/
@@ -174,6 +184,7 @@ Unstable package, and Seo informed me of `redhat bug #915043`_ as well.
 .. _multirust: https://aur.archlinux.org/packages/multirust/
 .. _packaged for OpenSUSE: http://software.opensuse.org/package/rust
 .. _page on vultr.com: https://www.vultr.com/docs/installing-rust-on-ubuntu-14-04
+.. _port overview page: http://portsmon.freebsd.org/portoverview.py?category=lang&portname=rust
 .. _redhat bug #915043: https://bugzilla.redhat.com/show_bug.cgi?id=915043
 .. _rust packaging page: https://wiki.debian.org/Teams/RustPackaging
 .. _rust-binary: https://copr.fedoraproject.org/coprs/fabiand/rust-binary/
