@@ -2,8 +2,8 @@ Good times
 ==========
 
 People sometimes say "morning" or "evening" on IRC for a time zone unlike my
-own. I want a bash one-liner that emits the correct time-of-day
-generalization based on the datetime settings of the machine you run it on. 
+own. Here's a bash one-liner that emits the correct time-of-day generalization
+based on the datetime settings of the machine you run it on. 
 
 ::
 
@@ -11,8 +11,11 @@ generalization based on the datetime settings of the machine you run it on.
 
 .. more::
 
-First, check if it's already implemented. ``man date`` and try not to giggle.
-Search for ``morning``. It's not there.
+How?
+----
+
+First, check if the feature is already implemented. ``man date`` and try not
+to giggle.  Search for ``morning``. It's not there.
 
 So we need a `switch/case
 <http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_03.html>`_::
@@ -23,7 +26,7 @@ And the expression we're switching on will be the current hour::
 
     date +%H
 
-My first attempt does not work because I expect too much of Bash::
+My first attempt **does not work** because I expect too much of Bash::
 
     case $(date +%H) in [0-12]) m="morning";;[13-18]) m="afternoon";;[19-21])m="evening";;*)m="night";;esac; echo $m
 
