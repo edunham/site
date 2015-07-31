@@ -10,7 +10,8 @@ List below the fold.
 
 .. more::
 
-32 General and Project channels::
+54 General and Project channels::
+
 
     ##rustfmt
     #cargo
@@ -31,6 +32,9 @@ List below the fold.
     #rust-fsnotify
     #rust-gamedev
     #rust-internals
+    #rust-lang
+    #rust-learners
+    #rust-libs
     #rust-music
     #rust-newspeak
     #rust-osdev
@@ -38,24 +42,27 @@ List below the fold.
     #rust-tls
     #rust-tools
     #rust-triage
+    #rust-tty
     #rust-war
     #rust-webdev
     #rust-workshop
     #rust-ww
     #rust_offtopic
     #rustaudio
-
+    #winapi
 3 social channels::
 
     #rust-chat
     #rust-offtopic
     #rust-offtopic-offtopic
 
-3 projects that happen to be in Rust::
+5 projects that happen to be in Rust::
 
     #hematite (Minecraft-in-Rust)
     #hyper (an HTTP library, https://github.com/hyperium/hyper)
     #iron (a web framework, https://github.com/iron/iron)
+    #mio
+    #servo
 
 9 apparently language- or location-specific channels::
 
