@@ -11,6 +11,7 @@ Ignite OSCON
   |br| Abstract:  http://www.oscon.com/open-source-2015/user/proposal/status/44880 
   |br| Text: http://talks.edunham.net/OSCON2015/noob.txt
   |br| Pictures: http://talks.edunham.net/OSCON2015/edunham_FirstImpressions.ppt
+  |br| Video: https://www.youtube.com/watch?v=zKWsBodjvC8
 
 OpenWest
 --------
