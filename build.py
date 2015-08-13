@@ -55,7 +55,7 @@ for p in posts:
 # For ordinary page titles, use the line below
 # for page in sorted(os.listdir('pages')):
 # OR for pages prefaced with a 2-digit number to indicate order, use this:
-for page in sorted(os.listdir('pages'), key=lambda p: int(p[:2])):
-    f.write('    pages/' + page[:-4] + '\n')
+for page in sorted(os.listdir('pages')):
+    f.write('    pages/' + page + '\n')
 f.close()
 

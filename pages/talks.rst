@@ -4,25 +4,29 @@ Talks
 2015
 ====
 
-Open Source Bridge
-------------------
+Ignite OSCON
+------------
 
-* **You Should Speak**, 6/25/2015(?)
-  |br| Abstract: http://opensourcebridge.org/proposals/1677
-
+* **First Impressions (The value of the "noob")**, 7/20/2015
+  |br| Abstract:  http://www.oscon.com/open-source-2015/user/proposal/status/44880 
+  |br| Text: http://talks.edunham.net/OSCON2015/noob.txt
+  |br| Pictures: http://talks.edunham.net/OSCON2015/edunham_FirstImpressions.ppt
+  |br| Video: https://www.youtube.com/watch?v=zKWsBodjvC8
 
 OpenWest
 --------
 
 * **Human Hacking**, 5/7/2015
   |br| Abstract: http://www.openwest.org/custom/description.php?id=69
-  
+  |br| Slides: http://talks.edunham.net/openwest2015/devops/#1
+
 * **Thinking In Git**, 5/8/2015
   |br| Abstract: http://www.openwest.org/custom/description.php?id=90
-  
+  |br| Slides: http://talks.edunham.net/openwest2015/git/#1  
+
 * **Teaching DevOps to University Students**, 5/9/2015
   |br| Abstract: http://www.openwest.org/custom/description.php?id=191
-
+  |br| Slides: http://talks.edunham.net/openwest2015/humans/#1
 
 LinuxFest Northwest
 -------------------
@@ -47,6 +51,7 @@ demos instead of slides.
 
 * **Easy, Beautiful Resumes with LaTeX**, 4/18/2015
   |br| 1-hour talk, included demos but no slides
+  |br| Many examples used code from https://github.com/edunham/resume
 
 Southern California Linux Expo
 ------------------------------

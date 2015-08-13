@@ -2,7 +2,9 @@ About
 =====
 
 I'm a `FOSS <http://en.wikipedia.org/wiki/Free_and_open-source_software>`_
-addict who's currently finishing up a Computer Science degree. 
+addict who dropped out of the Computer Science program at Oregon State
+University to take an amazing job as a DevOps Engineer for Mozilla Research in
+Portland, Oregon.
 
 `FIRST <http://www3.usfirst.org/>`_ got me into robotics and programming back
 in 2006, and I've been an amateur electrical and mechanical engineer ever
@@ -11,11 +13,11 @@ since. The `LUG <http://lug.oregonstate.edu/>`_ and `Open Source Lab
 and Linux systems administration in 2010, and those topics have since become
 my career.
 
-I will have attended Oregon State University from September 2010 to June 2015.
-In 2011 I spent my summer as a software developer on the Ganeti Web Manager
-project at the OSU Open Source Lab; in 2012 I spent the summer doing Android
-software development at Intel; in the summer of 2013 I was a sysadmin at the
-OSL, and in 2014 I interned on the ops team at Urban Airship. 
+I attended Oregon State University from September 2010 to June 2015.  In 2011
+I spent my summer as a software developer on the Ganeti Web Manager project at
+the OSU Open Source Lab; in 2012 I spent the summer doing Android software
+development at Intel; in the summer of 2013 I was a sysadmin at the OSL, and
+in 2014 I interned on the ops team at Urban Airship. 
 
 As well as spending a couple terms as a teaching assistant and peer mentor for
 the school of Electrical Engineering and Computer Science in 2013 and 2013, I
@@ -45,6 +47,6 @@ Web Presence
   history, with recordings.
 
 * I'm **not** an active contributor to Twitter, Facebook, or Google+. Although
-  I appreciate their usefulness, my personal contributions to the tech
-  community's discussions have so far fit better into IRC discussions, project
-  issue trackers, blog posts, and so forth.
+  I appreciate their usefulness, my personal involvement in the tech
+  community's discussions fits better into IRC conversations, project issue
+  trackers, blog posts, and so forth.

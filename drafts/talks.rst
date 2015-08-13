@@ -60,42 +60,25 @@ encounter, including:
 These tricks will be helpful for experienced presenters looking to learn new
 skills, as well as novice speakers who need some help getting started.  
 
-Usenix LISA
------------
-
-`CFP <https://www.usenix.org/conference/lisa15>`_ open till APRIL 17th
-
-conference occurrs November 8-13
-
-apply with dobc talk?
-
 LCA 2016
 --------
 
 http://lcabythebay.org.au/ 
 
-CFP not open yet
-
-LinuxCon North America
-----------------------
-
-http://events.linuxfoundation.org//events/linuxcon-north-america/program/cfp
-
-August 17-19
-
-(defcon is august 4-7)
+CFP due august 2 
 
 SeaGL
 -----
 
-Might be in October? CFP not open yet. site might be updated around June-ish?
+Oct 23 & 24
+
+CFP due July 26th
+
 
 OSBridge
 --------
 
-CFP open till March 7th
-
-Conference June 23-26
+CFP open till March 7th, Conference June 23-26
 
 Applied with "Community Management on Freenode": http://opensourcebridge.org/proposals/1670
 Applied with "You Should Speak": http://opensourcebridge.org/proposals/1677
@@ -107,17 +90,15 @@ in pdx
 
 Presumably occurrs April-ish?
 
-OSCON 2015
-----------
+Write The Docs 2016
+-------------------
 
-July 20-24 2015
-CFP closes Feb 2
+doing this last year got Eli into writethedocs EU
 
-Do leadership handoff talk with Eli, Community Management on IRC, Why's My
-Algo Slow
+Usenix LISA
+-----------
 
-
-
+look into 2016 cfp at some point
 
 .. author:: default
 .. categories:: none
