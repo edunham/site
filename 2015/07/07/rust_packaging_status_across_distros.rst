@@ -9,6 +9,8 @@ managers, and we don't even know where to find that information.
 This post is the notes I've taken in researching Rust's packaging status
 across distributions. 
 
+I last updated this post on 8/17/2015.
+
 .. more::
 
 In Summary
