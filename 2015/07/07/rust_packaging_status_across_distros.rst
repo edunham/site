@@ -22,11 +22,11 @@ Ubuntu          Community package   Community package, bad docs
 Gentoo          1.1.0 in index      Community package
 OpenSUSE        1.0.0 in index      Recent version in index
 Arch            multirust in index  2 community packages; 1 bad
-Fedora          Community package   Nope
-Slackware*      Community package   Nope
-Windows         `in chocolatey`_    No
-Mac             `in Brew, kinda`_   No
-FreeBSD         Community port (?)  None
+Fedora          Community package   No separate package
+Slackware*      Community package   No separate package
+Windows         `in chocolatey`_    No separate package
+Mac             `in Brew, kinda`_   No separate package
+FreeBSD         Community port (?)  No separate package
 =============== =================== ===========================
 
 There are an unreasonable number of tiny Linux distributions out there, but
