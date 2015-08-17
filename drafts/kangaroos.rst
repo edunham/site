@@ -3,7 +3,7 @@ Folklore and fallacy
 
 I was a student employee at the OSU Open Source Lab, on and off between
 internships and other jobs, for 4 years. Being part of the lab helped shape my
-life and career, in almost overwhelmingly positive ways. However, the further
+life and career, in almost overwhelmingly positive ways. However, the farther
 I get from the lab the more clearly I notice how being part of it changed
 the way I form expectations about my own technical skills. 
 
@@ -35,7 +35,7 @@ only able to jump 1 meter, but she improved by 1 meter per year.
 
 At the start of the second year that the school was around, a kangaroo named
 Bill joined. Bill could only jump 1 meter when he started, and improved at a
-rate of 1 meter per year. But Aggie could always jump 2 meters further than
+rate of 1 meter per year. But Aggie could always jump 2 meters farther than
 Bill while she was still in school, because they were both improving at the
 same rate. 
 
@@ -45,7 +45,7 @@ same rate.
 Nobody new joined for a while, and Aggie left after her fourth year to go
 cross roads in front of unwary motorists, but Bill stayed in school and kept
 improving. When she left school, Aggie could jump 5 meters. She knew she'd
-worked hard, and could always jump further than Bill, so she felt pretty good
+worked hard, and could always jump farther than Bill, so she felt pretty good
 about herself.
 
 At the start of the school's fourth year, after Aggie had left, a new student
@@ -56,9 +56,9 @@ a rate of 1 meter per year.
     :align: center
 
 Claire and Bill would chat about school sometimes, and Claire observed that
-Bill could always jump 2 meters further than her. When she commented on it,
+Bill could always jump 2 meters farther than her. When she commented on it,
 Bill said "If you think I can jump far, you should have seen Aggie! She was a
-student here before you came, and she could always jump 2 meters further than
+student here before you came, and she could always jump 2 meters farther than
 me!". 
 
 At the end of the school's 6th year, Bill finished up and went away to fight
@@ -69,7 +69,7 @@ able to jump just a bit farther than him.)
 A new student, Dave, joined after Bill left. Dave started
 out being able to only jump 1 meter and was able to jump 5 meters by the time
 he'd been at the school for 4 years. Dave knew that Claire could always jump 2
-meters further than him while they were in school together. Dave heard stories
+meters farther than him while they were in school together. Dave heard stories
 from Claire about Bill and Aggie, who could both jump even farther than her!
 
 .. figure:: /_static/kangaroos6.jpg
@@ -81,7 +81,7 @@ could jump 5 meters after she'd been at school for 4 years, but she also knew
 that Bill had always been a better jumper than her and Aggie had been even
 better than Bill. Her 5 meters didn't seem particularly impressive, since (she
 even double-checked her math on it!) Aggie would have been able to jump 4
-meters further, so that must have meant Aggie was a student who could jump 9
+meters farther, so that must have meant Aggie was a student who could jump 9
 meters. 
 
 A couple years later, Dave was finally finished with school. He'd come in only
@@ -92,10 +92,10 @@ other kangaroos who'd also gone to the school.
 .. figure:: /_static/kangaroos7.jpg
     :align: center
 
-Dave knew that Claire was a student, and she was able to jump 2 meters further
+Dave knew that Claire was a student, and she was able to jump 2 meters farther
 than him whenever they studied together. Bill was a student who could jump 2
 meters farther than Claire, and Aggie was a student who could jump 2 meters
-further than Bill! Since Dave could jump 5 meters, he concluded that Claire
+farther than Bill! Since Dave could jump 5 meters, he concluded that Claire
 could jump 7 meters, Bill could jump 9, and Aggie could jump 11! Not only was
 Dave the worst of the lot, he wasn't even half as good as the school's first
 student! He felt pretty bad about his accomplishments, and wondered why
