@@ -25,7 +25,7 @@ Arch            multirust in index  2 community packages; 1 bad
 Fedora          Community package   No separate package
 Slackware*      Community package   No separate package
 Windows         `in chocolatey`_    No separate package
-Mac             `in Brew, kinda`_   No separate package
+Mac             `in Brew`_          No separate package
 FreeBSD         Community port (?)  No separate package
 =============== =================== ===========================
 
@@ -178,7 +178,7 @@ Unstable package, and Seo informed me of `redhat bug #915043`_ as well.
 .. _copr: https://copr.fedoraproject.org/coprs/
 .. _fedora-rust: https://github.com/dockingbay/fedora-rust
 .. _github issue from a slackware user: https://github.com/rust-lang/rust/issues/17474
-.. _in Brew, kinda: http://brewformulas.org/Rust
+.. _in Brew: http://braumeister.org/formula/rust 
 .. _in chocolatey: https://chocolatey.org/packages/rust/1.0.0-alpha2
 .. _map: https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg
 .. _multirust: https://aur.archlinux.org/packages/multirust/
