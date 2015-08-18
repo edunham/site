@@ -32,7 +32,15 @@ seeing the little lock icon in their URL bars:
   * The inconvenience is that I have to rebuild the functionality of GitHub
     pages where pushing to the repo automatically rebuilds the site. 
 
-Since I want to improve security without harming performance, the third option
+* Update: A comment on July 1 in the `github thread
+  <https://github.com/isaacs/github/issues/156#issuecomment-117856640>`_
+  pointed out that `surge.sh <https://surge.sh/>`_ offers static web
+  publishing with Jekyll for free, or with custom SSL for $13/month. It could
+  probably be deployed automatically from Travis, and might be a better fit
+  than AWS for other use cases. 
+
+Since I want to improve security without harming performance or adding
+unnecessary new moving parts to Rust's infrastructure, the third option
 is distinctly preferable.
 
 New Workflow
