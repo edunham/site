@@ -17,7 +17,7 @@ Below the fold, there'll be pictures!
     :align: center
 
 Once upon a time, some kangaroos lived in a desert. One day, for some
-inscrutable marsuipal reason, a bunch of young kangaroos got together to
+inscrutable marsupial reason, a bunch of young kangaroos got together to
 practice jumping. Since they're not particularly creative creatures, they
 called the group jumping school. 
 
@@ -84,7 +84,7 @@ even double-checked her math on it!) Aggie would have been able to jump 4
 feet farther, so that must have meant Aggie was a student who could jump 9
 feet. 
 
-A couple years later, Dave was finally finished with school. He'd come in only
+A couple of years later, Dave was finally finished with school. He'd come in only
 being able to jump 1 foot, and left being able to jump 5 feet! But he
 wasn't sure if this was better or worse than normal, so he thought about the
 other kangaroos who'd also gone to the school. 
@@ -124,9 +124,9 @@ is the only factually accurate part of this entire story.
 The Moral
 ---------
 
-I think that a simlar effect distored my perceptions of my own competence when
+I think that a similar effect distorted my perception of my own competence when
 I compared myself to past OSL students. One can spot the fallacy pretty easily
-when everything's spelled out with cute photos: Relative skill levels don't
+when everything is spelled out with cute photos: Relative skill levels don't
 translate reliably into absolute ones over time. It's tricker to spot the same
 fallacy in real life, but you might have an easier time now that you've seen
 the pattern once before.
