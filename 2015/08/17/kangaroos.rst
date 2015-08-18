@@ -17,7 +17,7 @@ Below the fold, there'll be pictures!
     :align: center
 
 Once upon a time, some kangaroos lived in a desert. One day, for some
-inscruiable marsuipal reason, a bunch of young kangaroos got together to
+inscrutable marsuipal reason, a bunch of young kangaroos got together to
 practice jumping. Since they're not particularly creative creatures, they
 called the group jumping school. 
 
@@ -120,6 +120,17 @@ species was able to jump.
 In reality, red kangaroos `only jump about 1.8 meters
 <http://animals.nationalgeographic.com/animals/mammals/red-kangaroo/>`_, which
 is the only factually accurate part of this entire story. 
+
+The Moral
+---------
+
+I think that a simlar effect distored my perceptions of my own competence when
+I compared myself to past OSL students. One can spot the fallacy pretty easily
+when everything's spelled out with cute photos: Relative skill levels don't
+translate reliably into absolute ones over time. It's tricker to spot the same
+fallacy in real life, but you might have an easier time now that you've seen
+the pattern once before.
+
 
 Photo credits, in order: 
 
