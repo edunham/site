@@ -4,6 +4,11 @@ Talks
 2015
 ====
 
+SeaGL
+-----
+
+* **You Should Speak**, 10/??/2015
+
 Ignite OSCON
 ------------
 
