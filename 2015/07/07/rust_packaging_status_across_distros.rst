@@ -9,6 +9,8 @@ managers, and we don't even know where to find that information.
 This post is the notes I've taken in researching Rust's packaging status
 across distributions. 
 
+I last updated this post on 8/17/2015.
+
 .. more::
 
 In Summary
@@ -22,11 +24,11 @@ Ubuntu          Community package   Community package, bad docs
 Gentoo          1.1.0 in index      Community package
 OpenSUSE        1.0.0 in index      Recent version in index
 Arch            multirust in index  2 community packages; 1 bad
-Fedora          Community package   Nope
-Slackware*      Community package   Nope
-Windows         `in chocolatey`_    No
-Mac             `in Brew, kinda`_   No
-FreeBSD         Community port (?)  None
+Fedora          Community package   No separate package
+Slackware*      Community package   No separate package
+Windows         `in chocolatey`_    No separate package
+Mac             `in Brew`_          No separate package
+FreeBSD         Community port (?)  No separate package
 =============== =================== ===========================
 
 There are an unreasonable number of tiny Linux distributions out there, but
@@ -178,7 +180,7 @@ Unstable package, and Seo informed me of `redhat bug #915043`_ as well.
 .. _copr: https://copr.fedoraproject.org/coprs/
 .. _fedora-rust: https://github.com/dockingbay/fedora-rust
 .. _github issue from a slackware user: https://github.com/rust-lang/rust/issues/17474
-.. _in Brew, kinda: http://brewformulas.org/Rust
+.. _in Brew: http://braumeister.org/formula/rust 
 .. _in chocolatey: https://chocolatey.org/packages/rust/1.0.0-alpha2
 .. _map: https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg
 .. _multirust: https://aur.archlinux.org/packages/multirust/

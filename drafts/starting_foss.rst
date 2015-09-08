@@ -1,5 +1,7 @@
-Ansible + Vagrant + Virtualbox
-==============================
+Starting FOSS
+=============
+
+http://up-for-grabs.net/#/
 
 
 

@@ -32,7 +32,15 @@ seeing the little lock icon in their URL bars:
   * The inconvenience is that I have to rebuild the functionality of GitHub
     pages where pushing to the repo automatically rebuilds the site. 
 
-Since I want to improve security without harming performance, the third option
+* Update: A comment on July 1 in the `github thread
+  <https://github.com/isaacs/github/issues/156#issuecomment-117856640>`_
+  pointed out that `surge.sh <https://surge.sh/>`_ offers static web
+  publishing with Jekyll for free, or with custom SSL for $13/month. It could
+  probably be deployed automatically from Travis, and might be a better fit
+  than AWS for other use cases. 
+
+Since I want to improve security without harming performance or adding
+unnecessary new moving parts to Rust's infrastructure, the third option
 is distinctly preferable.
 
 New Workflow
@@ -64,9 +72,9 @@ for Travis. Download the credentials and keep them somewhere safe -- you'll
 later encrypt them to allow Travis to use them to push your site to s3. Set
 the Travis account's `policies
 <http://docs.aws.amazon.com/IAM/latest/UserGuide/policies_using-managed.html>`_
-to allow it to upload to the bucket you created, but not touch anything else
-in your infrastructure. It's `best practices
-<http://docs.aws.amazon.com/IAM/latest/UserGuide/IAMBestPracticesAndUseCases.html>`_
+to allow it to upload to the bucket you created, deploy a CloudFront
+invalidation, and not touch anything else in your infrastructure. It's `best
+practices <http://docs.aws.amazon.com/IAM/latest/UserGuide/IAMBestPracticesAndUseCases.html>`_
 to give the account the minimum permissions with which it can get its job
 done, to minimize the harm that will occur if someone breaks the encryption of
 its credentials. 
@@ -80,15 +88,16 @@ cannot decrypt the encrypted environment variables).
 Then follow the `s3 deployment guide
 <http://docs.travis-ci.com/user/deployment/s3/>`_ to create your
 ``.travis.yml`` file. During the interactive prompt for encryption, make sure
-that the Travis CLI has the correct value of what repo it's for. Each repo has
-a unique keypair, and a value encrypted with your fork's key cannot be
-decrypted once your changes are merged to the organization. A couple quick
-local tests have revealed that Travis seems to guess what repo it's encrypting
-for from the GitHub URL of the current repository's ``origin`` remote. 
+that the Travis CLI uses the key for the correct repository, by passing the
+``-r owner/repo`` flag. Each repo has a unique keypair, and a value encrypted
+with your fork's key cannot be decrypted once your changes are merged to the
+organization. A couple quick local tests have revealed that Travis seems to
+guess what repo it's encrypting for from the GitHub URL of the current
+repository's ``origin`` remote. 
 
-Push your changes to the repo for which the credentials are encrypted, and
-verify that the correct files showed up in the bucket.  Then `set up CloudFront
-<http://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.html>`_. 
+Push or PR your changes to the repo for which the credentials are encrypted,
+and verify that the correct files showed up in the bucket.  Then `set up
+CloudFront <http://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.html>`_. 
 
 Make Travis automatically invalidate old pages
 ----------------------------------------------
@@ -116,7 +125,7 @@ invalidator, and running the invalidation.
 Craft a ``_cf_s3_invalidator.yml`` file according to the instructions in the
 `ruby gem`_, then encrypt it with the command::
 
-    travis encrypt-file _cf_s3_invalidator.yml --add
+    travis encrypt-file -r owner/repo  _cf_s3_invalidator.yml --add
 
 The ``--add`` flag dumps the decryption command into the ``before_install``
 step of your .travis.yml. Read the output of the travis command in your
