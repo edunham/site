@@ -1,7 +1,7 @@
 Apache Licenses
 ===============
 
-At the bottom fo the Apache 2.0 License file, there's an appendix::
+At the bottom of the Apache 2.0 License file, there's an appendix::
 
     APPENDIX: How to apply the Apache License to your work.
     
