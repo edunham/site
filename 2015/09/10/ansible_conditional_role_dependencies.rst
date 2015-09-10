@@ -114,5 +114,5 @@ target platforms, since you can't be sure how others will use your code.
 
 .. author:: default
 .. categories:: none
-.. tags:: none
+.. tags:: ansible 
 .. comments::
