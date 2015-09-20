@@ -1,6 +1,15 @@
 Talks
 =====
 
+2016
+====
+
+Linux.conf.au 
+-------------
+
+* **Life is better with Rust's community automation**, 02/??/2016
+  |br| Abstract: https://linux.conf.au/proposal/30215
+
 2015
 ====
 
@@ -8,6 +17,12 @@ SeaGL
 -----
 
 * **You Should Speak**, 10/??/2015
+
+OSU DevOps Daycamp
+------------------
+
+* **GPG in the Real World**, 10/03/2015
+  |br| Abstract: https://devopsbootcamp.osuosl.org/daycamp/
 
 Ignite OSCON
 ------------
