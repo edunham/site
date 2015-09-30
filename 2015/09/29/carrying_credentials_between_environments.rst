@@ -67,6 +67,10 @@ needs to end up using the socket. Making them world read/writable would allow
 any user on the system to use any key currently added to the ``ssh-agent`` on
 ``A``, which is a terrible idea. 
 
+For what it's worth, the actual value of ``/tmp/ssh-AbCdE/agent.12345`` is
+available at any time in this workflow as the result of ``printenv | grep
+SSH_AUTH_SOCK | cut -f2 -d =``.
+
 If there's a better way to manage this workflow, please let me know by
 emailing ``anything @ edunham . net``, and I'll update this post and attribute
 you!
