@@ -23,6 +23,7 @@ OSU DevOps Daycamp
 
 * **GPG in the Real World**, 10/03/2015
   |br| Abstract: https://devopsbootcamp.osuosl.org/daycamp/#advanced 
+  |br| Slides: http://talks.edunham.net/DevOpsDaycamp2015/#/
 
 Ignite OSCON
 ------------
