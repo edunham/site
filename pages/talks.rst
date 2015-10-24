@@ -16,7 +16,8 @@ Linux.conf.au
 SeaGL
 -----
 
-* **You Should Speak**, 10/??/2015
+* **You Should Speak**, 10/23/2015
+ |br| Slides: http://talks.edunham.net/seagl2015/#/
 
 OSU DevOps Daycamp
 ------------------
