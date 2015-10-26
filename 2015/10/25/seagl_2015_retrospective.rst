@@ -3,7 +3,7 @@ SeaGL 2015 Retrospective
 
 
 As well as nominally helping organize the event, I attended and spoke at
-`SeaGL`_ 2015 last weekend. The slides from my talk are `here`_. 
+`SeaGL`_ 2015 this weekend. The slides from my talk are `here`_. 
 
 My talk drew an audience of perhaps a dozen people on Friday afternoon.
 I didn't record this instance of the talk, but will probably give it at least
