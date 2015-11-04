@@ -32,6 +32,7 @@ Am I missing your favorite introductory issue aggregator? Shoot me an email to
 me) with a link, and I'll add it here if it looks good!
 
 .. _OpenHatch: https://openhatch.org/
+.. _What can I do for Mozilla?: http://up-for-grabs.net/#/
 .. _issuehub.io: http://issuehub.io
 .. _servo-starters: http://servo.github.io/servo-starters/
 .. _slide deck: http://www.joshmatthews.net/fsoss15/
