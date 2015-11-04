@@ -11,7 +11,7 @@ project, you're no longer in the target audience for OpenHatch's list. Where
 should you look for introductory issues when you want to get involved with a
 new project, but you're already familiar with open source in general? 
 
-An excellent `slide deck`_ by Josh Matthews contained several answers to this
+An excellent `slide deck`_ by Josh Matthews contains several answers to this
 question: 
 
 * `issuehub.io`_ scrapes GitHub by labels and language
@@ -24,15 +24,18 @@ question:
   `What can I do for Mozilla?`_ can help direct you into any of Mozilla's
   myriad opportunities for involvement.
 
+Additionally, the `servo-starters`_ page has a custom view of easy issues
+sorted by Servo's project-specific tags. 
 
+Am I missing your favorite introductory issue aggregator? Shoot me an email to
+``___@edunham.net`` (fill in the blank with anything; the email will get to
+me) with a link, and I'll add it here if it looks good!
 
-Am I missing your favorite introductory issue aggregator? 
-
-.. _slide deck: http://www.joshmatthews.net/fsoss15/
 .. _OpenHatch: https://openhatch.org/
 .. _issuehub.io: http://issuehub.io
+.. _servo-starters: http://servo.github.io/servo-starters/
+.. _slide deck: http://www.joshmatthews.net/fsoss15/
 .. _up-for-grabs: http://up-for-grabs.net/
-
 
 .. author:: default
 .. categories:: none
