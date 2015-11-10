@@ -5,6 +5,11 @@ The set of times when I find interestng pages and the times when I have the
 bandwidth do take on a new task sometimes seem disjoint. Here's a subset of
 the interesting websites that I find. 
 
+Blogs
+-----
+
+* `Things of Interest <http://qntm.org/>`_
+
 Security Challenges
 -------------------
 
