@@ -155,5 +155,5 @@ gets returned for various HTTP response codes.
 
 .. author:: default
 .. categories:: none
-.. tags:: travis, ruby, aws, s3, cloudfront, github pages
+.. tags:: travisci, ruby, aws, s3, cloudfront, github pages
 .. comments::
