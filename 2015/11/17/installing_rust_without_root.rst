@@ -86,14 +86,16 @@ or in verbose mode,::
 
 It means you don't have permissions to write to ``/etc/ld.so.cache``. Until
 `this issue`_ gets fixed, the easiest workaround to lacking those permissions
-is to change the script called by the installer to pass -C to ``ldconfig``::
+is to change the script called by the installer to pass ``-C`` to
+``ldconfig``::
 
     sed -i 's/   ldconfig/   ldconfig -C ~\/.rust\/ld.so.cache/' build/work/multirust-0.7.0/install.sh
  
 Then you should be able to ``./install.sh --prefix=~/.rust`` without the prior
 warning. Nasty hack, but the easiest way to get it working today. This, by the
-way, is why you configure your system utilities like ``ldconfig`` to read
-their configuration options out of environment variables. 
+way, is why authors of system utilities like ``ldconfig`` should configure
+them to read their serttings out of environment variables as well as just
+command-line arguments.
 
 Now you can ``multirust default nightly`` to install rust-nightly and
 configure it as the default, and you're ready to roll!
