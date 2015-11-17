@@ -46,10 +46,10 @@ To `verify the GPG signature`_, you'll also need a copy of the Rust project's
 public key. This key is available through several channels: 
 
 * `on the Rust website`_, available only over HTTPS. 
-* `on keybase.io`, correlated to Rust's Twitter account and URL. Don't worry,
+* `on keybase.io`_, correlated to Rust's Twitter account and URL. Don't worry,
   we authenticated the key by signing a string from Keybase with it locally.
   We don't trust them to ever see our private key.
-* `on GitHub`, in the website's repository. 
+* `on GitHub`_, in the website's repository. 
 
 Remember, verifying the signature only guarantees that the tarball you
 downloaded matches the one that was produced by the Rust project's build
