@@ -5,8 +5,14 @@ I just got a good question from a friend on IRC: "Should I ask my university's
 administration to install Rust on our shared servers?" The answer is "you
 don't have to". 
 
-The Easiest Way
----------------
+Pick one of the two following sets of directions. I'd recommend using
+`Multirust`_, because it automatically checks the packages it downloads and
+lets you switch between Rust versions trivially.
+
+.. more::
+
+Without multirust
+-----------------
 
 If you just want one version of Rust, `this blog post`_ by Valérian Galliat
 has a fix in 7 lines::
@@ -62,8 +68,8 @@ installed without root as well::
     git clone --recursive https://github.com/brson/multirust && cd multirust
     ./build.sh # create install.sh
     mkdir ~/.rust
-    export LD_LIBRARY_PATH=~/.rust/rustc/lib:$LD_LIBRARY_PATH 
     ./install.sh --prefix=~/.rust/
+    echo "PATH=~/.rust/bin:$PATH" >> ~/.bashrc; source ~/.bashrc
 
 If you run into an error like::
 
@@ -78,17 +84,45 @@ or in verbose mode,::
     install: WARNING: failed to run ldconfig. this may happen when not installing
     as root. run with --verbose to see the error
 
+It means you don't have permissions to write to ``/etc/ld.so.cache``. Until
+`this issue`_ gets fixed, the easiest workaround to lacking those permissions
+is to change the script called by the installer to pass -C to ``ldconfig``::
+
+    sed -i 's/   ldconfig/   ldconfig -C ~\/.rust\/ld.so.cache/' build/work/multirust-0.7.0/install.sh
+ 
+Then you should be able to ``./install.sh --prefix=~/.rust`` without the prior
+warning. Nasty hack, but the easiest way to get it working today. This, by the
+way, is why you configure your system utilities like ``ldconfig`` to read
+their configuration options out of environment variables. 
+
+Now you can ``multirust default nightly`` to install rust-nightly and
+configure it as the default, and you're ready to roll!
 
 
+Testing your Rust installation
+------------------------------
 
-.. _multirust: 
-.. _verify the GPG signature: https://www.gnupg.org/gph/en/manual/x135.html
+You can now make a package that says "Hello World" in just 5 commands, using a
+workflow that will scale to packaging and distributing larger projects::
+
+    cargo new hello --bin
+    echo "fn main(){println!(\"Hello World\");}" > hello/src/main.rs
+    cd hello
+    cargo build
+    cargo run
+
+Congratulations, you're running Rust!
+
+.. _Multirust: https://github.com/brson/multirust 
+.. _on GitHub: https://github.com/rust-lang/rust-www/blob/master/rust-key.gpg.ascii
+.. _on keybase.io: https://keybase.io/rust
 .. _on the Rust website: https://www.rust-lang.org/rust-key.gpg.ascii
 .. _this blog post: https://www.codejam.info/2015/03/portable-rust-installation.html
-.. _on keybase.io: https://keybase.io/rust
-.. _on GitHub: https://github.com/rust-lang/rust-www/blob/master/rust-key.gpg.ascii
+.. _this issue: https://github.com/brson/multirust/issues/113
+.. _verify the GPG signature: https://www.gnupg.org/gph/en/manual/x135.html
+
 
 .. author:: default
 .. categories:: none
-.. tags:: rust
+.. tags:: rust, multirust
 .. comments::
