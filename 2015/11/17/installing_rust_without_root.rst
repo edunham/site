@@ -92,10 +92,15 @@ is to change the script called by the installer to pass ``-C`` to
     sed -i 's/   ldconfig/   ldconfig -C ~\/.rust\/ld.so.cache/' build/work/multirust-0.7.0/install.sh
  
 Then you should be able to ``./install.sh --prefix=~/.rust`` without the prior
-warning. Nasty hack, but the easiest way to get it working today. This, by the
-way, is why authors of system utilities like ``ldconfig`` should configure
-them to read their serttings out of environment variables as well as just
-command-line arguments.
+warning. Nasty hack, but the easiest way to get it working today. 
+
+This technically breaks ``rustc`` (since it's dynamically linked), but if
+you're building a Rust project or library, you'll be using the statically
+linked ``cargo`` tool and thus won't be affected.
+
+By the way, this is an example of why people who write system utilities like
+``ldconfig`` should make them able to read their serttings out of environment
+variables as well as just command-line arguments.
 
 Now you can ``multirust default nightly`` to install rust-nightly and
 configure it as the default, and you're ready to roll!
