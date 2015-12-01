@@ -27,3 +27,8 @@ Do Some Open Source
 
 * `issuehub <http://issuehub.io/>`_ sorts by label and language
 * `up-for-grabs <http://up-for-grabs.net/#/>`_ sorts by project
+
+Coding Games
+------------
+
+* `flexbox froggy <http://flexboxfroggy.com/>`_ teaches CSS
