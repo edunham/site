@@ -1,5 +1,5 @@
-Subdomains
-==========
+Other Pages
+===========
 
 I have a wildcard CNAME set up so that ``anything.edunham.net`` gets directed
 to this server. This way, deploying a new toy is as simple as dropping it into
@@ -24,9 +24,8 @@ notes.
 Slides will be posted here after each talk, and I promise that the URLs to 
 each set of slides will keep working for as long as I run this site.
 
-`licensecheck.edunham.net`_
----------------------------
-
+`edunham.github.io/pleaselicense`_
+----------------------------------
 
 .. figure:: /_static/licensecheck_edunham_net.png
     :scale: 50%
@@ -37,6 +36,12 @@ have a LICENSE or COPYING file and which ones do not.
 
 `Source`_ is on GitHub, and pull requests to make it less ugly are welcome. 
  
+`edunham.github.io/rust-org-stats`_
+-----------------------------------
+
+Nightly Travis build aggregates the Git histories of every repo in the
+``rust-lang`` organization and turns them into graphs with `gitstat`_.
+
 `nano.edunham.net`_
 -------------------
 
@@ -50,8 +55,11 @@ participants do some very specific math about their word counts.
 
 Source is `on GitHub`_. 
 
-.. _licensecheck.edunham.net: http://licensecheck.edunham.net/
-.. _nano.edunham.net: http://nano.edunham.net/
-.. _talks.edunham.net: http://talks.edunham.net/
+
 .. _Source: https://github.com/edunham/pleaselicense
+.. _edunham.github.io/pleaselicense: http://edunham.github.io/pleaselicense/
+.. _edunham.github.io/rust-org-stats: http://edunham.github.io/rust-org-stats/
+.. _gitstat: https://github.com/youknowone/gitstat
+.. _nano.edunham.net: http://nano.edunham.net/
 .. _on GitHub: https://github.com/edunham/toys/tree/master/nano
+.. _talks.edunham.net: http://talks.edunham.net/
