@@ -27,6 +27,9 @@ Do Some Open Source
 
 * `issuehub <http://issuehub.io/>`_ sorts by label and language
 * `up-for-grabs <http://up-for-grabs.net/#/>`_ sorts by project
+* `What can I do for Mozilla <http://whatcanidoformozilla.org/#!/progornoprog/advocate>`_
+  includes non-coding tasks 
+* `One And Done <https://oneanddone.mozilla.org/>`_ For bugs across Mozilla
 
 Coding Games
 ------------
