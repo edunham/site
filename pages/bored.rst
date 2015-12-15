@@ -16,8 +16,8 @@ Security Challenges
 * `Cryptopals <http://cryptopals.com/>`_ challenges
 * `Microcorruption <https://microcorruption.com/login>`_ CTF
 
-Coding Sites
-------------
+Code Competitively
+------------------
 
 * `Project Euler <https://projecteuler.net/>`_
 * `Hackerrank <https://www.hackerrank.com>`_
@@ -31,7 +31,13 @@ Do Some Open Source
   includes non-coding tasks 
 * `One And Done <https://oneanddone.mozilla.org/>`_ For bugs across Mozilla
 
+Study Something Useful
+----------------------
+
+* `Bash Academy <http://www.bash.academy/>`_
+
 Coding Games
 ------------
 
 * `flexbox froggy <http://flexboxfroggy.com/>`_ teaches CSS
+* `Vim Adventures <http://vim-adventures.com/>_
