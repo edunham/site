@@ -30,6 +30,8 @@ Do Some Open Source
 * `What can I do for Mozilla <http://whatcanidoformozilla.org/#!/progornoprog/advocate>`_
   includes non-coding tasks 
 * `One And Done <https://oneanddone.mozilla.org/>`_ For bugs across Mozilla
+* `Bugs Ahoy <http://www.joshmatthews.net/bugsahoy/>`_ sorts bugs by category
+
 
 Study Something Useful
 ----------------------
