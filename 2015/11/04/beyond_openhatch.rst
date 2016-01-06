@@ -1,6 +1,9 @@
 Beyond Openhatch
 ================
 
+Update: I'm now maintaining the issue aggregator list at
+http://edunham.net/pages/issue_aggregators.html
+
 `OpenHatch`_ is a wonderful place to help new contributors find their first
 open source issues to work on. Their training materials are unparalleled, and
 the "projects submit easy bugs with mentors" model makes their list of
