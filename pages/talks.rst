@@ -20,10 +20,10 @@ Linux.conf.au
 * **Life is better with Rust's community automation**, 02/??/2016
   |br| Abstract: https://linux.conf.au/proposal/30215
 
-UpSCALE (Ignite-style session at socallinuxexpo.org)
-----------------------------------------------------
+Southern California Linux Expo
+------------------------------
 
-* **Where's the Cloud?**, 1/22/2016
+* **Where's the Cloud?** (Ignite-style talk for UpSCALE event), 1/22/2016
 
 2015
 ====
