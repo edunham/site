@@ -37,6 +37,8 @@ Study Something Useful
 ----------------------
 
 * `Bash Academy <http://www.bash.academy/>`_
+* Try something new from the `sysadmin tools ecosystem 
+  <http://sysadmin.it-landscape.info/>`_
 
 Coding Games
 ------------
