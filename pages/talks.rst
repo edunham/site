@@ -17,7 +17,7 @@ Great Wide Open
 Linux.conf.au 
 -------------
 
-* **Life is better with Rust's community automation**, 02/??/2016
+* **Life is better with Rust's community automation**, 02/05/2016
   |br| Abstract: https://linux.conf.au/proposal/30215
   |br| Slides: http://talks.edunham.net/lca2016/#1
   |br| Video: https://www.youtube.com/watch?v=dIageYT0Vgg
