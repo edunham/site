@@ -19,11 +19,14 @@ Linux.conf.au
 
 * **Life is better with Rust's community automation**, 02/??/2016
   |br| Abstract: https://linux.conf.au/proposal/30215
+  |br| Slides: http://talks.edunham.net/lca2016/#1
+  |br| Video: https://www.youtube.com/watch?v=dIageYT0Vgg
 
 Southern California Linux Expo
 ------------------------------
 
 * **Where's the Cloud?** (Ignite-style talk for UpSCALE event), 1/22/2016
+  |br| Slides (ODP Download): http://talks.edunham.net/UpSCALE2016/edunham-wheres-the-cloud-UpSCALE2015-v0.3.odp
 
 2015
 ====
