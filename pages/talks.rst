@@ -27,6 +27,7 @@ Southern California Linux Expo
 
 * **Where's the Cloud?** (Ignite-style talk for UpSCALE event), 1/22/2016
   |br| Slides (ODP Download): http://talks.edunham.net/UpSCALE2016/edunham-wheres-the-cloud-UpSCALE2015-v0.3.odp
+  |br| Video: https://www.youtube.com/watch?feature=player_detailpage&v=LPqqoOm8y5s#t=1381
 
 2015
 ====
