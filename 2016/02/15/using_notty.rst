@@ -39,6 +39,8 @@ buggy and feature poor and not intended for general use". Notty is meant as a
 library for building graphical terminals, and scaffolding is only a
 **minimal** proof of concept. 
 
+.. more::
+
 Explanation: Getting Rust
 -------------------------
 
