@@ -9,6 +9,8 @@ Blogs
 -----
 
 * `Things of Interest <http://qntm.org/>`_
+* http://what.happens.when.computer/ 
+
 
 Security Challenges
 -------------------
