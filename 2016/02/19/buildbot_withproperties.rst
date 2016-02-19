@@ -25,6 +25,10 @@ The lesson here is Buildbot will happily accept ``WithProperties("echo 'this
 command uses no interpolation'")`` in a ``command`` argument, and then blow up
 at you if you ever change the command to have a ``%`` in it. 
 
+However, it appears that build steps run as ``MasterShellCommand``s without
+``WithProperties`` do not display their ``name`` in the waterfall, but rather
+say "running" or "ran". 
+
 .. author:: default
 .. categories:: none
 .. tags:: buildbot 
