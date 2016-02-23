@@ -28,25 +28,11 @@ new student leaders in 2014-2015.
 Web Presence
 ------------
 
-* I'm ``edunham`` on ``irc.freenode.net``, ``irc.cat.pdx.edu``, and 
-  ``irc.mozilla.org``. If it's `Google Summer of Code
-  <https://developers.google.com/open-source/soc/?csw=1>`_ or `Gnome OPW
-  <https://wiki.gnome.org/OutreachProgramForWomen>`_ season, you might see me
-  helping newbies on other networks as well.
+* I'm ``edunham`` on ``irc.freenode.net`` and ``irc.mozilla.org``.
 
-* `GitHub <https://github.com/edunham>`_ links to most of my interesting
-  public work.
+* `@QEDunham <https://twitter.com/qedunham>`_ on twitter.
+
+* `GitHub <https://github.com/edunham>`_ for code and stuff.
 
 * `LinkedIn <www.linkedin.com/in/dunhame>`_ might be useful for determining
   whether we know one another in real life.
-
-* `StackOverflow Careers <https://careers.stackoverflow.com/edunham>`_ has
-  blog posts I've written, as well as the usual resume stuff from LinkedIn.
-
-* `Lanyrd <http://lanyrd.com/profile/edunham>`_ has a bit of my speaking
-  history, with recordings.
-
-* I'm **not** an active contributor to Twitter, Facebook, or Google+. Although
-  I appreciate their usefulness, my personal involvement in the tech
-  community's discussions fits better into IRC conversations, project issue
-  trackers, blog posts, and so forth.
