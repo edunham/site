@@ -9,10 +9,17 @@ OSCON North America
 
 * **How To Learn Rust**, 5/??/2016
 
+LinuxFest Northwest
+-------------------
+
+* **Rust's Community Automation**, 4/2?/2016
+* **How to get help on IRC** , 4/2?/2016
+
 Great Wide Open
 ---------------
 
 * **Thinking in Git** (2-hour tutorial), 3/17/2016
+* **How not to get help** (5-min lightning talk), 3/17/2016
 
 Linux.conf.au 
 -------------
