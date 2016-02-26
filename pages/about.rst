@@ -36,3 +36,20 @@ Web Presence
 
 * `LinkedIn <www.linkedin.com/in/dunhame>`_ might be useful for determining
   whether we know one another in real life.
+
+Publications
+------------
+
+opensource.com
+
+* `How to add open source to your resume <https://opensource.com/business/16/2/add-open-source-to-your-resume>`_, Feb 2016
+* `Leveraging the power of academia in your open source project <https://opensource.com/education/15/3/attracting-students-to-open-source>`_, March 2016
+
+Oregon State University Linux Users Group blog
+
+* `Channel administration on Freenode <http://lug.oregonstate.edu/blog/channel-admin/>`_
+* `Advice for running a university Linux Users Group <http://lug.oregonstate.edu/blog/starting-a-lug/>`_
+* `Technical Resume Advice <http://lug.oregonstate.edu/blog/resume/>`_
+* `Event publicity at Oregon State University cheat sheet <http://lug.oregonstate.edu/blog/promotion/>`_
+* `How to run an Installfest <http://lug.oregonstate.edu/blog/installfest/>`_
+* `How to write a guide <http://lug.oregonstate.edu/blog/metaguide/>`_
