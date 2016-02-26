@@ -2,7 +2,7 @@ About
 =====
 
 I'm a `FOSS <http://en.wikipedia.org/wiki/Free_and_open-source_software>`_
-addict who dropped out of the Computer Science program at Oregon State
+enthusiast who dropped out of the Computer Science program at Oregon State
 University to take an amazing job as a DevOps Engineer for Mozilla Research in
 Portland, Oregon.
 
