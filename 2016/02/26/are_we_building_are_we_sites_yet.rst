@@ -8,7 +8,7 @@ to have inherited the tradition of tracking top-level progress metrics using
 * `Are we concurrent yet?`_ tracks the progres of Rust's concurrency ecosystem
 * `Are we web yet?`_ tracks the status of Rust's HTTP stack, web frameworks,
   and related libraries
-* `Are we IDE yet`_ provides a list of what features are supported for Rust per
+* `Are we IDE yet?`_ provides a list of what features are supported for Rust per
   IDE, and links to the relevant tracking issues and RFCs 
 
 If this blog post was an 'are we' page itself, the big text at the top would
