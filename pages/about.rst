@@ -7,7 +7,7 @@ University to take an amazing job as a DevOps Engineer for Mozilla Research in
 Portland, Oregon.
 
 `FIRST <http://www3.usfirst.org/>`_ got me into robotics and programming back
-in 2006, and I've been an amateur electrical and mechanical engineer ever
+in 2006, and I've been an `amateur electrical and mechanical engineer`_ ever
 since. The `LUG <http://lug.oregonstate.edu/>`_ and `Open Source Lab 
 <http://osuosl.org/>`_ started my career in open source software development
 and Linux systems administration in 2010, and those topics have since become
@@ -53,3 +53,5 @@ Oregon State University Linux Users Group blog
 * `Event publicity at Oregon State University cheat sheet <http://lug.oregonstate.edu/blog/promotion/>`_
 * `How to run an Installfest <http://lug.oregonstate.edu/blog/installfest/>`_
 * `How to write a guide <http://lug.oregonstate.edu/blog/metaguide/>`_
+
+.. _amateur electrical and mechanical engineer: https://sites.google.com/site/engr421team4/final-product
