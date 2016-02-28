@@ -14,7 +14,7 @@ project = 'edunham'
 tagline = 'is a "DevOps" Engineer at Mozilla Research'
 
 # Change this to the description of your blog
-description = 'Just Open-Sourcey Things'
+description = 'Wherein I record things I wish I\'d known earlier'
 
 # Change this to your name
 author = 'E. Dunham'
@@ -46,10 +46,10 @@ html_theme_options = {}
 rss_service = None
 
 # Generate full posts for RSS feed even when using "read more"
-rss_generate_full_posts = False
+rss_generate_full_posts = True 
 
 # Number of blog posts per page
-posts_per_page = 10
+posts_per_page = 100
 
 # Character use to replace non-alphanumeric characters in slug
 slug_word_separator = '_'
@@ -58,7 +58,9 @@ slug_word_separator = '_'
 landing_page = None
 
 # Set to override the default name of the first page ("Home")
-first_page_title = None
+first_page_title = "Blog"
+
+recent_count = 100
 
 # **************************************************************
 # Edit lines below to further customize Sphinx build
