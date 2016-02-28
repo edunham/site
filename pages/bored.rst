@@ -27,6 +27,7 @@ Code Competitively
 Do Some Open Source
 -------------------
 
+* `Find things people said you'd do <https://github.com/issues/mentioned>`_ on GitHub
 * `issuehub <http://issuehub.io/>`_ sorts by label and language
 * `up-for-grabs <http://up-for-grabs.net/#/>`_ sorts by project
 * `What can I do for Mozilla <http://whatcanidoformozilla.org/#!/progornoprog/advocate>`_
