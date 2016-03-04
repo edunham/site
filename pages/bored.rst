@@ -43,6 +43,8 @@ Study Something Useful
 * Try something new from the `sysadmin tools ecosystem 
   <http://sysadmin.it-landscape.info/>`_
 * `Learn X in Y minutes <https://learnxinyminutes.com/>`_
+* `List of best textbooks <http://lesswrong.com/lw/3gu/the_best_textbooks_on_every_subject/>`_
+
 
 Coding Games
 ------------
