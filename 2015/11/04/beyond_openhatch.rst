@@ -70,5 +70,5 @@ me) with a link, and I'll add it here if it looks good!
 
 .. author:: default
 .. categories:: none
-.. tags:: foss
+.. tags:: foss, rust
 .. comments::
