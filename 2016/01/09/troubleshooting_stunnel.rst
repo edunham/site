@@ -6,7 +6,7 @@ is that Googling for specific errors in the stunnel log is incredibly
 unhelpful, resulting in a variety of mailing list posts with no replies.
 Tracking an error message through the source of the program doesn't lead to
 any useful comments, either. So here's some SEO bait with concrete
-troubleshooting suggestions.  
+troubleshooting suggestions.
 
 .. more::
 
@@ -34,31 +34,31 @@ I started out, as usual, with a pile of errors::
     [ ] Service [9987] closed
     stunnel startup failed, already running?
 
-[!] Error resolving "127.0.0.1": Neither nodename nor servname known        
+[!] Error resolving "127.0.0.1": Neither nodename nor servname known
 --------------------------------------------------------------------
 
 This was the biggest `wat`_, and the hardest to track down because the
-solution is so obvious. 
+solution is so obvious.
 
 "Error resolving" sounds like the machine hasn't been informed of localhost's
-existance, so let's check::    
+existance, so let's check::
 
     $ cat /etc/hosts
     127.0.0.1   localhost
     255.255.255.255 broadcasthost
-    ::1             localhost 
+    ::1             localhost
 
 And I can even ping ``127.0.0.1`` successfully.  So the message and I have
-different ideas about what it means to "resolve" an IP. 
+different ideas about what it means to "resolve" an IP.
 
 I found the fix here by diffing the ``stunnel.conf`` against that on a working
 machine, and learned that I'd neglected to specify the correct port number on the
-destination host. 
+destination host.
 
 The solution to the "Error resolving localhost" turned out to be **specifying
 the correct port for the other end of the stunnel**::
 
-    $ cat stunnel.conf 
+    $ cat stunnel.conf
     pid =
 
     [9987]
@@ -71,11 +71,11 @@ the correct port for the other end of the stunnel**::
 Wow. Painfully obvious after you realize what's wrong, and just plain painful
 before.
 
-[!] Error binding service [9987] to 127.0.0.1:9987                          
+[!] Error binding service [9987] to 127.0.0.1:9987
 --------------------------------------------------
 
 The "already running?" hint is correct here. This error means stunnel didn't
-let go of the port despite failing to start on a previous attempt. 
+let go of the port despite failing to start on a previous attempt.
 
 Easy fix; check whether it's really stunnel hogging the port::
 
@@ -92,7 +92,7 @@ Tada!
 -----
 
 After getting the destination IP+port combination specified correctly and the
-old broken stunnel killed, the stunnel starts successfully. 
+old broken stunnel killed, the stunnel starts successfully.
 
 .. _stunnel: https://www.stunnel.org/docs.html
 .. _wat: https://www.stunnel.org/docs.html

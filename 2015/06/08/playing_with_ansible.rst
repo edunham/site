@@ -466,7 +466,7 @@ I can move on to the next error::
 
 Should've been using the HTTPS url, since I don't want to add a public key
 from this machine to anybody's github account, and I'll never need to push
-back to the repo from my play server. 
+back to the repo from my play server.
 
 Success!
 --------
@@ -508,9 +508,9 @@ My next steps will be to install the tools necesassary to build Playpen, and
 get Ansible to build it. I probably won't keep up the "let's-play" blog style,
 because it exponentially increases the amount of typing involved, and if you
 read this far you're either a creepy stalker, thoroughly sick of hearing about
-my flailing at Ansible, or possibly both. 
+my flailing at Ansible, or possibly both.
 
 .. author:: default
 .. categories:: none
-.. tags:: ansible, let's play
+.. tags:: ansible
 .. comments::

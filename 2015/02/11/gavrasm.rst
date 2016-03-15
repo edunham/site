@@ -3,11 +3,11 @@ Installing gavrasm on Arch
 
 Avra, the AVR assembler that I have been using for my ECE375 assignments,
 started throwing cryptic error messages such as "``PRAGMA directives currently
-ignored``" from an include file which had previously been working fine. 
+ignored``" from an include file which had previously been working fine.
 
 In order to sanity check whether the problem is in my code or the compiler, I
 installed ``gavrasm``, the assembler which the `ECE375 lab website`_ recommends
-for Mac users. 
+for Mac users.
 
 .. more::
 
@@ -34,14 +34,14 @@ gavrasm is available in the AUR, but its pkgbuild is broken::
 
     ==> Continue building gavrasm ? [Y/n]
     ==> ---------------------------------
-    ==> 
+    ==>
     ==> Building and installing package
     ==> ERROR: Missing package() function in
     /tmp/yaourt-tmp-username/aur-gavrasm/./PKGBUILD
     ==> ERROR: Makepkg was unable to build gavrasm.
     ==> Restart building gavrasm ? [y/N]
     ==> --------------------------------
-    ==> 
+    ==>
 
 Installing from Source
 ----------------------
@@ -53,14 +53,14 @@ Install fpc, the Free Pascal Compiler::
 
 Download and unzip the `source`_. Files will end up in a directory with a name
 like ``Sourcefiles_v3_4``, rather than a sensible name like ``gavrasm``,
-by default. 
+by default.
 
 Copy the language file to its correct location. If you want the English
 version, this is::
 
     $ cp gavrlang_en.pas gavrlang.pas
 
-If you forget this step, you'll hit an error when compiling:: 
+If you forget this step, you'll hit an error when compiling::
 
     gavrline.pas(9,28) Fatal: Can't find unit gavrlang used by gavrline
 
@@ -83,5 +83,5 @@ on your system!
 
 .. author:: default
 .. categories:: none
-.. tags:: arch, ece375, solved, gavrasm 
+.. tags:: arch, school
 .. comments::

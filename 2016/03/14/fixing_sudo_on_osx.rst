@@ -61,5 +61,5 @@ come from automation as when they come from humans.
 
 .. author:: default
 .. categories:: none
-.. tags:: osx
+.. tags:: osx, ansible
 .. comments::

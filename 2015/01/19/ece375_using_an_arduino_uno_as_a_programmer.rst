@@ -8,15 +8,15 @@ it came with when I picked it up from TekBots. I also have an `Olimex AVR-ISP-MK
 programmer inherited from an ECE major friend, which I have come to conclude
 is bad, because despite testing and rebuilding all of the connections between
 it and my atmega128 board, despite passing avrdude all of the force and
-override-warnings flags at my disposal, it consistently refuses to program. 
+override-warnings flags at my disposal, it consistently refuses to program.
 
 Since my assignment is due tomorrow, I am configuring an Arduino Uno to stand
-in as a programmer. Here's how. 
+in as a programmer. Here's how.
 
 .. more::
 
 I'm following the `ArduinoISP`_ tutorial to turn an Uno left over from another
-project into a programmer. 
+project into a programmer.
 
 
 Add a capacitor
@@ -25,30 +25,30 @@ Add a capacitor
 First, I scrounged a 10uF capacitor out of a failed attempt at building an
 audio amp. The capacitor goes on the Uno with its negative leg (the side with
 the stripe) connected to ground, and the other leg connected to the pin
-labeled reset. 
+labeled reset.
 
 This is necessary to prevent spurious resets. If noise or interference on the
 board caused the reset line to fall below a certain minimum voltage (the logic
 low threshhold), the Uno would reset when the user didn't tell it to. The
 capacitor stores up electricity and can provide a tiny supply of power to keep
 the reset line high during fluctations, so that the board will only be reset
-if it's being actively driven low for more than just a moment. 
+if it's being actively driven low for more than just a moment.
 
 I asked a grad student in Electrical Engineering about the capacitor required
 by the tutorial, and he claimed that 10 uF is probably overkill -- a 0.1uF
 ceramic cap would do the job just as well. So if you're following this
 tutotial and only have a small capacitor available, try it anyways, and the
 worst that could happen without it is an occasional board reset during
-programming. 
+programming.
 
 Program the Arduino Uno
 -----------------------
 
 I installed the Arduino toolchain and IDE with ``yaourt -S arduino-beta``,
-since the regular arduino package was failing to download at the time I tried. 
+since the regular arduino package was failing to download at the time I tried.
 
 I downloaded and unzipped the `mega-isp firmware`_, then opened it in the
-Arduino ide with ``sudo arduino ArduinoISP.pde``. 
+Arduino ide with ``sudo arduino ArduinoISP.pde``.
 
 When I attempted to compile and upload, it threw several errors::
 
@@ -71,7 +71,7 @@ header file, the easiest fix was to replace their strings with ``MYMISO``,
 ``MYMOSI``, and ``MYSCK`` throughout the ArduinoISP file. I'd guess they were
 added to the header files after the ArduinoISP software was published, since
 my version of the Arduino IDE is much more recent than the ISP's publication
-date of 2009. 
+date of 2009.
 
 .. note::
 
@@ -86,7 +86,7 @@ The next set of errors is::
  directory
 
 A quick Google for the error has the `Arch Wiki page`_ among the first hits,
-and the fix is straightforward:: 
+and the fix is straightforward::
 
  $ cd /usr/lib
  $ sudo ln -s libncurses.so.5 libtinfo.so.5
@@ -99,14 +99,14 @@ After symlinking the libraries, my next error on attempting to program is::
 This would normally mean you get to `mess around with groups`_ or just invoke
 the IDE as root. Since I'm already running it with sudo, it's a hint that Arch
 named the device something funny when it registered. In the Arduino IDE's
-menus, clicking ``Tools`` -> ``Port`` -> ``/dev/TTYACM0 (Arduino Uno)`` 
+menus, clicking ``Tools`` -> ``Port`` -> ``/dev/TTYACM0 (Arduino Uno)``
 
 My next error was::
 
  avrdude: stk500_getsync(): not in sync: resp=0x00
 
 At the suggestion of `this site`_, I unplugged the capacitor from the
-``RESET`` pin and tried again. It uploaded without error. 
+``RESET`` pin and tried again. It uploaded without error.
 
 Wire the Uno up to the ATMEGA128
 --------------------------------
@@ -151,16 +151,16 @@ examine the output of ``dmesg | tail`` to see::
 
  [28403.507844] cdc_acm 3-1:1.0: ttyACM1: USB ACM device
 
-This means that the Uno is showing up in ``/dev/ttyACM1``. 
+This means that the Uno is showing up in ``/dev/ttyACM1``.
 
 .. note::
     With the capacitor plugged in, I get the error::
 
      avrdude: stk500_recv(): programmer is not responding
 
-    so I'm unplugging the cap for now and hoping that it works. 
+    so I'm unplugging the cap for now and hoping that it works.
 
-For some code to test uploading with, I'm using Mythmon's `Hello Dave`_ game. 
+For some code to test uploading with, I'm using Mythmon's `Hello Dave`_ game.
 
 The installation command will look something like::
 
@@ -178,11 +178,11 @@ The installation command will look something like::
 When I pass the -F flag, it gets as far as a signature mismatch::
 
  sudo avrdude -p m128 -c avrisp -F -P /dev/ttyACM1 -U flash:w:hellodave.hex
- 
+
  avrdude: AVR device initialized and ready to accept instructions
- 
+
  Reading | ################################################## | 100% 0.01s
- 
+
  avrdude: Device signature = 0x000000
  avrdude: Yikes!  Invalid device signature.
  avrdude: NOTE: FLASH memory has been specified, an erase cycle will be performed
@@ -191,27 +191,27 @@ When I pass the -F flag, it gets as far as a signature mismatch::
  avrdude: reading input file "hellodave.hex"
  avrdude: input file hellodave.hex auto detected as Intel Hex
  avrdude: writing flash (2468 bytes):
- 
+
  Writing | ################################################## | 100% 0.32s
- 
+
  avrdude: 2468 bytes of flash written
  avrdude: verifying flash memory against hellodave.hex:
  avrdude: load data flash data from input file hellodave.hex:
  avrdude: input file hellodave.hex auto detected as Intel Hex
  avrdude: input file hellodave.hex contains 2468 bytes
  avrdude: reading on-chip flash data:
- 
+
  Reading | ################################################## | 100% 0.28s
- 
+
  avrdude: verifying ...
  avrdude: verification error, first mismatch at byte 0x0080
           0xff != 0x10
  avrdude: verification error; content mismatch
- 
+
  avrdude: safemode: Fuses OK
- 
+
  avrdude done.  Thank you.
- 
+
 
 
 
@@ -228,5 +228,5 @@ When I pass the -F flag, it gets as far as a signature mismatch::
 
 .. author:: default
 .. categories:: none
-.. tags:: school, arduino, ece375, incomplete, avrdude, troubleshooting 
+.. tags:: school, arduino, troubleshooting
 .. comments::

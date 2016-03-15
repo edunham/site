@@ -9,10 +9,10 @@ to have inherited the tradition of tracking top-level progress metrics using
 * `Are we web yet?`_ tracks the status of Rust's HTTP stack, web frameworks,
   and related libraries
 * `Are we IDE yet?`_ provides a list of what features are supported for Rust per
-  IDE, and links to the relevant tracking issues and RFCs 
+  IDE, and links to the relevant tracking issues and RFCs
 
 If this blog post was an 'are we' page itself, the big text at the top would
-probably say "Getting There". 
+probably say "Getting There".
 
 .. _are we: https://wiki.mozilla.org/Areweyet
 .. _Are we concurrent yet?: http://areweconcurrentyet.com/

@@ -40,5 +40,5 @@ like::
 
 .. author:: default
 .. categories:: none
-.. tags:: none
+.. tags:: ansible, vagrant, git
 .. comments::

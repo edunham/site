@@ -31,8 +31,8 @@ More SEO-bait, after tracking down an poorly documented problem::
             self.secondaryQueue.popChunk(self.primaryQueue.maxItems()))
           File "/usr/local/lib/python2.7/dist-packages/buildbot/status/persistent_queue.py", line 208, in popChunk
             ret.append(self.unpickleFn(ReadFile(path)))
-        exceptions.EOFError: 
-        
+        exceptions.EOFError:
+
     2016-01-17 04:35:53+0000 [-] Configuration Errors:
     2016-01-17 04:35:53+0000 [-]   error while parsing config file:  (traceback in logfile)
     2016-01-17 04:35:53+0000 [-] Halting master.
@@ -41,7 +41,7 @@ More SEO-bait, after tracking down an poorly documented problem::
 
 This happened after the buildmaster's disk filled up and a bunch of stuff was
 manually deleted. There were no changes to master.cfg since it worked
-perfectly. 
+perfectly.
 
 The fix was to examine ``master.cfg`` to see `where the HttpStatusPush was
 created
@@ -56,7 +56,7 @@ of the form::
 Digging in the Buildbot source reveals that ``persistent_queue.py`` wants to
 unpickle a cache file from ``/events_build.servo.org/-1`` if there was nothing
 in ``/events_build.servo.org/``. To fix this the right way, create that file
-and make sure Buildbot has ``+rwx`` on it. 
+and make sure Buildbot has ``+rwx`` on it.
 
 Alternately, you can give up on writing your status push cache to disk
 entirely by adding the line ``maxDiskItems=0`` to the creation of the
@@ -69,9 +69,9 @@ HttpStatusPush, giving you::
      ))
 
 The real moral of the story is "remember to use `logrotate
-<http://www.linuxcommand.org/man_pages/logrotate8.html>`_. 
+<http://www.linuxcommand.org/man_pages/logrotate8.html>`_.
 
 .. author:: default
 .. categories:: none
-.. tags:: troubleshooting, buildbot
+.. tags:: buildbot
 .. comments::

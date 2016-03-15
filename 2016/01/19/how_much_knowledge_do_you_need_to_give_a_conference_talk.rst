@@ -2,7 +2,7 @@ How much knowledge do you need to give a conference talk?
 =========================================================
 
 I was recently asked an excellent question when I promoted the `LFNW CFP`_ on
-IRC: 
+IRC:
 
     As someone who has never done a talk, but wants to, what kind of knowledge
     do you need about a subject to give a talk on it?
@@ -19,14 +19,14 @@ propose a talk:
 * Have you ever spent a bunch of hours forcing two tools to work with each
   other, because the documentation wasn't very helpful and Googling didn't get
   you very far, and built something useful? "How to build ___ with ___" makes
-  a catchy talk title, if the **thing you built** solves a common problem. 
+  a catchy talk title, if the **thing you built** solves a common problem.
 
 
 * Have you ever had a mentor sit down with you and explain a tool or
   technique, and the new understanding improved the quality of your work or
   code? Passing along useful **lessons from your mentors** is a valuable talk,
   because it allows others to benefit from the knowledge without taking as
-  much of your mentor's time. 
+  much of your mentor's time.
 
 
 * Have you seen a dozen newbies ask the same question over the course of a few
@@ -60,7 +60,7 @@ propose a talk:
 
 I personally try to propose talks I want to hear, because the dealine of a
 CFP or conference is great motivation to prioritize a cool project over
-ordinary chores. 
+ordinary chores.
 
 
 .. _LFNW CFP: http://www.linuxfestnorthwest.org/2016/present
@@ -69,5 +69,5 @@ ordinary chores.
 
 .. author:: default
 .. categories:: none
-.. tags:: speaking
+.. tags:: conferences
 .. comments::
