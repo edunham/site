@@ -1,7 +1,10 @@
 """
 I constantly forget to commit master.rst when I commit a post. Seems like the
-workflow should not require this extra step. Only drawback here will be that
-pages muts be listed in alphabetical order. Too fucking bad.
+workflow should not require this extra step.
+
+This causes pages, and multiple posts from the same day, to be listed
+alphabetically by the first character of their filename (which is probably the
+slugified title unless you changed something).
 """
 
 import os
