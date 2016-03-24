@@ -59,6 +59,11 @@ taken against a crate, this workflow ensures that code deletion is only
 possible by a small group of people with the motivation and authority to do it
 in the way that's least problematic for users of the Rust language.
 
+For more information on the crates.io package and copyright policies, see
+`this internals thread
+<https://internals.rust-lang.org/t/crates-io-package-policies/1041>`_.
+
+
 But I just want to left pad a string in Rust??
 ----------------------------------------------
 
