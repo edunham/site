@@ -19,9 +19,15 @@ Great Wide Open
 ---------------
 
 * **Thinking in Git** (2-hour tutorial), 3/17/2016
-* **How not to get help** (5-min lightning talk), 3/17/2016
+  |br| Abstract: http://greatwideopen.org/talks/thinking-in-git/
+  |br| Slides: http://talks.edunham.net/gwo2016/git/slides/#1
+  |br| Slides as a single page: http://talks.edunham.net/gwo2016/git/html/
 
-Linux.conf.au 
+* **How not to get help** (5-min lightning talk), 3/17/2016
+  |br| Abstract: http://greatwideopen.org/talks/lightning-talks-hosted-by-opensource-com/
+  |br| Slides: http://talks.edunham.net/gwo2016/How_Not_To_Get_Help/#1
+
+Linux.conf.au
 -------------
 
 * **Life is better with Rust's community automation**, 02/05/2016
@@ -49,14 +55,14 @@ OSU DevOps Daycamp
 ------------------
 
 * **GPG in the Real World**, 10/03/2015
-  |br| Abstract: https://devopsbootcamp.osuosl.org/daycamp/#advanced 
+  |br| Abstract: https://devopsbootcamp.osuosl.org/daycamp/#advanced
   |br| Slides: http://talks.edunham.net/DevOpsDaycamp2015/#/
 
 Ignite OSCON
 ------------
 
 * **First Impressions (The value of the "noob")**, 7/20/2015
-  |br| Abstract:  http://www.oscon.com/open-source-2015/user/proposal/status/44880 
+  |br| Abstract:  http://www.oscon.com/open-source-2015/user/proposal/status/44880
   |br| Text: http://talks.edunham.net/OSCON2015/noob.txt
   |br| Pictures: http://talks.edunham.net/OSCON2015/edunham_FirstImpressions.ppt
   |br| Video: https://www.youtube.com/watch?v=zKWsBodjvC8
@@ -70,7 +76,7 @@ OpenWest
 
 * **Thinking In Git**, 5/8/2015
   |br| Abstract: http://www.openwest.org/custom/description.php?id=90
-  |br| Slides: http://talks.edunham.net/openwest2015/git/#1  
+  |br| Slides: http://talks.edunham.net/openwest2015/git/#1
 
 * **Teaching DevOps to University Students**, 5/9/2015
   |br| Abstract: http://www.openwest.org/custom/description.php?id=191
@@ -85,14 +91,14 @@ LinuxFest Northwest
 
 * **Why's My Program Slow? Algorithmic Complexity and You**, 4/26/2015
   |br| Abstract: http://linuxfestnorthwest.org/2015/sessions/whys-my-program-slow-algorithmic-complexity-and-you
-  |br| Slides: http://talks.edunham.net/linuxfestnorthwest2015/complexity/  
+  |br| Slides: http://talks.edunham.net/linuxfestnorthwest2015/complexity/
 
 Beaver BarCamp
 --------------
 
 `Beaver BarCamp <http://beaverbarcamp.org/>`_ is an open-source "unconference"
 where talks are often made up on the day of the event and presented with live
-demos instead of slides. 
+demos instead of slides.
 
 * **The Value of the Newbie**, 4/18/2015
   |br| 5-minute lightning talk, no slides
