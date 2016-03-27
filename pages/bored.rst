@@ -34,7 +34,7 @@ Do Some Open Source
   includes non-coding tasks
 * `One And Done <https://oneanddone.mozilla.org/>`_ For bugs across Mozilla
 * `Bugs Ahoy <http://www.joshmatthews.net/bugsahoy/>`_ sorts bugs by category
-
+* Apply `the security checklist <https://securitychecklist.org/>`_ to some infrastructure
 
 Study Something Useful
 ----------------------
