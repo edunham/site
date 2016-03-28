@@ -12,8 +12,8 @@ OSCON North America
 LinuxFest Northwest
 -------------------
 
-* **Rust's Community Automation**, 4/2?/2016
-* **How to get help on IRC** , 4/2?/2016
+* **Rust's Community Automation**, 4/24/2016
+* **How to get help on IRC** , 4/23/2016
 
 Great Wide Open
 ---------------
