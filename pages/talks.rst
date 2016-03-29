@@ -27,6 +27,13 @@ Great Wide Open
   |br| Abstract: http://greatwideopen.org/talks/lightning-talks-hosted-by-opensource-com/
   |br| Slides: http://talks.edunham.net/gwo2016/How_Not_To_Get_Help/#1
 
+PDXRust Meetup
+--------------
+
+* **Tutorial: Rust From A Scripting Background** 3/2/2016
+  |br| Abstract: http://www.meetup.com/PDXRust/events/227896202/
+  |br| Notes: http://rust-from-a-scripting-background.readthedocs.org/en/latest/
+
 Linux.conf.au
 -------------
 
