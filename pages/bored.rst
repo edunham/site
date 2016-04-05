@@ -45,6 +45,8 @@ Study Something Useful
 * `Learn X in Y minutes <https://learnxinyminutes.com/>`_
 * `List of best textbooks <http://lesswrong.com/lw/3gu/the_best_textbooks_on_every_subject/>`_
 * Read a free book... http://advancedlinuxprogramming.com/
+* List of worthwhile papers https://github.com/papers-we-love/papers-we-love
+
 
 Coding Games
 ------------
