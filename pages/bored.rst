@@ -12,11 +12,13 @@ Blogs
 * http://what.happens.when.computer/
 
 
-Security Challenges
--------------------
+Security Education
+------------------
 
 * `Cryptopals <http://cryptopals.com/>`_ challenges
 * `Microcorruption <https://microcorruption.com/login>`_ CTF
+* `Pentesting resources list <https://github.com/HSIS007/Useful_Websites_For_Pentester>`_
+
 
 Code Competitively
 ------------------
