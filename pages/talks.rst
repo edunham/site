@@ -26,6 +26,7 @@ Great Wide Open
 * **How not to get help** (5-min lightning talk), 3/17/2016
   |br| Abstract: http://greatwideopen.org/talks/lightning-talks-hosted-by-opensource-com/
   |br| Slides: http://talks.edunham.net/gwo2016/How_Not_To_Get_Help/#1
+  |br| Video: https://www.youtube.com/watch?v=PiQ3-fhjz60
 
 PDXRust Meetup
 --------------
