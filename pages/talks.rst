@@ -18,6 +18,12 @@ LinuxFest Northwest
 * **How to get help on IRC** , 4/23/2016
   |br| Abstract: https://www.linuxfestnorthwest.org/2016/sessions/how-get-help-irc
 
+Beaver BarCamp
+--------------
+
+* **Intro to Rust**, 4/16/2016
+  |br| Slides: http://talks.edunham.net/beaverbarcamp2016
+
 Great Wide Open
 ---------------
 
