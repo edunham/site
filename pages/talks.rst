@@ -89,7 +89,7 @@ OpenWest
 
 * **Human Hacking**, 5/7/2015
   |br| Abstract: http://www.openwest.org/custom/description.php?id=69
-  |br| Slides: http://talks.edunham.net/openwest2015/devops/#1
+  |br| Slides: http://talks.edunham.net/openwest2015/humans/#1
 
 * **Thinking In Git**, 5/8/2015
   |br| Abstract: http://www.openwest.org/custom/description.php?id=90
@@ -97,7 +97,7 @@ OpenWest
 
 * **Teaching DevOps to University Students**, 5/9/2015
   |br| Abstract: http://www.openwest.org/custom/description.php?id=191
-  |br| Slides: http://talks.edunham.net/openwest2015/humans/#1
+  |br| Slides: http://talks.edunham.net/openwest2015/devops/#1
 
 LinuxFest Northwest
 -------------------
