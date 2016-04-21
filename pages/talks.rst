@@ -13,7 +13,10 @@ LinuxFest Northwest
 -------------------
 
 * **Rust's Community Automation**, 4/24/2016
+  |br| Abstract: https://www.linuxfestnorthwest.org/2016/sessions/rusts-community-automation
+
 * **How to get help on IRC** , 4/23/2016
+  |br| Abstract: https://www.linuxfestnorthwest.org/2016/sessions/how-get-help-irc
 
 Great Wide Open
 ---------------
