@@ -133,7 +133,7 @@ Examine job postings for roles like you want, and make sure the key buzzwords
 appear on your LinkedIn profile wherever appropriate. A complete LinkedIn
 profile for even a relatively new DevOps engineer draws a surprising number of
 recruiters for DevOps-related roles. If you're just starting out in the field,
-I'd recommend expressing interst in *every* opportunity that you're contacted
+I'd recommend expressing interest in *every* opportunity that you're contacted
 about, progressing to at least a phone interview if possible, and getting all
 the feedback you can about your performance afterwards. It's especially
 important to **interview at companies that you can't see yourself enjoying a job
@@ -162,7 +162,7 @@ different parts of the industry:
 Questions?
 ----------
 
-I collect intersting job search and interview advice links at the bottom of my
+I collect interesting job search and interview advice links at the bottom of my
 `resume repo readme <https://github.com/edunham/resume/blob/master/README.md>`_.
 
 I bolded each paragraph's key points in the hopes of making them easier to
