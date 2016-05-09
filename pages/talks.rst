@@ -7,7 +7,11 @@ Talks
 OSCON North America
 -------------------
 
-* **How To Learn Rust**, 5/??/2016
+* **How To Learn Rust**, 5/19/2016
+* **Starting Rust from a Scripting Background**, 5/10/2016
+  |br| O'Reilly Emerging Languages Webcast
+  |br| Abstract: http://www.oreilly.com/pub/e/3718
+
 
 LinuxFest Northwest
 -------------------
