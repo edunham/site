@@ -2,7 +2,7 @@ Reflections on my first live webcast
 ====================================
 
 This morning, I participated in the O'Reilly `Emerging Languages Webcast`_
-with my `"Rust from a Scripting Background"`_ talk. Here's how it went.
+with my "`Rust from a Scripting Background`_" talk. Here's how it went.
 
 Preparation
 -----------
