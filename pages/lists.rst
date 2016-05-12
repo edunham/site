@@ -1,5 +1,5 @@
-Bored?
-======
+Lists
+=====
 
 The set of times when I find interesting pages and the times when I have the
 bandwidth do take on a new task are typically disjoint. Here's a subset of
@@ -58,3 +58,22 @@ Coding Games
 
 * `flexbox froggy <http://flexboxfroggy.com/>`_ teaches CSS
 * `Vim Adventures <http://vim-adventures.com/>`_
+
+Free hosting
+------------
+
+Code:
+
+* `github <https://github.com/>`_
+* `bitbucket <https://bitbucket.org/>`_
+* `not a bug <https://notabug.org/>`_
+
+Applications:
+
+* `sandstorm <https://bitbucket.org/>`_
+
+IRC/communication:
+
+* `tuxfamily <https://tuxfamily.org/en/about>`_
+* `firrre <https://firrre.com/>`_
+* `Matrix Vector <http://matrix.org/docs/projects/client/vector.html>`_
