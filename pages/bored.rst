@@ -1,8 +1,8 @@
 Bored?
 ======
 
-The set of times when I find interestng pages and the times when I have the
-bandwidth do take on a new task sometimes seem disjoint. Here's a subset of
+The set of times when I find interesting pages and the times when I have the
+bandwidth do take on a new task are typically disjoint. Here's a subset of
 the interesting websites that I find.
 
 Blogs
@@ -18,7 +18,7 @@ Security Education
 * `Cryptopals <http://cryptopals.com/>`_ challenges
 * `Microcorruption <https://microcorruption.com/login>`_ CTF
 * `Pentesting resources list <https://github.com/HSIS007/Useful_Websites_For_Pentester>`_
-* `https://www.crypto101.io/`_
+* `Crypto 101 <https://www.crypto101.io/>`_
 
 
 Code Competitively
@@ -38,6 +38,8 @@ Do Some Open Source
 * `One And Done <https://oneanddone.mozilla.org/>`_ For bugs across Mozilla
 * `Bugs Ahoy <http://www.joshmatthews.net/bugsahoy/>`_ sorts bugs by category
 * Apply `the security checklist <https://securitychecklist.org/>`_ to some infrastructure
+* I maintain a list of `issue aggregators <http://edunham.net/pages/issue_aggregators.html>`_
+
 
 Study Something Useful
 ----------------------
