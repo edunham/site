@@ -4,10 +4,18 @@ Talks
 2016
 ====
 
+CodeConf LA
+-----------
+
+* **Starting Rust from a Scripting Background**, 6/??/2016
+
 OSCON North America
 -------------------
 
 * **How To Learn Rust**, 5/19/2016
+  |br| Abstract: http://conferences.oreilly.com/oscon/open-source-us/public/schedule/detail/49024
+  |br| Slides PDF: http://talks.edunham.net/oscon2016/how-to-learn-rust.pdf
+
 * **Starting Rust from a Scripting Background**, 5/10/2016
   |br| O'Reilly Emerging Languages Webcast
   |br| Abstract: http://www.oreilly.com/pub/e/3718
