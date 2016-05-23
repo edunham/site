@@ -79,6 +79,7 @@ SeaGL
 
 * **You Should Speak**, 10/23/2015
   |br| Slides: http://talks.edunham.net/seagl2015/#/
+  |br| Abstract: https://osem.seagl.org/conference/seagl2015/program/proposal/20
 
 OSU DevOps Daycamp
 ------------------
