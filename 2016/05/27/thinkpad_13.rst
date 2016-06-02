@@ -84,6 +84,11 @@ Things I like about the 13
   new security measures, because the install process was delightfully
   non-thought-provoking.
 
+* ~7mm plastic bezel between buttons and trackpad reduces likelihood of
+  accidentally moving cursor when clicking. 
+
+.. figure:: _static/13-button-bezel.jpg
+
 Nitpicks about the 13
 ---------------------
 
@@ -98,16 +103,23 @@ could probably paint the rest of it.
 
 * Power button.
 
+.. figure:: /_static/13-power-button.jpg
+
 It feels horribly... squishy? There's no satisfying ``click`` to tell me when
 I've pushed it far enough. Holding it for 10 seconds only sometimes shuts the
 laptop off (though there's a reset switch on the mobo accessible by a
-paperclip-hole in the bottom panel which forces shutdown instantly when pushed).
+paperclip-hole in the bottom panel which forces shutdown instantly when
+pushed). There's a circle on the pwoer button that looks like it might be an
+LED, but it never lights up. 
 
 * Cutesy font.
 
-This is a tiny nitpick, but they've changed the Lenovo logo on the lid and
-BIOS screen from the already-mediocre font to a super condescending, roundy
-one. Fortunately the lid one is easily hidden under some stickers.
+.. figure:: /_static/13-lenovo-font.jpg
+
+This is a tiny nitpick, but they've changed the Lenovo logo on the lid,
+pre-BIOS boot screen, and screen bezel from the already-mediocre font to a
+super condescending, childish, roundy one. Fortunately the lid one is easily
+hidden under some stickers.
 
 * Bottom panel held on by clips as well as screws.
 
@@ -126,6 +138,16 @@ My X240 fits perfectly along the short end of the tub, leaving room for my
 shoes beside it. I have to use two tubs or separate my pair of shoes when
 putting the 13 through the scanner. (see, I wasn't kidding when I said
 "nitpicks")
+
+* The Trackpoint top is not interchangeable with those of older Thinkpads.
+
+.. figure:: /_static/13-trackpoints.jpg
+
+The round part is the same size, but the square hole in the bottom is about
+2mm to a side rather than the 4mm of the one on an x220 keyboard. Plus the
+cylinder bit is about 2mm long rather than the x220's 3.5mm, so even with an
+adapter for the square hole, older trackpoints would risk leaving marks on the
+screen.
 
 * The fan is a little loud.
 
