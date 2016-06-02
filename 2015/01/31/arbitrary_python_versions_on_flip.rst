@@ -119,7 +119,7 @@ For anyone who wants to copy and paste, the commands for installing Python
     make install
 
 .. _Stackoverflow: http://stackoverflow.com/questions/1534210/use-different-python-version-with-virtualenv
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: school, solved
 .. comments::

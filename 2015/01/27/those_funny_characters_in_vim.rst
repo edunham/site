@@ -44,7 +44,7 @@ from which I pasted them.
 .. _this helpful post: https://durgaprasad.wordpress.com/2007/09/25/find-replace-non-printable-characters-in-vim/
 .. _vimdoc: http://vimdoc.sourceforge.net/htmldoc/various.html
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: vim, troubleshooting
 .. comments::

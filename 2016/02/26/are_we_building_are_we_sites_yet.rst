@@ -19,7 +19,7 @@ probably say "Getting There".
 .. _Are we web yet?: http://www.arewewebyet.org/
 .. _Are we IDE yet?: https://areweideyet.com/
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: rust
 .. comments::

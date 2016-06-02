@@ -19,7 +19,7 @@ hoops again!
 Changing your MAC address occasionally can be part of a healthy security diet,
 making your device slightly more difficult to track, as well.
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: wifi, arch 
 .. comments::

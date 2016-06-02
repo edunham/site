@@ -409,7 +409,7 @@ than the Salt states, but the real challenge is to determine how hard each
 type of configuration will be to write well. 
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: rustinfra, ansible, cfengine, chef, puppet, saltstack
 .. comments::

@@ -78,7 +78,7 @@ system updater twice at once, even though you didn't invoke either.
 Me: Fine then, have it your way. *wipes entire disk and installs Arch Linux*
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: Windows 
 .. comments::

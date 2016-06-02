@@ -106,7 +106,7 @@ shouldn't, in my case::
 .. _reference implementation: https://github.com/monte-language/monte
 .. _Monte programming language: http://monte.readthedocs.org/en/latest/
 .. _coverage: http://nedbatchelder.com/code/coverage/
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: monte, coverage, python, testing
 .. comments::

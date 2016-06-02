@@ -185,7 +185,7 @@ your successor doesn't get the same unpleasant surprise.
 .. _updated the repository: https://github.com/rust-lang/rust-buildbot/pull/21
 .. _using RDP: http://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/connecting_to_windows_instance.html
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: rustinfra, buildbot, aws, ec2
 .. comments::

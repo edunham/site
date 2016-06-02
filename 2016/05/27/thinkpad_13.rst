@@ -194,7 +194,7 @@ awkwardly when the machine is disassembled, but at least it's not glued down.
 .. _2.1mm: http://www.laptopmag.com/articles/lenovo-thinkpad-13-hands-on
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: thinkpad
 .. comments::

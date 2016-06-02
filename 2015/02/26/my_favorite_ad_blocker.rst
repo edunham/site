@@ -60,7 +60,7 @@ settings that you start out with will be preserved.
 .. _SomeoneWhoCares hosts file: http://someonewhocares.org/hosts/ 
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: security, arch, newbie
 .. comments::

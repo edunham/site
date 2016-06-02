@@ -112,7 +112,7 @@ users when galaxy roles only try to apply platform-specific tasks to their
 target platforms, since you can't be sure how others will use your code. 
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: ansible 
 .. comments::

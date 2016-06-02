@@ -129,7 +129,7 @@ Congratulations, you're running Rust!
 .. _verify the GPG signature: https://www.gnupg.org/gph/en/manual/x135.html
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: rust, multirust
 .. comments::

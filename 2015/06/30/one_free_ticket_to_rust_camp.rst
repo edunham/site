@@ -32,7 +32,7 @@ involvement with Rust -- a blog post, tweet, GitHub project, StackOverflow
 question/answer, or anything else. I'll update or take down this post once the
 ticket has been claimed. 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: none
 .. comments::

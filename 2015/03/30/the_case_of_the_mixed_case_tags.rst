@@ -46,7 +46,7 @@ from all lower-case may get lost.
 
 .. _test tag: http://edunham.net/tags/test.html
 .. _first post: http://edunham.net/2015/01/13/blogging_with_tinkerer.html
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: EXAMPLE, tinkerer, TEST
 .. comments::

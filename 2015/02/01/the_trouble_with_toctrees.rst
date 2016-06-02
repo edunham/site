@@ -46,7 +46,7 @@ blog update.
 .. _constantly: https://github.com/edunham/site/commit/e676a58df8d6eff46f9176af089650b583c661c9
 .. _forget: https://github.com/edunham/site/commit/d043a4b666285ad55440969ca5806c17bda71697
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: tinkerer, solved
 .. comments::

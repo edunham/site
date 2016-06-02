@@ -224,7 +224,7 @@ freezer, reward myself for a job thoroughly (albeit less than
 grammatically) done, and hit section 2 (Getting Started) tomorrow. 
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: rust, let's code 
 .. comments::

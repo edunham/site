@@ -202,7 +202,7 @@ I'm still pretty new to Ansible, so if you have suggestions for improving this
 script, `file an issue <https://github.com/edunham/toy-ansible/issues/new>`_
 or email me, ``anything <at> edunham <dot> net``!
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: ansible, playpen, rustinfra 
 .. comments::

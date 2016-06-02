@@ -213,7 +213,7 @@ various attributes when you level.
 .. _HabitRPG: http://habitrpg.com/
 .. _Trapper Santa: http://habitrpg.wikia.com/wiki/Trapper_Santa
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: habitrpg
 .. comments::

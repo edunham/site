@@ -28,7 +28,7 @@ project.
 
 .. _toy repo: https://travis-ci.org/edunham/travis-test/builds
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: travisci
 .. comments::

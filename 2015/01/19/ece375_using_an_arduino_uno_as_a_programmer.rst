@@ -226,7 +226,7 @@ When I pass the -F flag, it gets as far as a signature mismatch::
 .. _atmega128 development board: http://eecs.oregonstate.edu/education/courses/ece375/
 .. _Olimex AVR-ISP-MK2: https://www.olimex.com/Products/AVR/Programmers/AVR-ISP-MK2/open-source-hardware
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: school, arduino, troubleshooting
 .. comments::

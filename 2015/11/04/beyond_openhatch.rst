@@ -68,7 +68,7 @@ me) with a link, and I'll add it here if it looks good!
 .. _slide deck: http://www.joshmatthews.net/fsoss15/
 .. _up-for-grabs: http://up-for-grabs.net/
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: foss, rust
 .. comments::

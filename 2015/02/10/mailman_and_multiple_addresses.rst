@@ -70,7 +70,7 @@ instance.
 
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: mailman, email
 .. comments::

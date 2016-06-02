@@ -194,7 +194,7 @@ intro and Q&A slides, so that viewers can find the slides easily.
 .. _slides repo: https://github.com/edunham/slides
 .. _Call To Speakers: http://calltospeakers.com/
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: speaking, conferences 
 .. comments::

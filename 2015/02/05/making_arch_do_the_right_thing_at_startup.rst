@@ -181,7 +181,7 @@ an improvement over my previous process.
 .. _ssh-agent tutorial: http://upc.lbl.gov/docs/user/sshagent.shtml
 .. _arch wiki: https://wiki.archlinux.org/index.php/SSH_keys#ssh-agent_as_a_wrapper_program
 .. _start X at login: https://wiki.archlinux.org/index.php/Start_X_at_login
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: arch, i3, terminator, solved
 .. comments::

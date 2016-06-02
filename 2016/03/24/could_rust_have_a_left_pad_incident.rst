@@ -72,7 +72,7 @@ as a joke, you should probably just use the `format! built-in
 <https://doc.rust-lang.org/std/fmt/index.html#fillalignment>`_ from the
 standard library.
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: rustlang, cargo
 .. comments::

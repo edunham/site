@@ -143,7 +143,7 @@ from after your fix to make sure no messages are failing both authenticity
 tests any more, and then increase the ``p`` setting to either ``quarantine``
 or ``reject`` by editing the TXT record.
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: dmarc, email
 .. comments::

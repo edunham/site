@@ -36,7 +36,7 @@ Alternately, stick the line::
 
 in your ``~/.i3/config``.
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: vidyo, ubuntu, i3
 .. comments::

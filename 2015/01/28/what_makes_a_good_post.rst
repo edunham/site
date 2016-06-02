@@ -65,7 +65,7 @@ calendars, be sure you provide the date, start and end times, and location.
 
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: foss, psychology, email
 .. comments::

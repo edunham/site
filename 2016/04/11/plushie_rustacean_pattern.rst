@@ -144,7 +144,7 @@ The Finished Product
 
 He's cute, cuddly, and palm-sized. Lego dude for scale.
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: rustlang, ferris, crafts
 .. comments::

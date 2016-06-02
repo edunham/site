@@ -101,7 +101,7 @@ Sources:
 * `linode pricing <https://www.linode.com/docs/platform/billing-and-payments>`_
 * `AWS specs <https://aws.amazon.com/ec2/instance-types/>`_
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: linode, aws
 .. comments::

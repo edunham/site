@@ -153,7 +153,7 @@ More LaTeX Tricks
 .. _here: http://resume.edunham.net/
 .. _WikiBooks article: http://en.wikibooks.org/wiki/LaTeX/Macros
 .. _Macros: http://en.wikibooks.org/wiki/LaTeX/Macros
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: resume, LaTeX
 .. comments::

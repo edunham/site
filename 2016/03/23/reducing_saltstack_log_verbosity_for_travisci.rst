@@ -65,7 +65,7 @@ There are a couple places you can set this:
 Setting the ``terse`` option in ``/etc/salt/minion`` dropped the output of a
 highstate from over 10,000 lines to about 2500.
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: saltstack, travisci
 .. comments::

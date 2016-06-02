@@ -25,7 +25,7 @@ before filling them out in Apache license texts.
 .. _embarrassing: https://github.com/rust-lang/regex/pull/117
 .. _mistake: https://github.com/rust-lang/regex/pull/118
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: none
 .. comments::

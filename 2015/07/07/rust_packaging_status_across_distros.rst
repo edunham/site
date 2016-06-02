@@ -197,7 +197,7 @@ Unstable package, and Seo informed me of `redhat bug #915043`_ as well.
 .. _vivid: http://packages.ubuntu.com/vivid/allpackages?format=txt.gz
 .. _youtube video: https://www.youtube.com/watch?v=_z1M0uHY4So
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: rustinfra, packaging 
 .. comments::

@@ -142,7 +142,7 @@ imagined public eye will push me to document my decisions better and adhere to
 higher standards of code quality. 
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: devops, mozilla
 .. comments::

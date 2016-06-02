@@ -39,7 +39,7 @@ you need to make sure you're in the right group::
 
 .. _stackoverflow: http://stackoverflow.com/questions/29294286/fata0000-get-http-var-run-docker-sock-v1-17-version-dial-unix-var-run-doc
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: docker
 .. comments::

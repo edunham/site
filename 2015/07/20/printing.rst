@@ -37,7 +37,7 @@ gone way too far down the wrong rabbit hole.
 
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: printers, arch, cups
 .. comments::

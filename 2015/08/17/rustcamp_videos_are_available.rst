@@ -9,7 +9,7 @@ I asked Gankro what was up with the milkshake thing in `his talk
 learned about `this meme
 <http://knowyourmeme.com/memes/i-drink-your-milkshake>`_.
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: rustinfra
 .. comments::

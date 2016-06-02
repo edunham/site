@@ -83,7 +83,7 @@ site), then write up a tutorial. For now, though, `it works okay`_.
 .. _National Novel Writing Month: http://nanowrimo.org/
 .. _for fun: http://www.419eater.com/
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: javascript, foss 
 .. tags:: none
 .. comments::

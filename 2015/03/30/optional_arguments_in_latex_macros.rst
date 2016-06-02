@@ -34,7 +34,7 @@ equal to a given integer.
 .. _LaTeX community forums: http://www.latex-community.org/forum/viewtopic.php?f=5&t=5976
 .. _before: http://edunham.net/2015/02/14/resume_improvement_with_latex_macros.html
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: LaTeX
 .. comments::

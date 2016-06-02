@@ -96,7 +96,7 @@ oddly styled but entirely legible pdf copy of the presentation's content.
 .. _a Sphinx issue: https://bitbucket.org/birkenfeld/sphinx/issue/999/create-pdf-using-rst2pdf
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: hieroglyph, sphinx, LaTeX
 .. comments::

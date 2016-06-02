@@ -32,7 +32,7 @@ has only the information in that document available to form a first impression
 of your character. Which of the 2 hypothetical coders does it make you sound
 like? Is that how you really are?
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: resume
 .. comments::

@@ -51,7 +51,7 @@ and using it immediately. This only adds a few characters to the one-liner::
 That's it!
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: irc, bash 
 .. comments::

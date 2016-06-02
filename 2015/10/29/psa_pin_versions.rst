@@ -34,7 +34,7 @@ jekyll``, it should have said ``- gem install jekyll -v 2.5.3``.
 
 .. _broke: https://travis-ci.org/rust-lang/rust-www/builds/88167123
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: jekyll, travisci, rustinfra
 .. comments::

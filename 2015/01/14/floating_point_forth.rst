@@ -170,7 +170,7 @@ spammers).
 .. _introduction: http://www.forth.com/starting-forth/sf1/sf1.html
 .. _github: https://github.com/edunham
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: school, cs480, forth, programming
 .. comments::

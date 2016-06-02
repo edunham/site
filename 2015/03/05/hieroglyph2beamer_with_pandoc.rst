@@ -220,7 +220,7 @@ relatively beautiful Beamer presentation!
 .. _resume: https://github.com/edunham/resume
 .. _Beamer: http://texdoc.net/texmf-dist/doc/latex/beamer/doc/beameruserguide.pdf
 .. _before: http://edunham.net/2015/02/24/making_a_pdf_of_hieroglyph_slides.html
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: pandoc, hieroglyph, sphinx, rst
 .. comments::

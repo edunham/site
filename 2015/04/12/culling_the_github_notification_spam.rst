@@ -88,7 +88,7 @@ notification emails by un-watching the repo that they came from.
 .. _notification settings: https://github.com/settings/notifications
 .. _filters list: https://mail.google.com/mail/u/0/#settings/filters
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: workflow, github
 .. comments::

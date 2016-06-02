@@ -30,7 +30,7 @@ requires third-party cookies at all? Who knows!
 .. _Air Mozilla: https://air.mozilla.org/
 .. _support article: https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: mozilla
 .. tags:: none
 .. comments::

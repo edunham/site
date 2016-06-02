@@ -32,7 +32,7 @@ kernel modules, and mplayer works now.
 
 .. _BlackArch: http://blackarch.org/
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: arch, mplayer
 .. comments::

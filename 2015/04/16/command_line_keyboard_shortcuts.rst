@@ -65,7 +65,7 @@ with ``:`` instead of your usualy ``$`` prompt.
 
 .. _How Linux Works: http://www.nostarch.com/howlinuxworks2
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: TIL, shell
 .. comments::

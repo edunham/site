@@ -42,7 +42,7 @@ considering that the documentation on how to do it is spread out over several
 different sources and buried in `comprehensive reference guides
 <http://docs.aws.amazon.com/cli/latest/index.html>`_. 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: aws, s3
 .. comments::

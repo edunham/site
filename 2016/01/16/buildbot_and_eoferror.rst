@@ -71,7 +71,7 @@ HttpStatusPush, giving you::
 The real moral of the story is "remember to use `logrotate
 <http://www.linuxcommand.org/man_pages/logrotate8.html>`_.
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: buildbot
 .. comments::

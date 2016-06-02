@@ -97,7 +97,7 @@ old broken stunnel killed, the stunnel starts successfully.
 .. _stunnel: https://www.stunnel.org/docs.html
 .. _wat: https://www.stunnel.org/docs.html
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: osx, stunnel, buildbot
 .. tags:: none
 .. comments::

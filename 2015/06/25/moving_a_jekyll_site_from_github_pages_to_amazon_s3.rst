@@ -153,7 +153,7 @@ In the settings for your CloudFront distribution, customize which error page
 gets returned for various HTTP response codes. 
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: travisci, ruby, aws, s3, cloudfront, github pages
 .. comments::

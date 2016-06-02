@@ -98,7 +98,7 @@ So then, on ``A``, I can ``ssh C`` and be forwarded through ``B``
 transparently. 
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: ssh
 .. comments::

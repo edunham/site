@@ -98,7 +98,7 @@ guide`_ contain all the necessary information.
 .. _irssi docs: http://irssi.org/beginner/
 .. _here: http://www.linux-noob.com/forums/index.php?/topic/2421-start-screen-irssi-on-boot/#entry11892
 .. _live patching: http://linux.slashdot.org/story/15/02/12/1853215/live-patching-now-available-for-linux
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: screen, irssi, digitalocean, irc
 .. comments::

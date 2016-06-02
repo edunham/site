@@ -81,7 +81,7 @@ on your system!
 .. _source: http://www.avr-asm-tutorial.net/gavrasm/v34/gavrasm_sources_lin_34.zip
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: arch, school
 .. comments::

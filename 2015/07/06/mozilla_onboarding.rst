@@ -206,7 +206,7 @@ optimal for my overall happiness.
 The Rust and Servo teams and communities have been incredibly welcoming to me,
 and they communicate in ways that I find easy to work with. 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: mozilla, interviews
 .. comments::

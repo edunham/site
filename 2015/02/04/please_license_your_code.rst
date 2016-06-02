@@ -51,7 +51,7 @@ internet, saying who they're for.
 .. _free software: https://www.gnu.org/philosophy/free-sw.html
 .. _open source: http://opensource.org/osd
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: foss 
 .. comments::

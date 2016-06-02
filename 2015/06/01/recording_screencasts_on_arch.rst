@@ -56,7 +56,7 @@ recordmydesktop``.
 .. _jack: http://jackaudio.org/
 .. _recordmydesktop: http://recordmydesktop.sourceforge.net/about.php
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: arch, audio, recordmydesktop
 .. comments::

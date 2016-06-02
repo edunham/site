@@ -73,7 +73,7 @@ This `Ubuntu Forums thread`_ discusses some options to solve those problems.
 .. _SSHFS: https://help.ubuntu.com/community/SSHFS 
 .. _a tutorial: https://www.howtoforge.com/mounting-remote-directories-with-sshfs-on-ubuntu-11.10
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: school, sshfs
 .. comments::

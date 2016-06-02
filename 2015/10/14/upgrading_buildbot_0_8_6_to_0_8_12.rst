@@ -55,7 +55,7 @@ That's it!
 Rust currently has these updates on the development buildmaster, but not yet
 (as of 10/14/2015) in prod.
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: buildbot 
 .. comments::

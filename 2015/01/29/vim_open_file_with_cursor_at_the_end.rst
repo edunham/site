@@ -150,7 +150,7 @@ or to put yourself in insert mode in a new line at the end of the file::
 .. _Modeline magic: http://vim.wikia.com/wiki/Modeline_magic
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: vim, troubleshooting, solved
 .. comments::

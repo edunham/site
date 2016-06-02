@@ -68,7 +68,7 @@ the order of the blocks of digits in the IP address, and add ``.in-addr.arpa``
 to the end. For instance, ``abc.def.ghi.jkl`` would become
 ``jkl.ghi.def.abc.in-addr.arpa``.
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: buildbot, dns
 .. comments::

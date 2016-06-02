@@ -75,7 +75,7 @@ List below the fold.
     #rust.fi
 
     
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: rustinfra
 .. comments::

@@ -143,7 +143,7 @@ Photo credits, in order:
 * https://www.flickr.com/photos/moonfish/3147269483
 * https://www.flickr.com/photos/chrissamuel/5480184535
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: kangaroos 
 .. comments::

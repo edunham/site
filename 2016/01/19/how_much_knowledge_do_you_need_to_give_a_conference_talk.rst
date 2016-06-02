@@ -67,7 +67,7 @@ ordinary chores.
 .. _Human Hacking: http://talks.edunham.net/scale13x/#1
 .. _lucyw: http://lucywyman.me/
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: conferences
 .. comments::

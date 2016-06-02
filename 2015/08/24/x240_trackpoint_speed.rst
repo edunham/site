@@ -25,7 +25,7 @@ If you're wondering why the configuration settings look like ordinary files
 but choke on values bigger or smaller than a short, go `read about sysfs
 <https://www.kernel.org/pub/linux/kernel/people/mochel/doc/papers/ols-2005/mochel.pdf>`_. 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: x240, trackpoint 
 .. comments::

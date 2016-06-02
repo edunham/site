@@ -29,7 +29,7 @@ However, it appears that build steps run as ``MasterShellCommand``s without
 ``WithProperties`` do not display their ``name`` in the waterfall, but rather
 say "running" or "ran".
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: buildbot
 .. comments::

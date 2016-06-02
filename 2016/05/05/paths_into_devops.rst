@@ -174,7 +174,7 @@ information in this post, either tell me about it or just throw a pull request
 at `the repo <https://github.com/edunham/site>`_ to fix it and give yourself
 credit.
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: resume, devops
 .. comments::

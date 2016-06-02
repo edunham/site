@@ -224,7 +224,7 @@ Read about `starting Irssi automatically when your VPS boots`_.
 .. _Freenode's directions: https://freenode.net/sasl/sasl-irssi.shtml
 .. _Irssi beginner docs: http://irssi.org/beginner/
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: irssi, irc 
 .. comments::

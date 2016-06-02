@@ -42,7 +42,7 @@ If you'd like to help improve the page, you can contribute to `gitstat`_ or
 .. _nightli.es: https://nightli.es/
 .. _eww: https://github.com/edunham/orglog/blob/master/out/forcepush.sh
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: gitstat, orglog, rustinfra, travisci 
 .. comments::

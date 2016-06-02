@@ -59,7 +59,7 @@ Finally, clean up after yourself to inconvenience any future attackers::
 Moral of the story: Errant chowns of ``/usr/bin`` are just as bad when they
 come from automation as when they come from humans.
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: osx, ansible
 .. comments::

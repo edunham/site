@@ -38,7 +38,7 @@ like::
     end
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: ansible, vagrant, git
 .. comments::

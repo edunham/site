@@ -510,7 +510,7 @@ because it exponentially increases the amount of typing involved, and if you
 read this far you're either a creepy stalker, thoroughly sick of hearing about
 my flailing at Ansible, or possibly both.
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: ansible
 .. comments::

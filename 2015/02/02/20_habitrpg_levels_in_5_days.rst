@@ -62,7 +62,7 @@ must be broken.
 .. _fun with HabitRPG: http://edunham.net/2015/02/01/habitrpg.html
 .. _this awesome site: https://oldgods.net/habitrpg/habitrpg_user_data_display.html
 .. _XP: http://habitrpg.wikia.com/wiki/Experience_Points
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: habitrpg
 .. comments::

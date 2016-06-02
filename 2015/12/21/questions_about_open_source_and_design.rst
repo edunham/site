@@ -50,7 +50,7 @@ Again, if you know of an open source project that's overcome any of these
 challenges, please email me at ``design@edunham.net`` and tell me about it!
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: design
 .. comments::

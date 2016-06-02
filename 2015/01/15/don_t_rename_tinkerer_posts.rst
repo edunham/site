@@ -53,7 +53,7 @@ that was obvious!", and then not written anything down.
 
 .. _sphinx-fu: http://www.catb.org/jargon/html/F/suffix-fu.html
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: tinkerer, troubleshooting 
 .. comments::

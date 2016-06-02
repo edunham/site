@@ -149,7 +149,7 @@ made the whole experience as seamless and easy as possible.
 .. _local Rust meetup: http://www.meetup.com/pdxrust/
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: speaking, mozilla, rustlang
 .. comments::

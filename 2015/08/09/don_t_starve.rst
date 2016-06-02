@@ -159,7 +159,7 @@ good reason for this, possibly related to the fact that I'm running on a
 64-bit system, but since the ``x64`` variant of the game runs just fine I
 didn't dig into the ``x32``'s malfunctions any deeper. 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: arch, games, troubleshooting
 .. comments::

@@ -127,7 +127,7 @@ stupid, but it works.
 
 Packing tape!
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: hardware, arch
 .. comments::

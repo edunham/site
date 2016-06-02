@@ -129,7 +129,7 @@ words) that I engaged in, but it'll help me target my speaking practice to
 avoid such problems at future conferences.  
 
 .. _Q&A app: https://github.com/edunham/Q-n-A
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: conferences 
 .. comments::

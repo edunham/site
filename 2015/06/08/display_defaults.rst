@@ -41,7 +41,7 @@ Yet I had to dig that knowledge out of the `forums
 and ``.xinitrc`` are all it takes. It was much easier than I expected. 
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: arch, arandr, xrandr
 .. comments::

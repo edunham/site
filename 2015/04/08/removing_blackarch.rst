@@ -52,7 +52,7 @@ time updates get installed.
 .. _strap.sh: http://blackarch.org/strap.sh
 .. _Blackarch: http://blackarch.org/
 .. _the Oregon CTF: http://oregonctf.org/
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: arch, blackarch
 .. comments::

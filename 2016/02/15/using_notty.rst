@@ -127,7 +127,7 @@ the project!
 .. _Cairo: http://cairographics.org/download/
 .. _This: https://github.com/withoutboats/notty/blob/master/src/datatypes/mod.rs#L160
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: rust, notty
 .. comments::

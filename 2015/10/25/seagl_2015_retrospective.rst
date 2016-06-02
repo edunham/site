@@ -23,7 +23,7 @@ already!" tool for keeping parts of a home directory in Git.
 .. _here: http://talks.edunham.net/seagl2015/
 .. _SeaGL: http://seagl.org/
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: conferences, talks, git 
 .. comments::

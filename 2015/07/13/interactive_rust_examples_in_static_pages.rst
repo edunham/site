@@ -88,7 +88,7 @@ teaching me about Firefox's developer tools.
 .. _Mythmon: http://www.mythmon.com/
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: rustinfra, tinkerer
 .. comments::

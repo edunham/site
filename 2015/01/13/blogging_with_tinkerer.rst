@@ -94,7 +94,7 @@ up in only a couple of hours, rather than fighting with an unfamiliar design
 paradigm. 
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: tinkerer, example
 .. comments::

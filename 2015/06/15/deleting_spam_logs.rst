@@ -69,7 +69,7 @@ contain the spam message::
 
 
 
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: irssi, bash
 .. comments::

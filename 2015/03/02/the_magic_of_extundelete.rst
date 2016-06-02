@@ -270,7 +270,7 @@ the ``.c`` files solely from their Vim swap files in this case.
 
 .. _Vim docs: http://vimdoc.sourceforge.net/htmldoc/recover.html
 .. _instructions: http://ubuntuforums.org/showthread.php?t=2113182
-.. author:: default
+.. author:: E. Dunham
 .. categories:: none
 .. tags:: cs480, extundelete, solved, vim
 .. comments::
