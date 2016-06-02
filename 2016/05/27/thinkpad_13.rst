@@ -34,7 +34,7 @@ Why the 13?
 I had a few hard requirements for my next personal laptop:
 
 * Trackpoint with buttons
-* Decent key travel (the X1 carbon has `1.86mm` and typing on it for too long
+* Decent key travel (the X1 carbon has `1.86mm`_ and typing on it for too long
   made my hands hurt)
 * USBC port
 * Under $1,000
@@ -42,7 +42,7 @@ I had a few hard requirements for my next personal laptop:
 Plus a few nice-to-haves:
 
 * Small and light are nice, including charger
-* Screen not much worse than 1920x2280px
+* Screen not much worse than 1920x1080 
 * Good battery life
 * Metal case and design for durability make me happy
 * My house is already full of Thinkpad chargers, so a laptop that uses them
@@ -88,6 +88,10 @@ Things I like about the 13
   accidentally moving cursor when clicking. 
 
 .. figure:: _static/13-button-bezel.jpg
+
+* Screen's the same as my X240, xrandr calls it 1920x1080 294mm x 165mm. This
+  fits 211 columns of a default font, or 127 columns of a font that's
+  comfortably legible when the laptop is on the other side of my desk.
 
 Nitpicks about the 13
 ---------------------
