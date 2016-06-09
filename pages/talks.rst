@@ -15,6 +15,7 @@ OSCON North America
 * **How To Learn Rust**, 5/19/2016
   |br| Abstract: http://conferences.oreilly.com/oscon/open-source-us/public/schedule/detail/49024
   |br| Slides PDF: http://talks.edunham.net/oscon2016/how-to-learn-rust.pdf
+  |br| Recording: https://archive.org/details/oscon2016-edunham-how-to-learn-rust
 
 * **Starting Rust from a Scripting Background**, 5/10/2016
   |br| O'Reilly Emerging Languages Webcast
