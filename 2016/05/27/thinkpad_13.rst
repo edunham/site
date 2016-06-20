@@ -42,7 +42,7 @@ I had a few hard requirements for my next personal laptop:
 Plus a few nice-to-haves:
 
 * Small and light are nice, including charger
-* Screen not much worse than 1920x1080 
+* Screen not much worse than 1920x1080
 * Good battery life
 * Metal case and design for durability make me happy
 * My house is already full of Thinkpad chargers, so a laptop that uses them
@@ -85,9 +85,9 @@ Things I like about the 13
   non-thought-provoking.
 
 * ~7mm plastic bezel between buttons and trackpad reduces likelihood of
-  accidentally moving cursor when clicking. 
+  accidentally moving cursor when clicking.
 
-.. figure:: _static/13-button-bezel.jpg
+.. figure:: /_static/13-button-bezel.jpg
 
 * Screen's the same as my X240, xrandr calls it 1920x1080 294mm x 165mm. This
   fits 211 columns of a default font, or 127 columns of a font that's
@@ -114,7 +114,7 @@ I've pushed it far enough. Holding it for 10 seconds only sometimes shuts the
 laptop off (though there's a reset switch on the mobo accessible by a
 paperclip-hole in the bottom panel which forces shutdown instantly when
 pushed). There's a circle on the pwoer button that looks like it might be an
-LED, but it never lights up. 
+LED, but it never lights up.
 
 * Cutesy font.
 
