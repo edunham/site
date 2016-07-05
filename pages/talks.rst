@@ -89,8 +89,8 @@ Southern California Linux Expo
   |br| Slides (ODP Download): http://talks.edunham.net/UpSCALE2016/edunham-wheres-the-cloud-UpSCALE2015-v0.3.odp
   |br| Video: https://www.youtube.com/watch?feature=player_detailpage&v=LPqqoOm8y5s#t=1381
 
-2015
-====
+2015 (11 talks, 7 events)
+=========================
 
 SeaGL
 -----
@@ -162,8 +162,8 @@ Southern California Linux Expo
   |br| Abstract: https://www.socallinuxexpo.org/scale/13x/presentations/human-hacking
   |br| Slides: http://talks.edunham.net/scale13x/#1
 
-2014
-====
+2014 (8 talks, 5 events)
+========================
 
 Seattle Gnu/Linux Conference
 ----------------------------
