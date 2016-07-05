@@ -10,12 +10,21 @@ DevOpsDays PDX
 * **DevOpsing Your Resume** (5-minute Ignite talk), 8/10/2016
   |br| Program: http://www.devopsdays.org/events/2016-portland/program/
 
+
 CodeConf LA
 -----------
 
-* **Rust's Community Automation**, 6/28/2016
+* **Rust's Community Automation** (20-minute keynote-style session), 6/28/2016
   |br| Program (archived): https://web.archive.org/web/20160705221035/http://codeconf.com
   |br| Slides PDF: http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf
+
+
+Mozilla London All Hands
+------------------------
+
+* **Community Contribution Models for the Servo and Rust Projects**, 10-minute Research lightning talk, 6/16/2016
+  |br| Slides PDF: http://talks.edunham.net/mozlondon2016/edunham-mozlondon2016.pdf
+
 
 OSCON North America
 -------------------
