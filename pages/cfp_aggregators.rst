@@ -18,3 +18,4 @@ Mailing lists with CFPs
 * http://sreweekly.com
 * http://www.devopsweekly.com/
 * https://thecfpreport.com/
+* https://lwn.net/
