@@ -4,6 +4,12 @@ Talks
 2016
 ====
 
+AutomaCon 2.0
+-------------
+
+* **Rust's Community Automation** (10-minute lightning talk)
+
+
 DevOpsDays PDX
 --------------
 
