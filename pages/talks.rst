@@ -1,8 +1,21 @@
 Talks
 =====
 
+2017
+====
+
+Linux.conf.au
+=============
+
+* **Rust 101** (Tutorial)
+
 2016
 ====
+
+PyDX
+----
+
+* **Servo: Behind The Scenes**
 
 AutomaCon 2.0
 -------------
