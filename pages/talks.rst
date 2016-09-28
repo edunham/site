@@ -15,13 +15,22 @@ Linux.conf.au
 PyDX
 ----
 
-* **Servo: Behind The Scenes**
+* **Servo: Behind The Scenes**, 10/2/2016
+
+OSU DevOps DayCamp
+------------------
+
+* **Industry panel** (panelist), 10/1/2016
+  |br| Link: http://devopsbootcamp.osuosl.org/daycamp/#industry-panel
+
 
 AutomaCon 2.0
 -------------
 
-* **Rust's Community Automation** (10-minute lightning talk)
-
+* **Rust's Community Automation** (10-minute lightning talk), 9/27/2016
+  |br| Slides: http://talks.edunham.net/automacon2/
+  |br| Abstract: http://www.automacon.io/presentation/e-dunham/
+  |br| Blog version: http://edunham.net/2016/09/27/rust_s_community_automation.html
 
 DevOpsDays PDX
 --------------
