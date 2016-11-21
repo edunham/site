@@ -24,12 +24,17 @@ OSU DevOps DayCamp
   |br| Link: http://devopsbootcamp.osuosl.org/daycamp/#industry-panel
 
 
+OSU DevOps DayCamp
+------------------
+
+* Industry panelist
+
 AutomaCon 2.0
 -------------
 
 * **Rust's Community Automation** (10-minute lightning talk), 9/27/2016
-  |br| Slides: http://talks.edunham.net/automacon2/
   |br| Abstract: http://www.automacon.io/presentation/e-dunham/
+  |br| Slides: http://talks.edunham.net/automacon2/
   |br| Blog version: http://edunham.net/2016/09/27/rust_s_community_automation.html
 
 DevOpsDays PDX
