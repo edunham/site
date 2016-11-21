@@ -12,6 +12,17 @@ Linux.conf.au
 2016
 ====
 
+SeaGL
+-----
+
+* **Your Resume Is Code**, 11/11/2016
+  |br| Abstract: https://osem.seagl.org/conference/seagl2016/program/proposal/198
+  |br| Slides: http://talks.edunham.net/seagl2016/resume/slides.pdf
+
+* **Servo's Infrastructure: Building Tomorrow's Browser Engine**, 11/12/2016
+  |br| Abstract: https://osem.seagl.org/conference/seagl2016/program/proposal/194
+  |br| Slides: http://talks.edunham.net/seagl2016/servo/ (view them in Servo!)
+
 PyDX
 ----
 
