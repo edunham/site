@@ -4,10 +4,21 @@ Talks
 2017
 ====
 
+Southern California Linux Expo
+------------------------------
+
+* **Starting Rust from a Scripting Background**
+  |br| Abstract: https://www.socallinuxexpo.org/scale/15x/presentations/starting-rust-scripting-background
+
+* **The Servo Browser Engine's Open Infrastructure**, Open Infra Day talk
+
 Linux.conf.au
-=============
+-------------
 
 * **Rust 101** (Tutorial)
+  |br| Abstract: https://linux.conf.au/schedule/presentation/15/
+  |br| Slides: http://talks.edunham.net/lca2017/rust101.pdf
+  |br| Recording: https://www.youtube.com/watch?v=FMqydRampuo
 
 2016
 ====
@@ -27,6 +38,10 @@ PyDX
 ----
 
 * **Servo: Behind The Scenes**, 10/2/2016
+  |br| Abstract: http://blog.pydx.org/talk-list/#servobehindthescenes
+  |br| Slides: http://talks.edunham.net/pydx/
+  |br| Recording: http://pyvideo.org/pydx-2016/servo-behind-the-scenes.html
+
 
 OSU DevOps DayCamp
 ------------------
