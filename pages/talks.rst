@@ -20,8 +20,8 @@ Linux.conf.au
   |br| Slides: http://talks.edunham.net/lca2017/rust101.pdf
   |br| Recording: https://www.youtube.com/watch?v=FMqydRampuo
 
-2016
-====
+2016 (18 talks, 14 events)
+==========================
 
 SeaGL
 -----
@@ -48,12 +48,6 @@ OSU DevOps DayCamp
 
 * **Industry panel** (panelist), 10/1/2016
   |br| Link: http://devopsbootcamp.osuosl.org/daycamp/#industry-panel
-
-
-OSU DevOps DayCamp
-------------------
-
-* Industry panelist
 
 AutomaCon 2.0
 -------------
