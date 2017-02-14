@@ -54,4 +54,11 @@ Oregon State University Linux Users Group blog
 * `How to run an Installfest <http://lug.oregonstate.edu/blog/installfest/>`_
 * `How to write a guide <http://lug.oregonstate.edu/blog/metaguide/>`_
 
+Citations
+---------
+
+* Rust's Community Automation talk/blog references show up in `LWN
+  <https://lwn.net/Articles/712308/>`_ and GitHub's `Open Source Guide
+  <https://opensource.guide/best-practices/#bring-in-the-robots>`_
+
 .. _amateur electrical and mechanical engineer: https://sites.google.com/site/engr421team4/final-product
