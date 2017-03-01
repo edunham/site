@@ -12,6 +12,14 @@ Southern California Linux Expo
 
 * **The Servo Browser Engine's Open Infrastructure**, Open Infra Day talk
 
+PDX DevOps Users Group
+----------------------
+
+* **Automating more of the things** 2/27/2017
+  |br| Abstract: http://calagator.org/events/1250471202
+  |br| Slides: http://talks.edunham.net/pdxdevops2017/pdxdevops2017.pdf
+
+
 Linux.conf.au
 -------------
 
