@@ -7,10 +7,19 @@ Talks
 Southern California Linux Expo
 ------------------------------
 
-* **Starting Rust from a Scripting Background**
+* **Starting Rust from a Scripting Background**, 3/5/2017
   |br| Abstract: https://www.socallinuxexpo.org/scale/15x/presentations/starting-rust-scripting-background
+  |br| Slides: http://talks.edunham.net/scale15x/slides.pdf
 
-* **The Servo Browser Engine's Open Infrastructure**, Open Infra Day talk
+
+* **The Servo Browser Engine's Open Infrastructure**, Open Infra Day talk, 3/2/2017
+  |br| Abstract: http://scale.opensourceinfra.org/talks/edunham_servo.html
+  |br| Slides: http://talks.edunham.net/openinfra2017/
+
+* **CS Skills They Don't Teach In School**, UpScale (Ignite-style) talk, 3/4/2017
+  |br| Abstract: https://www.socallinuxexpo.org/scale/15x/upscale
+  |br| Slides: http://talks.edunham.net/UpSCALE2017/UPSCALE2017.pdf
+  |br| Transcript: http://talks.edunham.net/UpSCALE2017/notes-1page.pdf
 
 PDX DevOps Users Group
 ----------------------
