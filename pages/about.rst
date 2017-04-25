@@ -25,6 +25,10 @@ founded the OSL's `Devops BootCamp <http://devopsbootcamp.osuosl.org/>`_
 sysadmin training program during the 2013-2014 school year and mentored its
 new student leaders in 2014-2015.
 
+I'm an omnivore with no known food allergies. Pronouns are usually easy to
+avoid, but when they're necessary, I use whichever seem most convenient and
+least distracting for the given context.
+
 Web Presence
 ------------
 
@@ -40,10 +44,8 @@ Web Presence
 Publications
 ------------
 
-opensource.com
+Assorted articles on opensource.com (`opensource.com author page <https://opensource.com/users/edunham>`_)
 
-* `How to add open source to your resume <https://opensource.com/business/16/2/add-open-source-to-your-resume>`_, Feb 2016
-* `Leveraging the power of academia in your open source project <https://opensource.com/education/15/3/attracting-students-to-open-source>`_, March 2016
 
 Oregon State University Linux Users Group blog
 
