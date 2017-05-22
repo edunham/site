@@ -4,6 +4,20 @@ Talks
 2017
 ====
 
+Portland Python Meetup
+----------------------
+
+* **Servo: Behind The Scenes**, 5/25/2017
+  |br| Abstract: https://www.meetup.com/pdxpython/events/236854731/
+
+RustFest Kyiv
+-------------
+
+* **Spreading Rust** (closing keynote), 4/30/2017
+  |br| Slides: http://talks.edunham.net/rustfest2017/spreading-rust.pdf
+  |br| Text version of slides: http://talks.edunham.net/rustfest2017/spreading-rust-text-version-of-slides.txt
+  |br| Video: https://www.youtube.com/watch?v=dS9fIphTJfM
+
 Southern California Linux Expo
 ------------------------------
 
