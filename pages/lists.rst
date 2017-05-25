@@ -40,6 +40,11 @@ Do Some Open Source
 * Apply `the security checklist <https://securitychecklist.org/>`_ to some infrastructure
 * I maintain a list of `issue aggregators <http://edunham.net/pages/issue_aggregators.html>`_
 
+FOSS community tooling
+----------------------
+
+* https://github.com/showcases/tools-for-open-source
+
 
 Study Something Useful
 ----------------------
