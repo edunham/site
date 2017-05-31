@@ -36,6 +36,14 @@ Alternately, stick the line::
 
 in your ``~/.i3/config``.
 
+Installing Vidyo despite the libqt4-gui error
+---------------------------------------------
+
+Edited as of May 2017: Recent Vidyos depend on a package that's not available
+in Ubuntu's repos. The easiest workaround is::
+
+    sudo dpkg -i --ignore-depends=libqt4-gui path/to/VidyoInstaller.deb
+
 .. author:: E. Dunham
 .. categories:: none
 .. tags:: vidyo, ubuntu, i3
