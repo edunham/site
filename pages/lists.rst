@@ -82,3 +82,9 @@ IRC/communication:
 * `tuxfamily <https://tuxfamily.org/en/about>`_
 * `firrre <https://firrre.com/>`_
 * `Matrix Vector <http://matrix.org/docs/projects/client/vector.html>`_
+
+Things Like Kerning
+-------------------
+
+* `dead butterflies <http://emilydamstra.com/news/please-enough-dead-butterflies/>`_
+* `keming <https://www.explainxkcd.com/wiki/index.php/1015:_Kerning>`_
