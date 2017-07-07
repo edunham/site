@@ -147,14 +147,14 @@ track.  It's most anonymous to produce every piece of information under a
 different throwaway identity, and least anonymous to produce everything under
 a single identity even if it's made up.
 
-Producing information psuedonymously is when you use a fake name and
+Producing information pseudonymously is when you use a fake name and
 biography, but otherwise go about the internet as the same person from day to
-day. The technical mechanics of producing a single psuedonymous post are
+day. The technical mechanics of producing a single pseudonymous post are
 identical to what I described for acting "anonymously", but I differentiate
 psyedonymity from anonymity in that the former is continuous -- you can form
 friendships with other humans under a psuedonym.
 
-The major hazard to a psuedonymous online presence is that if you aggregate
+The major hazard to a pseudonymous online presence is that if you aggregate
 enough details about your physical life under a single account, someone
 reading all those details might use them to figure out who you are offline.
 This is addressed by private forums and boards, which limit the number of
@@ -162,9 +162,9 @@ possible attackers who can see your posts, as well as by being careful of what
 information you disclose. Beware, however, that any software vulnerability in
 a private forum may mean its contents suddenly becomes public.
 
-In my opinion, psuedonymous identity is an excellent compromise between the
+In my opinion, pseudonymous identity is an excellent compromise between the
 social benefits of always being the same person, and physical safety from
-hypothetical attackers. I find that behaving psuedonymously rather than
+hypothetical attackers. I find that behaving pseudonymously rather than
 anonymously helps me build friendships with people whom I'm not sure at first
 whether to trust, while maintaining a sense of accountability for my
 reputation that's absent in strictly anonymous communication. But hey, I'm
