@@ -6,6 +6,8 @@ proofreading resumes. These friends are several years into their professional
 careers at this point, and I've found it really interesting to see what they
 include and exclude to make the best use of their resumes' space.
 
+.. more::
+
 No wasted space
 ---------------
 
