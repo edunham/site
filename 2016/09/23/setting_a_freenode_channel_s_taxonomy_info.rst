@@ -83,30 +83,16 @@ I've attempted to deduce the rules governing custom metadata items, because I
 couldn't find them documented anywhere.
 
 
-0) Issuing a ``set property`` command with a property name but no value deletes
-  the property, removing it from the taxonomy.
+0) Issuing a ``set property`` command with a property name but no value deletes the property, removing it from the taxonomy.
 
-1) A property is overwritten each time someone with the appropriate permissions
-  issues a ``/set`` command with a matching property name (more on the matching
-  in a moment). The property name and value are stored with the same
-  capitalization as the command issued.
+1) A property is overwritten each time someone with the appropriate permissions issues a ``/set`` command with a matching property name (more on the matching in a moment). The property name and value are stored with the same capitalization as the command issued.
 
-2) The algorithm which decides whether to overwrite an existing property or
-  create a new one is **not case sensitive**. So if you ``set ##test email
-  test@example.com`` and then ``set ##test EMAIL foo``, the final taxonomy will
-  show no field called ``email`` and one field called ``EMAIL`` with the value
-  ``foo``.
+2) The algorithm which decides whether to overwrite an existing property or create a new one is **not case sensitive**. So if you ``set ##test email test@example.com`` and then ``set ##test EMAIL foo``, the final taxonomy will show no field called ``email`` and one field called ``EMAIL`` with the value ``foo``.
 
-3) When displayed, taxonomy items are sorted first in alphabetical order (case
-  insensitively), then by length. For instance, properties with the names ``a``,
-  ``AA``, and ``aAa`` would appear in that order, because the initial
-  alphebetization is case-insensitive.
+3) When displayed, taxonomy items are sorted first in alphabetical order (case insensitively), then by length. For instance, properties with the names ``a``, ``AA``, and ``aAa`` would appear in that order, because the initial alphebetization is case-insensitive.
 
 
-4) Attempting to place [mIRC color codes](http://www.mirc.com/colors.html) in the
-  property name results in the error "Parameters are too long. Aborting."
-
-  However, placing color codes in the value of a custom property works just fine.
+4) Attempting to place `mIRC color codes <http://www.mirc.com/colors.html>`_ in the property name results in the error "Parameters are too long.  Aborting." However, placing color codes in the value of a custom property works just fine.
 
 Other uses
 ----------
