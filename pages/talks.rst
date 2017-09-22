@@ -1,19 +1,42 @@
 Talks
 =====
 
+2018
+====
+
+Linux.conf.au
+-------------
+
+* **Should you rewrite in Rust?**, TBD
+
 2017
 ====
+
+GitHub Universe
+---------------
+
+* **Building a better browser engine on GitHub**, 10/12/2017
+  |br| Abstract: https://githubuniverse.com/program/#building-a-better-browser-engine-on-github
+
+SeaGL
+-----
+
+* **How To Learn Rust**, 10/06/2017
+  |br| Abstract: https://osem.seagl.org/conferences/seagl2017/program/proposals/378
+
+The gap here comes from pausing my constant stream of talk applications from
+December 2016 through July 2017.
 
 Portland Python Meetup
 ----------------------
 
-* **Servo: Behind The Scenes**, 5/25/2017
+* **Servo: Behind The Scenes**, 5/25/2017, invited
   |br| Abstract: https://www.meetup.com/pdxpython/events/236854731/
 
 RustFest Kyiv
 -------------
 
-* **Spreading Rust** (closing keynote), 4/30/2017
+* **Spreading Rust** (closing keynote), 4/30/2017, invited
   |br| Slides: http://talks.edunham.net/rustfest2017/spreading-rust.pdf
   |br| Text version of slides: http://talks.edunham.net/rustfest2017/spreading-rust-text-version-of-slides.txt
   |br| Video: https://www.youtube.com/watch?v=dS9fIphTJfM
@@ -38,7 +61,7 @@ Southern California Linux Expo
 PDX DevOps Users Group
 ----------------------
 
-* **Automating more of the things** 2/27/2017
+* **Automating more of the things** 2/27/2017, invited
   |br| Abstract: http://calagator.org/events/1250471202
   |br| Slides: http://talks.edunham.net/pdxdevops2017/pdxdevops2017.pdf
 
@@ -77,7 +100,7 @@ PyDX
 OSU DevOps DayCamp
 ------------------
 
-* **Industry panel** (panelist), 10/1/2016
+* **Industry panel** (panelist), 10/1/2016, invited
   |br| Link: http://devopsbootcamp.osuosl.org/daycamp/#industry-panel
 
 AutomaCon 2.0
@@ -106,7 +129,7 @@ CodeConf LA
 Mozilla London All Hands
 ------------------------
 
-* **Community Contribution Models for the Servo and Rust Projects**, 10-minute Research lightning talk, 6/16/2016
+* **Community Contribution Models for the Servo and Rust Projects**, 10-minute Research lightning talk, 6/16/2016, invited
   |br| Slides PDF: http://talks.edunham.net/mozlondon2016/edunham-mozlondon2016.pdf
 
 
