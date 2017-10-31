@@ -137,7 +137,7 @@ inconvenient to exercise your safety to produce information
 anonymously. By building better online tools and hosting options, we can
 extend this safety to more people who have internet access.
 
-Safety to Produce Information Psuedonymously
+Safety to Produce Information Pseudonymously
 ------------------------------------------
 
 An important thing to note about producing information anonymously is that if
@@ -152,7 +152,7 @@ biography, but otherwise go about the internet as the same person from day to
 day. The technical mechanics of producing a single pseudonymous post are
 identical to what I described for acting "anonymously", but I differentiate
 psyedonymity from anonymity in that the former is continuous -- you can form
-friendships with other humans under a psuedonym.
+friendships with other humans under a pseudonym.
 
 The major hazard to a pseudonymous online presence is that if you aggregate
 enough details about your physical life under a single account, someone
@@ -169,7 +169,7 @@ anonymously helps me build friendships with people whom I'm not sure at first
 whether to trust, while maintaining a sense of accountability for my
 reputation that's absent in strictly anonymous communication. But hey, I'm
 biased -- you probably don't know my full name or home address from my web
-presence, so I'm on the psuedonymity spectrum too.
+presence, so I'm on the pseudonymity spectrum too.
 
 Safety to Produce Information with Accurate Attribution
 -----------------------------------------------------
@@ -220,13 +220,13 @@ work isn't optimal, but it is difficult to feel that your physical or social
 wellbeing is jeopardized by someone when they have no idea who you are. This
 is why I believe that the safety to produce information anonymously is so
 important: It uses software to change the outcome even in circumstances where
-the attacker's behavior cannot be modified. Perfect psuedonymity also breaks
+the attacker's behavior cannot be modified. Perfect pseudonymity also breaks
 this link, but any software mishap or accidental over-sharing can invalidate
 it instantly. The link is broken with fewer potential points of failure by
 creating content anonymously.
 
 The third solution is what I alluded to when discussing the safety of
-psuedonymity: Prevent the attacker from viewing the content.
+pseudonymity: Prevent the attacker from viewing the content.
 This is what private, interest-specific forums accomplish reasonably well.
 There are hazards here, especially if a forum's contents become public
 unintentionally, or if a dedicated attacker masquerades as a member of the
