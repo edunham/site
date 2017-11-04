@@ -12,6 +12,13 @@ Linux.conf.au
 2017
 ====
 
+OSU DevOps DayCamp
+------------------
+
+* **Industry panel** (panelist), 11/04/2017, invited
+  |br| Link: https://web.archive.org/web/20171104165844/http://devopsbootcamp.osuosl.org/daycamp/
+
+
 GitHub Universe
 ---------------
 
@@ -46,7 +53,7 @@ Southern California Linux Expo
 
 * **Starting Rust from a Scripting Background**, 3/5/2017
   |br| Abstract: https://www.socallinuxexpo.org/scale/15x/presentations/starting-rust-scripting-background
-  |br| Slides: http://talks.edunham.net/scale15x/slides.pdf
+  br| Slides: http://talks.edunham.net/scale15x/slides.pdf
 
 
 * **The Servo Browser Engine's Open Infrastructure**, Open Infra Day talk, 3/2/2017
