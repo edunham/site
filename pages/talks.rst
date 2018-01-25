@@ -7,10 +7,12 @@ Talks
 Linux.conf.au
 -------------
 
-* **Should you rewrite in Rust?**, TBD
+* **Should you rewrite in Rust?**, Jan 24 2018
 
-2017
-====
+* **You Should Speak**, Jan 26 2018
+
+2017 (9 talks, 7 events)
+========================
 
 OSU DevOps DayCamp
 ------------------
