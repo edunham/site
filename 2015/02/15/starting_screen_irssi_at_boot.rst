@@ -3,14 +3,15 @@ Starting screen+irssi at boot
 
 Installing security updates isn't always enough to apply them; you have to
 reboot from time to time if you want the benefit of any kernel upgrades that
-don't use `live patching`_. 
+don't use `live patching`_.
 
-There's also a small chance that my hosting provider might reboot my VPS
-unexpectedly (though I've never had that happen in almost a year of using
-DigitalOcean). 
+There's also a small chance that my hosting provider might reboot my VPS. This
+has only happened once so far, as part of the Spectre/Meltdown mitigation in
+early 2018. After that reboot, my IRC setup came back to life without any
+problems as a result of the configuration that I documented in this post.
 
 In both cases, I would like my IRC client to get back online as soon as it can
-after reboot. 
+after reboot.
 
 .. more::
 
@@ -25,7 +26,7 @@ settings::
     screen -dmS irc bash -c '/usr/bin/irssi'
 
 The first line of the script tells your system to run it with bash. The screen
-command says: 
+command says:
 
 * ``-dm`` tells screen to start in detached mode.
 * ``-S irc`` means that the session will be named ``irc``, which is hard-coded
@@ -38,28 +39,28 @@ value for ``username``::
 
     su - username -c "/home/username/startscreen.sh"
 
-Leave ``exit 0`` as the last line in the file. 
+Leave ``exit 0`` as the last line in the file.
 
 ``rc.local`` is automatically run at the end of each multiuser runlevel, which
-makes it useful for starting programs at boot. 
+makes it useful for starting programs at boot.
 
 Without Root
 ------------
 
 Let's say that you want to get the above behavior on a system to which you do
-not have root access. 
+not have root access.
 
 Hypothetically, one should be able to just drop the line ``@reboot
 /usr/bin/screen -dmS irc -c "/usr/bin/irssi"``  or ``@reboot
 /home/username/startscreen.sh`` into one's crontab (``crontab -e``), where it
 would be executed at startup. This works for most scripts, but screen doesn't
-like to start when it's not attached to a terminal. 
+like to start when it's not attached to a terminal.
 
 The most common workaround for this, in an *"if it's stupid but it works, it's
 not stupid"* kind of way, is to SSH to localhost and then start screen.
 Fortunately, a helpful user named znx typed up the instructions for that
 process `here`_. Here's a summary, if you're on a new install with no
-authorized keys set yet:: 
+authorized keys set yet::
 
     $ ssh-keygen # accept all defaults
     $ cp ~/.ssh/id_rsa.pub ~/.ssh/authorized_keys
@@ -78,19 +79,19 @@ With systemd
 ------------
 
 Check out `mythmon's writeup`_ with how to make your own systemd services and
-configure them to run automatically. 
+configure them to run automatically.
 
 I haven't tried this yet myself, but I expect that any problems repeating it
 with screen would be most likely to happen when trying to start a detached
 screen without a terminal, and could be circumvented by the ssh-to-localhost
-method described above. 
+method described above.
 
 What next?
 ----------
 
 Having Irssi running is cool, but only really useful if it's connected to
 the right newtorks and channels. The `irssi docs`_ and `freenode sasl
-guide`_ contain all the necessary information. 
+guide`_ contain all the necessary information.
 
 
 .. _mythmon's writeup: http://www.mythmon.com/posts/2015-02-15-systemd-weechat.html
