@@ -13,6 +13,8 @@ on:
 
 And then, 5 minutes later, everybody gets back to work. But do they really?
 
+.. more::
+
 Problems with in-person standups
 --------------------------------
 

@@ -5,6 +5,8 @@ I saw an excellent question get some excellent infosec advice on IRC recently.
 I'm quoting the discussion here because I expect that I'll want to reference
 it when answering others' questions in the future.
 
+.. more::
+
 A user going by ``Dagnabit`` asked:
 
     May I borrow some advice specifically on how best to store an ecryption key? I
