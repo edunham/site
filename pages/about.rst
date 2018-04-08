@@ -63,4 +63,19 @@ Citations
   <https://lwn.net/Articles/712308/>`_ and GitHub's `Open Source Guide
   <https://opensource.guide/best-practices/#bring-in-the-robots>`_
 
+Impostors
+=========
+
+There are some people on the internet who use names or usernames similar to
+mine, but are not me:
+
+* Whoever got their account `edunham <https://twitter.com/edunham>`_ suspended  on Twitter. I am `qedunham on Twitter <https://twitter.com/qedunham>`_.
+* Whoever holds ``edunham@gmail.com``. I have never used that gmail address and yet people send cc stuff meant for me to it. Please don't.
+* `Ethan Dunham on LinkedIn <https://www.linkedin.com/in/edunham/>`_ is not me. I am `qedunham on LinkedIn <https://www.linkedin.com/in/qedunham/>`_
+* `Emily Dunham on Devpost <https://devpost.com/edunham>`_ is not me. I do not have a Devpost account.
+* `Elsie Dunham on Instagram <https://www.instagram.com/edunham/>`_ is not me. I do not have an active Instagram account.
+
+Please do not contact any of these people when attempting to contact me.
+
+
 .. _amateur electrical and mechanical engineer: https://sites.google.com/site/engr421team4/final-product
