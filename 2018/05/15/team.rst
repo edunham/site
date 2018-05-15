@@ -13,7 +13,7 @@ expectations and keeps the team membership experience great for everyone.
 Nota bene: This post talks about feelings and opinions. They are mine and not
 meant to represent anybody else’s.
 
-.. break::
+.. more::
 
 Why join a team?
 ----------------
