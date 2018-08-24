@@ -246,9 +246,6 @@ and after my old role… and of course, the skill emphases that have been
 important to me in picking the right place to go next.
 
 .. image:: image.png
-   :height: 100px
-   :width: 200 px
-   :scale: 50 %
    :alt: Net chart illustrating skill gaps filled in by emphases of new role
    :align: center
 
