@@ -7,9 +7,11 @@ lucks into this kind of process like I did, I’d like to write a bit about what
 I’ve learned in case it offers some reader a useful new framework for thinking
 about their skills and career growth.
 
-Tl;dr: I’m moving from Research to Cloud Ops within Mozilla. The following
+**Tl;dr:** I’m moving from Research to Cloud Ops within Mozilla. The following
 wall of text and silly picture are a brain dump of new ideas about skills and
 career growth that I’ve built through the process.
+
+.. more::
 
 Managers as Mentors
 -------------------
