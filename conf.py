@@ -11,7 +11,7 @@ import tinkerer.paths
 project = 'edunham'
 
 # Change this to the tagline of your blog
-tagline = 'is a "DevOps" Engineer at Mozilla Research'
+tagline = 'Sysadmin/DevOps at Mozilla'
 
 # Change this to the description of your blog
 description = 'Wherein I record things I wish I\'d known earlier'
@@ -20,7 +20,7 @@ description = 'Wherein I record things I wish I\'d known earlier'
 author = 'E. Dunham'
 
 # Change this to your copyright string
-copyright = '2015, ' + author
+copyright = '2015-present ' + author
 
 # Change this to your blog root URL (required for RSS feed)
 website = 'http://edunham.net/'
@@ -46,7 +46,7 @@ html_theme_options = {}
 rss_service = None
 
 # Generate full posts for RSS feed even when using "read more"
-rss_generate_full_posts = True 
+rss_generate_full_posts = True
 
 # Number of blog posts per page
 posts_per_page = 100
