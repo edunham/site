@@ -24,6 +24,10 @@ The snippet that I've tested to meet these constraints is::
     if __file__ == "newproject":
         os.chdir("..")
 
+In code review, it was pointed out that this simplifies to a one-liner::
+
+    os.chdir(os.path.join(os.path.dirname(__file__), '..'))
+
 This will keep working right up until some malicious or misled individual
 moves the script to an entirely different location within the repository or
 filesystem and tries to run it from there.
