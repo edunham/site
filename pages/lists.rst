@@ -88,3 +88,8 @@ Things Like Kerning
 
 * `dead butterflies <http://emilydamstra.com/news/please-enough-dead-butterflies/>`_
 * `keming <https://www.explainxkcd.com/wiki/index.php/1015:_Kerning>`_
+
+Accessibility Things
+--------------------
+
+* `color codes for color blind <http://www.coloradd.net/code.asp>`_
