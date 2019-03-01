@@ -1,17 +1,74 @@
 Talks
 =====
 
-2018
+2019
 ====
+
+OSU Linux Users Group
+---------------------
+
+* **Rust 101**, Feb 26 2019
+  |br| Slides: http://talks.edunham.net/osulug/rust101-2019.pdf
+
+Linux.conf.au
+-------------
+
+* **You Should Speak**, (3-minute lightning talk), January 25 2019
+  |br| Slides: http://talks.edunham.net/lca2019/speak-3min-slides.pdf
+  |br| Text: http://talks.edunham.net/lca2019/speak-3min-words.txt
+
+* **Rust for IOT**, January 23 2019
+  |br| Abstract: https://linux.conf.au/schedule/presentation/119/
+  |br| Slides: http://talks.edunham.net/lca2019/rust-iot-slides-only.pdf
+  |br| Notes: http://talks.edunham.net/lca2019/rust-iot-notes-only.pdf
+  |br| Recording: https://www.youtube.com/watch?v=uCnnhMleoKA
+
+2018 (6 talks, 5 events)
+====
+
+KIWICON 2038
+------------
+
+* **Textile Hacking**, (full-day training with hands-on project and demos) November 14 2018
+  |br| Abstract: https://kiwicon.org/the-con/training/textile-hacking/
+  |br| Slides: http://talks.edunham.net/kiwicon2018/
+
+SeaGL
+-----
+
+* **Hack Your Clothes: Merging and Patching Textiles**, November 9 2018
+  |br| Abstract: https://osem.seagl.org/conferences/seagl2018/program/proposals/551
+  |br| Slides: http://talks.edunham.net/seagl2018/sewingtalk.pdf
+
+Toorcamp
+--------
+
+* **FABRICation**, (2-hour workshop) June 21 2018
+  |br| Abstract: https://frab.toorcon.net/en/toorcamp2018/public/events/41
+  |br| Slides: http://talks.edunham.net/toorcamp2018/sewing.pdf
+
+
+OSU Linux Users Group
+---------------------
+
+* **Starting Rust from a Scripting Background**, May 22 2018
+  |br| Slides: http://talks.edunham.net/osulug/rust101-2018.pdf
 
 Linux.conf.au
 -------------
 
 * **Should you rewrite in Rust?**, Jan 24 2018
+  |br| Abstract: https://rego.lca2018.org/schedule/presentation/98/
+  |br| Slides: http://talks.edunham.net/lca2018/should-you-rewrite-in-rust/beamer.pdf
+  |br| Recording: https://www.youtube.com/watch?v=6jqy-Dizd0I
 
 * **You Should Speak**, Jan 26 2018
+  |br| Abstract: https://rego.lca2018.org/schedule/presentation/178/
+  |br| Slides: http://talks.edunham.net/lca2018/speak/beamer.pdf
+  |br| Recording: https://www.youtube.com/watch?v=3QIQNcGnXes
 
-2017 (9 talks, 7 events)
+
+2017 (11 talks, 8 events)
 ========================
 
 OSU DevOps DayCamp
@@ -26,15 +83,21 @@ GitHub Universe
 
 * **Building a better browser engine on GitHub**, 10/12/2017
   |br| Abstract: https://githubuniverse.com/program/#building-a-better-browser-engine-on-github
+  |br| Slides:
 
 SeaGL
 -----
 
+* **Where's the Cloud?**, (lightning talk) 10/07/2018
+  |br| Slides: http://talks.edunham.net/seagl2017/wheres-the-cloud-seagl2017.pdf
+  |br| Words: http://talks.edunham.net/seagl2017/wheres-the-cloud-speaker-notes.txt
+
 * **How To Learn Rust**, 10/06/2017
   |br| Abstract: https://osem.seagl.org/conferences/seagl2017/program/proposals/378
+  |br| Slides: http://talks.edunham.net/seagl2017/how-to-learn-rust-seagl.pdf
 
-The gap here comes from pausing my constant stream of talk applications from
-December 2016 through July 2017.
+The gap here is because I didn't apply to conferences from December 2016
+through July 2017.
 
 Portland Python Meetup
 ----------------------
