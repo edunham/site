@@ -1,6 +1,9 @@
 Slacking from Irssi
 ===================
 
+UPDATE: SLACK DECIDED THIS SHOULD NO LONGER BE POSSIBLE AND IT WILL NOT WORK
+ANY MORE
+
 My IRC client helps me work efficiently and minimize distraction. Over the
 years, I've configured it to behave exactly how I want: Notifying me when
 topics I care about are under discussion, and equally as important, refraining
