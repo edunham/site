@@ -10,6 +10,8 @@ such docs has been an internal wiki or their own READMEs.
 This change of ecosystem has caused me to spend more time addressing a
 different kind of error: Those which one really can't just Google.
 
+.. more::
+
 Sometimes, especially if it's something that worked fine on another system and
 is mysteriously not working any more, the problem can be forehead-slappingly
 obvious in retrospect. Here are some general steps to catch an "oops, that was
