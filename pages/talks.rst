@@ -68,8 +68,14 @@ Linux.conf.au
   |br| Recording: https://www.youtube.com/watch?v=3QIQNcGnXes
 
 
-2017 (11 talks, 8 events)
+2017 (12 talks, 9 events)
 ========================
+
+Mozilla DevOps Cohort
+---------------------
+
+* **Servo DevOps**, 12/01/2017
+  |br| Recording: https://vreplay.mozilla.com/replay/showRecordingExternal.html?key=Mk3tXqiDoy2lCxN
 
 OSU DevOps DayCamp
 ------------------
