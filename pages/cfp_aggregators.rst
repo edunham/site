@@ -9,6 +9,7 @@ Am I missing something? `Add it!  <https://github.com/edunham/site/edit/master/p
 * http://devopsconferences.org/
 * https://opensource.com/resources/conferences-and-events-monthly Calendar
   which sometimes has CFPs
+* https://www.cfpland.com
 
 
 Mailing lists with CFPs
