@@ -50,6 +50,7 @@ Leave it folded over, we'll get right back to it. Guesstimate the height that a 
 .. figure:: /_static/hat/six.jpg
 
 Back on the piece we folded over, put down the measurement so we make sure not to cut the hat too short. That measurement tells you roughly where to draw a curvy triangle on the folded fabric, just like this: 
+
 .. figure:: /_static/hat/seven.jpg
 
 Now cut it out. Make sure not to cut off that folded edge. Like this: 
