@@ -12,7 +12,7 @@ To generalize about how mentors' careers affect what they can mentor me on, I've
 up a quick figure in order to name some possible situations that people can be in relative
 to one another: 
 
-.. image:: places_to_find_mentors.png
+.. image:: _static/places_to_find_mentors.png
 
 The first couple cases of mentorship are easy to describe, because I've experienced and
 thought about them for many years already: 
