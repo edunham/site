@@ -8,6 +8,8 @@ the new team going?" conversation with many old and new friends, and that
 repetition helped me reify some ideas about what I really meant by "I'd like
 better mentorship". 
 
+.. more:: 
+
 To generalize about how mentors' careers affect what they can mentor me on, I've sketched
 up a quick figure in order to name some possible situations that people can be in relative
 to one another: 
