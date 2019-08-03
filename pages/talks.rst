@@ -4,10 +4,24 @@ Talks
 2019
 ====
 
+PyCon Australia
+---------------
+
+* **You Should Speak**, (5-minute lightning talk), August 03 2019
+  |br| Slides: http://talks.edunham.net/pyconau2019
+
+DjangoCon Australia
+-------------------
+
+* **Rust's Recipes for Code and Community**, (opening keynote talk), August 02 2019
+  |br| Slides: http://talks.edunham.net/djangoconau2019/rustrecipes.pdf
+  |br| Abstract: https://web.archive.org/web/20190803025152/https://2019.pycon-au.org/talks/rust-s-recipes-for-code-and-community
+  |br| Recording: https://www.youtube.com/watch?v=TW7PxyrCBR0
+
 OSU Linux Users Group
 ---------------------
 
-* **Rust 101**, Feb 26 2019
+* **Rust 101**, February 26 2019
   |br| Slides: http://talks.edunham.net/osulug/rust101-2019.pdf
 
 Linux.conf.au
