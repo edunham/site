@@ -93,3 +93,8 @@ Accessibility Things
 --------------------
 
 * `color codes for color blind <http://www.coloradd.net/code.asp>`_
+
+Music Stuff
+-----------
+
+* `scale generating toy <https://scale-heaven.com/>`_
