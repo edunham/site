@@ -3,8 +3,9 @@ Deploying Gecko Try to Servo's Infrastructure
 
 As part of Oxidation and Quantum and probably some other projects that sound
 to someone who's never seen James Bond like they're code names for something Q
-built, Servo and Gecko are becoming somethign a bit like
-[this](https://vignette3.wikia.nocookie.net/steven-universe/images/1/15/Rutile.png/revision/latest/scale-to-width-down/393?cb=20170530234402).
+built, Servo and Gecko are becoming something a bit like
+`this
+<https://vignette3.wikia.nocookie.net/steven-universe/images/1/15/Rutile.png/revision/latest/scale-to-width-down/393?cb=20170530234402>`_.
 
 Manish wrote [servo-gecko-try](https://github.com/Manishearth/servo-gecko-try)
 to forward Servo pull requests to Gecko's try build infrastructure.
@@ -122,6 +123,15 @@ Now we've stated to Salt how to make the Git clone.
 Clone the mercurial repos
 -------------------------
 
+Installing Mercurial on the host will help with the ensuing commands::
+
+    hg:
+      pkg.installed:
+        - version: 3.7.3
+
+Pinning the version is better than letting some arbitrary future highstate
+accidentally upgrade it.
+
 Fortunately, Salt has `hg support
 <https://docs.saltstack.com/en/latest/ref/states/all/salt.states.hg.html>`_,
 so grabbing the latest revision of the mercurial repos is almost identical to
@@ -172,14 +182,15 @@ that sticks the file onto the filesystem of the managed host::
 Give the user its keypair for pushing to try
 --------------------------------------------
 
-Salt's `ssh_auth state
-<https://docs.saltstack.com/en/latest/ref/states/all/salt.states.ssh_auth.html>`_
-only manages public keys, so we'll manage the private key just like any other
-file full of secret data.
+Salt supports the ``sshauth.present`` state for "ssh key management", which
+actually only means managing public keys.
 
+Private keys must be managed as files from the pillar, as demonstrated in the
+``contents_pillar`` section of `file.managed
+<https://docs.saltstack.com/en/latest/ref/states/all/salt.states.file.html#salt.states.file.managed>`_
 
-    Give the user a keypair that lets it push to try. We got ours at
-https://bugzilla.mozilla.org/show_bug.cgi?id=1347259
+Add Tests
+---------
 
 
 Run the app
