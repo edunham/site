@@ -3,6 +3,8 @@ Toy hypercube construction
 
 I think hypercubes are neat, so I tried to make one out of string to play with. In the process, I discovered that there are surprisingly many ways to fail to trace every edge of a drawing of a hypercube exactly once with a single continuous line. 
 
+.. more:: 
+
 This puzzle felt like the sort of problem that some nerd had probably solved before, so I searched the web and discovered that the shape I was trying to configure the string into is called an Eulerian Cycle.
 
 I learned that any graph in which every vertex attaches to an even number of edges has such a cycle, which is useful for my craft project because the euler cycle is literally the path that the string needs to take to make a model of the object represented by the graph. 
