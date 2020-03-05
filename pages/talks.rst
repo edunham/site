@@ -4,12 +4,6 @@ Talks
 2020
 ====
 
-SCaLE
------
-
-* **Workshop: Ansible 101**, (2-hour hands-on workshop), March 8 2020
-
-
 Mozilla All-Hands Berlin
 ------------------------
 
