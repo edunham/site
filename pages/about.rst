@@ -1,10 +1,25 @@
 About
 =====
 
+Contact info
+------------
+
+* I'm ``edunham`` on ``irc.freenode.net``.
+
+* ``edunham`` on `GitHub <https://github.com/edunham>`_.
+
+* `@QEDunham <https://twitter.com/qedunham>`_ on twitter.
+
+* ``qedunham`` on `LinkedIn <https://www.linkedin.com/in/qedunham>`_, though I ignore connection requests from strangers
+
+Bio
+---
+
 I'm a `FOSS <http://en.wikipedia.org/wiki/Free_and_open-source_software>`_
 enthusiast who dropped out of the Computer Science program at Oregon State
-University to take an amazing job as a DevOps Engineer for Mozilla Research in
-Portland, Oregon.
+University to take an amazing job as a DevOps Engineer for Mozilla Research 
+in 2015. After 3 years with Research and 2 on the CloudOps team, I left 
+Mozilla in May 2020 to pursue a Senior SRE role at PagerDuty.
 
 `FIRST <http://www3.usfirst.org/>`_ got me into robotics and programming back
 in 2006, and I've been an `amateur electrical and mechanical engineer`_ ever
@@ -28,18 +43,6 @@ new student leaders in 2014-2015.
 I'm an omnivore with no known food allergies. Pronouns are usually easy to
 avoid, but when they're necessary, I use whichever seem most convenient and
 least distracting for the given context.
-
-Web Presence
-------------
-
-* I'm ``edunham`` on ``irc.freenode.net`` and ``irc.mozilla.org``.
-
-* `@QEDunham <https://twitter.com/qedunham>`_ on twitter.
-
-* `GitHub <https://github.com/edunham>`_ for code and stuff.
-
-* `LinkedIn <https://www.linkedin.com/in/qedunham>`_ might be useful for determining
-  whether we know one another in real life.
 
 Publications
 ------------
