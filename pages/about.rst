@@ -4,13 +4,13 @@ About
 Contact info
 ------------
 
-* I'm ``edunham`` on ``irc.freenode.net``.
-
 * ``edunham`` on `GitHub <https://github.com/edunham>`_.
 
 * `@QEDunham <https://twitter.com/qedunham>`_ on twitter.
 
 * ``qedunham`` on `LinkedIn <https://www.linkedin.com/in/qedunham>`_, though I ignore connection requests from strangers
+
+* if I know you, feel free to message me for Signal or Discord contact info
 
 Bio
 ---
