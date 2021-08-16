@@ -1,6 +1,14 @@
 Talks
 =====
 
+2021
+====
+
+PagerDuty Connect
+
+* **SRE Panel**, (panelist), January 21 2021
+  |br| Website: https://web.archive.org/web/20210816202243/https://meet.pagerduty.com/connectjanuary
+
 2020
 ====
 
