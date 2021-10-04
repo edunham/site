@@ -11,7 +11,7 @@ import tinkerer.paths
 project = 'edunham'
 
 # Change this to the tagline of your blog
-tagline = 'Sysadmin/DevOps at Mozilla'
+tagline = 'Sysadmin/DevOps & Developer Advocate'
 
 # Change this to the description of your blog
 description = 'Wherein I record things I wish I\'d known earlier'
