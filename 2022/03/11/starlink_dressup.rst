@@ -88,7 +88,7 @@ As you'll notice in the numbers that I was getting in the above trials, sometime
     * - 125
       - 6
 
-I left it all out overnight, and the canvas tarp that I'd been using as a visula backdrop blew off of the fence so it was covering the dish. I made a video call on the connection with the canvas over the dish and didn't notice any subjective degradation of service compared to what I'm accustomed to getting from it. 
+I left it all out overnight, and the canvas tarp that I'd been using as a visual backdrop blew off of the fence so it was covering the dish. I made a video call on the connection with the canvas over the dish and didn't notice any subjective degradation of service compared to what I'm accustomed to getting from it. 
 
 Conclusions
 -----------
