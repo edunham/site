@@ -7,8 +7,8 @@ document from Spanish. Most of the concepts are similar enough that they'll be
 more helpful than a monolingual English speaker, but good guessing is not the
 same as fluency. 
 
-Since it was a problem with [good
-directions](https://support.microsoft.com/en-us/topic/-we-couldn-t-update-system-reserved-partition-error-installing-windows-10-46865f3f-37bb-4c51-c69f-07271b6672ac)
+Since it was a problem with `good
+directions <https://support.microsoft.com/en-us/topic/-we-couldn-t-update-system-reserved-partition-error-installing-windows-10-46865f3f-37bb-4c51-c69f-07271b6672ac>`_
 on how to fix it, the process mostly went smoothly. As I complained to a
 Windows admin friend afterwards, it was fine except all the slashes in paths
 were backwards, and I couldn't find the command prompt equivalent to Linux's
