@@ -10,12 +10,14 @@ I've been hand sewing quite a bit.
 
 .. more::
 
-I've been aware for some time that sewing with a thimble is Objectively Better
-than sewing without, but I somehow made it to adulthood without learning to use
-a thimble properly, let alone avoid losing one between setting a project down
-one month and picking it up again the next. I have DIY'd a lot of various
-leather thimbles over the years to try to sew with them, but the designs have
-been a hassle to assemble, unusable, or both. However, I have finally stumbled
+I've been aware for some time that sewing with a thimble is `Objectively Better
+<https://youtu.be/78nuLvUvloU?t=110>`_ than sewing without, but I somehow made
+it to adulthood without learning to use a thimble properly, let alone avoid
+losing one between setting a project down one month and picking it up again the
+next. I have DIY'd a lot of various leather thimbles over the years to try to
+sew with them, but the designs have been a hassle to assemble, non-functional,
+or both (sewing a leather thimble is a chicken and egg problem: you need one to
+make one without great inconvenience or pain). However, I have finally stumbled
 across a design that doesn't fail or annoy me in the ways that all the previous
 ones did. 
 
