@@ -17,7 +17,7 @@ Chain works great for the traction part of the shoe chains. I used a piece of fl
 
 I also tested plastic mardi gras beads instead of chain. They gave me more traction than an un-chained shoe, but the round beads tended to roll about and move out of position on the shoe. I had to adjust the mardi gras bead prototype several times while walking around, and I didn't have to adjust the chain one at all. If you're building shoe chains out of beads, you'll probably need to put more effort into getting them to stay where you want them. The nice thing about plastic beads is that, if you cross the string parts and twist them, you can easily attach any part of the strand to any other part. 
 
-figure:: /_static/shoechains.png
+.. figure:: /_static/shoechains.png
 
 All the usual disclaimers apply -- be safe, use common sense, don't sue me if this gives you an idea that gets you hurt. But if you do have to get from point A to point B on slippery ice, think about what resources you've got at your disposal for making that safer. 
 
