@@ -1,5 +1,5 @@
 +++
-title = "Buying Time"
+title = "Time Off, Time On"
 date = 2026-03-02
 path = "2026/03/02/sabbatical"
 
